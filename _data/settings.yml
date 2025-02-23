@@ -1,26 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Ashok Kumar
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Engineer + Product Designer + Data Scientist
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Ashok Kumar
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, I’m <strong>Ashok Kumar</strong>
+  bio: Loves to develop new product with added <strong>Artificial Intelligence</strong>. Visit my blog on <a href="https://robo.run.place/"> Data Science </a> where I share tutorials, free resources and projects.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: https://linkedin.com/in/delhiiitian # Add your Linkedin handle
+github: https://github.com/nextgencodes # Add your Github handle
+dribbble: https://dribbble.com/delhiiitian # Add your Dribbble handle
+instagram: https://instagram.com/delhiiitian # Add your Instagram handle
+pinterest: https://pinterest.com/delhiiitian # Add your Pinterest handle
 
 
 #-------------------------------
@@ -31,7 +31,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
