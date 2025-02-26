@@ -207,7 +207,7 @@
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
-    <a href="/" id="avatar" class="rounded-circle"><img src="https://chirpy-img.netlify.app/commons/avatar.jpg" width="112" height="112" alt="avatar" onerror="this.style.display='none'"></a>
+    <a href="/" id="avatar" class="rounded-circle"><img src="/assets/img/avatar.jpg" width="112" height="112" alt="avatar" onerror="this.style.display='none'"></a>
 
     <a class="site-title d-block" href="/">Darkgen</a>
     <p class="site-subtitle fst-italic mb-0">A Data Science Blog</p>
@@ -550,6 +550,7 @@
           <!-- panel -->
           <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
             <div class="access">
+              {# Conditionally include for non-resume pages #}
               <!-- Get 5 last posted/updated posts -->
 
 
@@ -718,6 +719,7 @@
   </section>
 
 
+            
             </div>
 
             

@@ -1,0 +1,15 @@
+<div class="skill-category">
+    <h4>{{ include.category.name }}</h4>
+    <ul>
+      {% for skill in include.category.skills %}
+        <li>
+          <span class="skill-name">{{ skill.name }}</span>
+          <span class="skill-level-bar">
+            {% assign level = skill.level | downcase %}
+            <span class="level-bar-fill level-{{ level }}"></span>
+            <span class="skill-level-text">{{ skill.level }}</span>
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>

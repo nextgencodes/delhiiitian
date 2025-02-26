@@ -8,12 +8,14 @@ designation: Data Scientist (Specialist)
 address: Jodhpur, India
 phone: "+91-9660402461"
 email: kashok@alum.iisc.ac.in
-linkedin: https://linkedin.com/in/delhiiitian
-linkedinText: linkedin.com/in/delhiiitian  #For cleaner display
 other_social:
+  - url: https://www.linkedin.com/in/delhiiitian
+    urlText: Linkedin
+    icon: fas fa-brands fa-linkedin
   - url: https://robo.run.place/
-    urlText: robo.run.place/ #For cleaner display
+    urlText: Datascience Blog #For cleaner display
     icon: fas fa-globe #Example, adjust as needed. Use Font Awesome.
+
 summary: >
   Innovative data scientist with 4 years of experience using machine learning to deliver impactful results. Strong foundation in big data analysis, statistical modeling, and predictive analytics. Proficient with Python, R, and cloud platforms (GCP/Azure). Experience in diverse areas like computer vision, time series forecasting, and process optimization. Strong understanding of model deployment and its challenges. I seek collaborative global data science projects where I can use my skills to solve real-world problems. Eager to drive innovation and achieve measurable results.
 education:

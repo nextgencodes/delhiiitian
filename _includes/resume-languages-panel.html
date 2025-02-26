@@ -1,0 +1,8 @@
+<div class="access">
+    <h3><i class="fas fa-globe"></i> Languages</h3>
+    {% for category in site.data.skills.categories %}
+      {% if category.name == "Languages" %}
+        {% include skills-chart.html category=category %}
+      {% endif %}
+    {% endfor %}
+  </div>
