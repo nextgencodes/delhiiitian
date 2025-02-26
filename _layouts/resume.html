@@ -1,8 +1,8 @@
 ---
 layout: default
 panel_includes:
-  - resume-skills-panel
-  - resume-languages-panel
+- resume-skills-panel
+- resume-languages-panel
 ---
 
 <div id="resume">
@@ -11,24 +11,59 @@ panel_includes:
       <h2><i class="fas fa-file-alt"></i> Resume Summary</h2>
       <p>{{ page.summary }}</p>
     </section>
-
+<!-- 
     <section class="resume-education-section">
       <h2><i class="fas fa-graduation-cap"></i> Education</h2>
       {% for edu in page.education %}
       <div class="resume-education-item">
-        <h3>{{ edu.institution }}</h3>
-        <p class="degree">{{ edu.degree }}</p>
-        <p class="dates">{{ edu.dates }}</p>
+        <div class="education-line">
+          <h3>{{ edu.institution }} </h3>
+          <span class="education-dates">({{ edu.dates }})</span>
+          <p class="degree">{{ edu.degree }}</p>
+        </div>
       </div>
       {% endfor %}
+    </section> -->
+
+    <section class="resume-education-section">
+      <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+      <div id="custom-timeline" class="pl-xl-3">
+        {% for item in page.education %}
+        {% assign current_name = item.dates %}
+    
+        {% if current_name != last_name %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        
+        <div class="timeline-year-item-container">  <!-- Container for year and education item -->
+          <time class="timeline-year-heading lead d-block">{{ current_name }}</time>
+          <div class="resume-education-item">
+            <div class="education-line">
+              <h3>{{ item.institution }} </h3>
+              <p class="degree">({{ item.degree }})</p>
+            </div>
+          </div>
+        </div>
+        {{ '<ul class="list-unstyled">' }}
+    
+          {% assign last_name = current_name %}
+          {% endif %}
+  
+    
+          {% if forloop.last %}
+        {% endif %}
+        {% endfor %}
+      </div>
     </section>
+
 
     <section class="resume-work-experience-section">
       <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
       {% for exp in page.experience %}
       <div class="resume-experience-item">
-        <h3>{{ exp.title }}</h3>
-        <p class="company">{{ exp.company }}</p>
+        <div class="experience-header"> <!-- New div for title and company -->
+          <h3>{{ exp.title }}</h3>
+          <p class="company">{{ exp.company }}</p>
+        </div>
         <p class="dates">{{ exp.dates }}</p>
         <ul>
           {% for duty in exp.duties %}
@@ -44,6 +79,8 @@ panel_includes:
         {% if exp.libraries %}
         <p class="resume-libraries-used"><b>Libraries:</b> {{ exp.libraries }}</p>
         {% endif %}
+        {% unless forloop.last %}
+        <hr class="line-break"> {% endunless %}
       </div>
       {% endfor %}
     </section>

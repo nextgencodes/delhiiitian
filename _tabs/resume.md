@@ -21,13 +21,13 @@ summary: >
 education:
   - institution: University Of San Diego
     degree: Masters in Cybersecurity Engineering
-    dates: ""
+    dates: 2026
   - institution: IISc Bangalore
     degree: Masters in Product Design and Manufacturing
-    dates: ""
+    dates: 2020
   - institution: IIT Delhi
     degree: Bachelors in Textile Technology
-    dates: ""
+    dates: 2018
 experience:
   - title: Research Engineer (2.4 Yrs)
     company: Data and Intelligence Group (Mindtree LTD)
@@ -65,10 +65,11 @@ experience:
 career_break:
   - title: Self Development
     duties:
-        - "**Data Science Blog** – Writing blogs to cover Data Science and Machine Learning topics [HyperEscape](https://www.hyperscape.com)"  # Added link
-        - "**Laser Scanner** – Developing android based 3D laser scanner and profiler. Modular attachment for mobile phones"
-        - "**GenAI Raspberrypi Assistant:** Voice command and assistant using Google AI Studio Api."
-    tools: "Hardware : Raspberrypi 4b, Line Laser, Rapid Prototyping (3d Printer), Creality Ender V3 Technology/Platform : Android, Jekyll, Github, AR/VR, Ruby, Kotlin, Google Analytics, SEO, Google Adsense"
+        - "Data Science Blog – Writing blogs to cover Data Science and Machine Learning topics [HyperEscape](https://www.hyperscape.com)"  # Added link
+        - "Laser Scanner – Developing android based 3D laser scanner and profiler. Modular attachment for mobile phones"
+        - "GenAI Raspberrypi Assistant: Voice command and assistant using Google AI Studio Api."
+    hardware : "Raspberrypi 4b, Line Laser, Rapid Prototyping (3d Printer), Creality Ender V3" 
+    technology : "Android, Jekyll, Github, AR/VR, Ruby, Kotlin, Google Analytics, SEO, Google Adsense"
     dates: 2024-Sep - Till Date
 patents:
   - title: A handheld device for detecting weld defects and a method thereof

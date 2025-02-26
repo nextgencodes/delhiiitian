@@ -861,7 +861,7 @@
           <!-- panel -->
           <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
             <div class="access">
-              {# Conditionally include for non-resume pages #}
+              <!-- Conditionally include for non-resume pages #} -->
               <!-- Get 5 last posted/updated posts -->
 
 
@@ -885,6 +885,13 @@
         
         
         <li class="text-truncate lh-lg">
+          <a href="/posts/write-a-new-post/">Writing a New Post</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
           <a href="/posts/customize-the-favicon/">Customize the Favicon</a>
         </li>
       
@@ -893,13 +900,6 @@
         
         <li class="text-truncate lh-lg">
           <a href="/posts/getting-started/">Getting Started</a>
-        </li>
-      
-        
-        
-        
-        <li class="text-truncate lh-lg">
-          <a href="/posts/write-a-new-post/">Writing a New Post</a>
         </li>
       
         
@@ -1109,19 +1109,19 @@
   
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
     
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
 
 
 
@@ -1135,6 +1135,34 @@
   <aside id="related-posts" aria-labelledby="related-label">
     <h3 class="mb-4" id="related-label">Further Reading</h3>
     <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
+      
+        <article class="col">
+          <a href="/posts/write-a-new-post/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1596867000"
+  data-df="ll"
+  
+>
+  Aug  8, 2020
+</time>
+
+              <h4 class="pt-0 my-2">Writing a New Post</h4>
+              <div class="text-muted">
+                <p>This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and...</p>
+              </div>
+            </div>
+          </a>
+        </article>
       
         <article class="col">
           <a href="/posts/getting-started/" class="post-preview card h-100">
@@ -1159,34 +1187,6 @@
               <h4 class="pt-0 my-2">Getting Started</h4>
               <div class="text-muted">
                 <p>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</p>
-              </div>
-            </div>
-          </a>
-        </article>
-      
-        <article class="col">
-          <a href="/posts/write-a-new-post/" class="post-preview card h-100">
-            <div class="card-body">
-              <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
-
-
-
-
-<time
-  
-  data-ts="1565244600"
-  data-df="ll"
-  
->
-  Aug  8, 2019
-</time>
-
-              <h4 class="pt-0 my-2">Writing a New Post</h4>
-              <div class="text-muted">
-                <p>This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and...</p>
               </div>
             </div>
           </a>
@@ -1244,9 +1244,13 @@
   
 
   
-    <div class="btn btn-outline-primary disabled" aria-label="Newer">
-      <p>-</p>
-    </div>
+    <a
+      href="/posts/write-a-new-post/"
+      class="btn btn-outline-primary"
+      aria-label="Newer"
+    >
+      <p>Writing a New Post</p>
+    </a>
   
 </nav>
 
@@ -1277,14 +1281,7 @@
     
   </p>
 
-  <p>Using the <a
-        data-bs-toggle="tooltip"
-        data-bs-placement="top"
-        title="v1.0.1"
-        href="https://github.com/cotes2020/jekyll-theme-chirpy"
-        target="_blank"
-        rel="noopener"
-      >Chirpy</a> theme for <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>.
+  <p>
   </p>
 </footer>
 

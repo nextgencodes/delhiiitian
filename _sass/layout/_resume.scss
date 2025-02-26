@@ -1,4 +1,7 @@
 @use "sass:math";
+@use "sass:map";
+@use '../abstracts/breakpoints' as bp; /* Adjust path if needed */
+@use '../abstracts/placeholders';     /* Adjust path if needed */
 
 $resume__body-bg-color: #f4f4f4;
 $resume__text-color: #333;
@@ -34,51 +37,51 @@ $resume__mq: (
   line-height: $resume__line-height;
 }
 
-.resume-container { /* Renamed from .container */
+.resume-container {
   display: grid;
-  grid-template-columns: 300px 1fr; /* Default 2 column layout for desktop */
+  grid-template-columns: 300px 1fr;
   max-width: 1200px;
   margin: 20px auto;
   background-color: $resume__white-color;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  
 
-  @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
-    grid-template-columns: 1fr; /* Switch to single column */
-    max-width: 95%; /* Adjust max width for smaller screens */
-    margin: 10px auto; /* Reduce margin */
+  @media (max-width: map.get($resume__mq, tablet)) {
+    grid-template-columns: 1fr;
+    max-width: 95%;
+    margin: 10px auto;
   }
 
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below - can further adjust if needed */
-      max-width: 100%; /* Take full width on mobile */
-      margin: 5px auto;
-      padding-left: 10px;
-      padding-right: 10px;
-   }
+  @media (max-width: map.get($resume__mq, mobile)) {
+    max-width: 100%;
+    margin: 5px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
-.resume-sidebar { /* Renamed from .sidebar */
+.resume-sidebar {
   background-color: $resume__sidebar-bg-color;
   padding: 20px;
 
-  @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
-    padding: 15px; /* Reduce padding */
+  @media (max-width: map.get($resume__mq, tablet)) {
+    padding: 15px;
   }
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
     padding: 10px;
   }
 }
 
-.resume-profile { /* Renamed from .profile */
+.resume-profile {
   text-align: center;
   margin-bottom: 20px;
 
-   @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
+  @media (max-width: map.get($resume__mq, tablet)) {
     margin-bottom: 15px;
   }
 }
 
-.resume-profile img { /* Renamed from .profile img */
+.resume-profile img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -86,110 +89,134 @@ $resume__mq: (
   margin-bottom: 10px;
 }
 
-.resume-profile h1, .resume-profile h2 { /* Renamed from .profile h1, .profile h2 */
+.resume-profile h1,
+.resume-profile h2 {
   margin: 0;
 }
 
-.resume-profile h1 { /* Renamed from .profile h1 */
+.resume-profile h1 {
   font-size: 1.8em;
   color: $resume__heading-color;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 1.6em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 1.6em;
   }
 }
 
-.resume-profile h2 { /* Renamed from .profile h2 */
+.resume-profile h2 {
   font-size: 1.2em;
   color: $resume__secondary-text-color;
   font-weight: normal;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 1em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 1em;
   }
 }
 
-
-.resume-personal-info, .resume-skills, .resume-languages { /* Renamed from .personal-info, .skills, .languages */
+.resume-personal-info,
+.resume-skills,
+.resume-languages {
   margin-bottom: 20px;
-   @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
-    margin-bottom: 15px; /* Reduce margin */
+
+  @media (max-width: map.get($resume__mq, tablet)) {
+    margin-bottom: 15px;
   }
 }
 
-.resume-personal-info h3, .resume-skills h3, .resume-languages h3 { /* Renamed from .personal-info h3, .skills h3, .languages h3 */
+.resume-personal-info h3,
+.resume-skills h3,
+.resume-languages h3 {
   font-size: 1.3em;
   margin-top: 0;
   margin-bottom: 10px;
   color: $resume__heading-color;
   border-bottom: 2px solid $resume__border-color;
   padding-bottom: 5px;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 1.2em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 1.2em;
     margin-bottom: 8px;
-   }
+  }
 }
 
-.resume-personal-info ul { /* Renamed from .personal-info ul */
+.resume-personal-info ul {
   list-style: none;
   padding: 0;
 }
 
-.resume-personal-info li { /* Renamed from .personal-info li */
+.resume-personal-info li {
   margin-bottom: 8px;
   font-size: 0.95em;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 0.9em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 0.9em;
     margin-bottom: 6px;
-   }
+  }
 }
 
-.resume-personal-info i { /* Renamed from .personal-info i */
+.resume-personal-info i {
   margin-right: 5px;
   color: $resume__secondary-text-color;
 }
 
-.resume-personal-info a, .resume-skills a, .resume-languages a { /* Renamed from .personal-info a, .skills a, .languages a */
+.resume-personal-info a,
+.resume-skills a,
+.resume-languages a {
   color: $resume__link-color;
   text-decoration: none;
 }
 
-.resume-personal-info a:hover, .resume-skills a:hover, .resume-languages a:hover { /* Renamed from .personal-info a:hover, .skills a:hover, .languages a:hover */
+.resume-personal-info a:hover,
+.resume-skills a:hover,
+.resume-languages a:hover {
   text-decoration: underline;
 }
 
+.skill-category h4 { /* Added rule for skill category h4 */
+  text-align: left; /* Align category titles to left */
+}
 
-.resume-skills h4, .resume-languages h4 { /* Renamed from .skills h4, .languages h4 */
+.resume-skills h4,
+.resume-languages h4 {
   font-size: 1.1em;
   margin-top: 10px;
   margin-bottom: 5px;
   color: $resume__section-heading-color;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 1em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 1em;
     margin-top: 8px;
     margin-bottom: 4px;
-   }
+  }
 }
 
-.resume-skill-item { /* Renamed from .skill-item */
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 5px;
+.resume-skill-item {
+  display: block; /* Changed to block to stack elements vertically */
+  margin-bottom: 15px; /* Increased margin-bottom for spacing between skills */
   font-size: 0.95em;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 0.9em; /* Smaller font size on mobile */
-    margin-bottom: 3px;
-   }
 }
 
-.resume-skill-name { /* Renamed from .skill-name */
-  flex-grow: 1;
+.skill-info {
+  display: flex; /* Keep skill-info as flex to align name and level text inline */
+  justify-content: space-between; /* Keep space between name and level */
+  align-items: baseline;
+  margin-bottom: 5px; /* Added margin below skill info text */
 }
 
-.resume-skill-level { /* Renamed from .skill-level */
-  display: flex;
+.resume-skill-name {
+  flex-basis: auto; /* Set back to auto to let content determine width */
+  max-width: 100%; /* Allow skill name to take full width if needed */
+  margin-right: 10px; /* Keep some spacing between name and level text */
+  text-align: left; /* Align skill name to the left now */
+  padding-top: 0; /* Removed padding-top */
 }
 
-.resume-dot { /* Renamed from .dot */
+.skill-separator, .resume-skill-level {
+  /* Removed styles no longer needed */
+}
+
+
+.resume-dot {
   width: 8px;
   height: 8px;
   border-radius: 50%;
@@ -197,137 +224,412 @@ $resume__mq: (
   background-color: $resume__white-color;
   margin-left: 3px;
   &.filled {
-    background-color: $resume__skill-dot-filled-color; /* Green color for filled dots */
+    background-color: $resume__skill-dot-filled-color;
     border-color: $resume__skill-dot-filled-color;
   }
 }
 
+/* Skill Level Bar Styles - RESTORED and MODIFIED */
+.skill-level-bar {
+  background-color: #eee;
+  border-radius: 5px;
+  height: 10px;
+  width: 100%; /* Make bar full width of its container */
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 0;
+  position: relative;
+  overflow: hidden;
+  display: block; /* Changed to block to take full width */
+  margin-bottom: 12px; /* Added margin-bottom to skill-level-bar for spacing */
+}
 
-.resume-main-content { /* Renamed from .main-content */
+.level-bar-fill {
+  background-color: $resume__skill-dot-filled-color;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 5px;
+}
+
+.level-beginner    { width: 20%; }
+.level-need-improvement { width: 40%; }
+.level-average      { width: 60%; }
+.level-good         { width: 80%; }
+.level-excellent    { width: 100%; }
+.level-native       { width: 100%; }
+.level-fluent       { width: 90%; }
+.level-basic        { width: 50%; }
+
+
+.skill-level-text {
+  font-size: 0.85em;
+  color: $resume__light-text-color;
+  text-align: right; /* Keep right alignment for level text */
+  /* Removed absolute positioning styles - no longer needed */
+}
+
+
+.resume-main-content {
   padding: 20px;
-   @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
-    padding: 15px; /* Reduce padding */
+
+  @media (max-width: map.get($resume__mq, tablet)) {
+    padding: 15px;
   }
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
     padding: 10px;
   }
 }
 
-.resume-summary-section, .resume-education-section, .resume-work-experience-section, .resume-awards-section, .resume-certifications-section, .resume-patents-section, .resume-career-break-section, .resume-tools-section { /* Renamed all section classes */
+.resume-summary-section,
+.resume-education-section,
+.resume-work-experience-section,
+.resume-awards-section,
+.resume-certifications-section,
+.resume-patents-section,
+.resume-career-break-section,
+.resume-tools-section {
   margin-bottom: 25px;
-   @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
-    margin-bottom: 20px; /* Reduce margin */
+
+  @media (max-width: map.get($resume__mq, tablet)) {
+    margin-bottom: 20px;
   }
-    @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    margin-bottom: 15px; /* Reduce margin further for mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    margin-bottom: 15px;
   }
 }
 
-.resume-summary-section h2, .resume-education-section h2, .resume-work-experience-section h2, .resume-awards-section h2, .resume-certifications-section h2, .resume-patents-section h2, .resume-career-break-section h2, .resume-tools-section h2 { /* Renamed all section heading classes */
+.resume-summary-section h2,
+.resume-education-section h2,
+.resume-work-experience-section h2,
+.resume-awards-section h2,
+.resume-certifications-section h2,
+.resume-patents-section h2,
+.resume-career-break-section h2,
+.resume-tools-section h2 {
   font-size: 1.5em;
   margin-top: 0;
   margin-bottom: 15px;
   color: $resume__heading-color;
   border-bottom: 2px solid $resume__border-color;
   padding-bottom: 5px;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 1.3em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, tablet)) {
+    font-size: 1.3em;
     margin-bottom: 10px;
-   }
+  }
 }
 
-.resume-summary-section p { /* Renamed from .summary-section p */
+.resume-summary-section p {
   font-size: 1em;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 0.95em; /* Slightly smaller text on mobile */
-   }
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 0.95em;
+  }
 }
 
-.resume-education-item, .resume-experience-item, .resume-award-item, .resume-patent-item, .resume-career-break-item { /* Renamed all item classes */
+.resume-education-item,
+.resume-experience-item,
+.resume-award-item,
+.resume-patent-item,
+.resume-career-break-item {
   margin-bottom: 15px;
-   @media (max-width: map-get($resume__mq, tablet)) { /* Tablet and below */
-    margin-bottom: 12px; /* Reduce margin */
+
+  @media (max-width: map.get($resume__mq, tablet)) {
+    margin-bottom: 12px;
   }
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    margin-bottom: 10px; /* Reduce margin further for mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    margin-bottom: 10px;
   }
 }
 
-.resume-education-item h3, .resume-experience-item h3, .resume-award-item h3, .resume-patent-item h3, .resume-career-break-item h3{ /* Renamed all item heading classes */
+.resume-education-item h3,
+.resume-experience-item h3,
+.resume-award-item h3,
+.resume-patent-item h3,
+.resume-career-break-item h3 {
   font-size: 1.2em;
   margin-top: 0;
   margin-bottom: 5px;
   color: $resume__heading-color;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 1.1em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 1.1em;
     margin-bottom: 4px;
-   }
+  }
 }
 
-.resume-education-item .degree, .resume-experience-item .company { /* Renamed item detail classes */
+.resume-education-item .degree,
+.resume-experience-item .company {
   font-weight: bold;
   color: $resume__secondary-text-color;
   margin-bottom: 3px;
 }
 
-.resume-education-item .dates, .resume-experience-item .dates, .resume-career-break-item .dates { /* Renamed date classes */
+.resume-education-item .dates,
+.resume-experience-item .dates,
+.resume-career-break-item .dates {
   font-size: 0.9em;
   color: $resume__light-text-color;
   margin-bottom: 5px;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 0.85em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 0.85em;
     margin-bottom: 3px;
-   }
+  }
 }
 
-.resume-experience-item ul, .resume-career-break-item ul { /* Renamed ul classes */
+.resume-experience-item ul,
+.resume-career-break-item ul {
   padding-left: 20px;
   margin-top: 5px;
   list-style-type: disc;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    padding-left: 15px; /* Reduce padding on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    padding-left: 15px;
     margin-top: 3px;
-   }
+  }
 }
 
-.resume-experience-item li, .resume-career-break-item li { /* Renamed list item classes */
+.resume-experience-item li,
+.resume-career-break-item li {
   font-size: 1em;
   margin-bottom: 3px;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 0.9em; /* Smaller font size on mobile */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 0.9em;
     margin-bottom: 2px;
-   }
+  }
 }
 
-.resume-certifications-list { /* Renamed certifications list class */
+.resume-certifications-list {
   padding-left: 20px;
   list-style-type: disc;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    padding-left: 15px; /* Reduce padding on mobile */
-   }
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    padding-left: 15px;
+  }
 }
 
-.resume-certifications-list li { /* Renamed certifications list item class */
+.resume-certifications-list li {
   margin-bottom: 5px;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    margin-bottom: 3px; /* Reduce margin on mobile */
-   }
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    margin-bottom: 3px;
+  }
 }
 
-.resume-tools-section p { /* Renamed tools section paragraph class */
+.resume-tools-section p {
   font-size: 1em;
   margin-bottom: 8px;
-   @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-    font-size: 0.95em; /* Slightly smaller text on mobile */
-    margin-bottom: 6px;
-   }
-}
-.resume-tools-used { /* Renamed tools used class */
+
+  @media (max-width: map.get($resume__mq, mobile)) {
     font-size: 0.95em;
-    color: $resume__tools-text-color;
-    margin-top: 5px;
-     @media (max-width: map-get($resume__mq, mobile)) { /* Mobile and below */
-        font-size: 0.9em; /* Slightly smaller text on mobile */
-        margin-top: 3px;
-    }
+    margin-bottom: 6px;
+  }
 }
+
+.resume-tools-used {
+  font-size: 0.95em;
+  color: $resume__tools-text-color;
+  margin-top: 5px;
+
+  @media (max-width: map.get($resume__mq, mobile)) {
+    font-size: 0.9em;
+    margin-top: 3px;
+  }
+}
+
+/* Education Section Styles */
+.resume-education-item {
+  margin-bottom: 20px;
+}
+
+.resume-education-item .education-line {
+  display: flex;        /* Enable flexbox for horizontal layout */
+  justify-content: left; /* Align items to the start */
+  margin-left: 30px;
+  align-items: baseline;    /* Align items along the baseline */
+}
+
+
+.resume-education-item .education-dates { /* Styles for the new education-dates span */
+  flex-basis: auto;
+  text-align: right;
+  margin-right: 5px; /* Spacing after dates */
+  color: $resume__light-text-color; /* Match dates color */
+  font-size: 0.9em; /* Match dates font size */
+  display: inline-block; /* Ensure inline display */
+}
+
+
+.resume-education-item h3 {
+  flex-basis: auto;       /* Institution name takes auto width */
+  text-align: left;    /* Left align institution name */
+  margin-bottom: 0;
+  margin-right: 10px;      /* Add right margin to institution for spacing */
+}
+
+.resume-education-item .degree {
+  flex-basis: auto;       /* Degree takes auto width */
+  text-align: left;     /* Left align degree */
+}
+
+.resume-experience-item .company { /* Style for company name in work experience */
+  text-align: right; /* Align company name to the right */
+  font-weight: bold; /* Make company name bold */
+  color: $resume__secondary-text-color; /* Use secondary text color */
+}
+
+.resume-experience-item .experience-header {
+  display: flex; /* Enable flexbox for horizontal layout */
+  justify-content: space-between; /* Space between title and company */
+  align-items: baseline; /* Align title and company baseline */
+  margin-bottom: 5px; /* Add margin below header for dates */
+}
+
+#custom-timeline {
+  letter-spacing: 0.03rem;
+
+  @include bp.lt(bp.get(sm)) {
+    margin-top: -1rem;
+
+    ul {
+      letter-spacing: 0;
+    }
+  }
+
+  $timeline-width: 4px;
+
+  %custom-timeline {
+    content: '';
+    width: $timeline-width;
+    position: relative;
+    background-color: var(--timeline-color); /* Make sure --timeline-color is defined in your CSS variables */
+  }
+
+  .timeline-year-item-container { /* New container style */
+    display: flex; /* Enable flexbox */
+    justify-content: left; /* Space between year and education item */
+    align-items: baseline; /* Align items to the start of the container */
+    margin-top: 0.2px;
+    margin-bottom: 0.2px;
+  }
+
+
+  .timeline-year-heading.lead.d-block { /* Renamed from .year, and made specific */
+    height: auto; /* Adjust height to auto to fit content */
+    font-size: 1.3rem;
+    position: relative;
+    margin-left: 0; /* Reset margin-left */
+    margin-right: 20px; /* Add margin to separate from education item */
+    padding-left: 20px; /* Add padding to align with timeline start */
+    display: inline-block; /* Change to inline-block to be in same line */
+    width: auto; /* Adjust width to auto to fit content */
+    flex-shrink: 0; /* Prevent year heading from shrinking */
+
+
+    &::before {
+      @extend %custom-timeline; /* Renamed placeholder */
+
+      height: 100%; /* Extend timeline to full height of year + education item */
+      left: 9.5px;
+      top: 0; /* Align timeline to top of container */
+      bottom: auto; /* Remove bottom */
+      
+    }
+
+    &:first-child::before {
+      @extend %custom-timeline; /* Renamed placeholder */
+      
+      height: 50%;
+      top: 0; /* Align timeline to top for first child */
+    }
+
+    /* Year dot (now more generic timeline dot) */
+    &::after {
+      content: '';
+      display: inline-block; /* Changed to block */
+      position: relative; /* Use absolute positioning */
+      border-radius: 50%;
+      width: 12px;
+      height: 12px;
+      left: 15.5px;
+      border: 3px solid;
+      background-color: var(--timeline-year-dot-color); /* Make sure --timeline-year-dot-color is defined */
+      border-color: var(--timeline-node-bg);        /* Make sure --timeline-node-bg is defined */
+      box-shadow: 0 0 2px 0 #c2c6cc;
+      z-index: 1;
+    }
+  }
+
+  .resume-education-item { /* Adjust resume education item for timeline */
+    margin-bottom: 0; /* Remove bottom margin from education item */
+    width: auto; /* Adjust width to auto */
+    flex-grow: 1; /* Allow education item to take remaining space */
+    text-align: right; /* Align content to the right */
+  }
+
+
+  ul {
+    li {
+      font-size: 1.1rem;
+      line-height: 3rem;
+
+      @extend %text-ellipsis; /* Make sure %text-ellipsis placeholder is defined or remove if not needed */
+
+      &:nth-child(odd) {
+        background-color: var(--main-bg, #ffffff); /* Make sure --main-bg is defined */
+        background-image: linear-gradient(
+          to left,
+          #ffffff,
+          #fbfbfb,
+          #fbfbfb,
+          #fbfbfb,
+          #ffffff
+        );
+      }
+
+      &::before {
+        @extend %custom-timeline; /* Renamed placeholder */
+
+        top: 0;
+        left: 77px;
+        height: 3.1rem;
+      }
+    }
+
+    &:last-child li:last-child::before {
+      height: 1.5rem;
+    }
+  } /* #custom-timeline ul */
+
+
+  .timeline-item-description { /* Renamed from a (post title in archives) */
+    /* post description in timeline */
+    margin-left: 2.5rem;
+    position: relative;
+    top: 0.1rem;
+
+
+    &::before {
+      /* the dot before timeline description */
+      content: '';
+      display: inline-block;
+      position: relative;
+      border-radius: 50%;
+      width: 8px;
+      height: 8px;
+      float: left;
+      top: 1.35rem;
+      left: 35.5px;
+      background-color: var(--timeline-node-bg); /* Make sure --timeline-node-bg is defined */
+      box-shadow: 0 0 3px 0 #c2c6cc;
+      z-index: 1;
+    }
+  }
+} /* #custom-timeline */
