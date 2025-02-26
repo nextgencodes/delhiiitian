@@ -1,0 +1,306 @@
+---
+layout: default
+---
+<div class="resume-container"> <!-- Renamed from .container -->
+  <div class="resume-sidebar"> <!-- Renamed from .sidebar -->
+    <div class="resume-profile"> <!-- Renamed from .profile -->
+      <img src="/assets/img/profile.png" alt="Profile Picture">
+      <h1>{{ page.username }}</h1>
+      <h2>{{ page.designation }}</h2>
+    </div>
+    <div class="resume-personal-info"> <!-- Renamed from .personal-info -->
+      <h3><i class="fas fa-user"></i> Personal Info</h3>
+      <ul>
+        <li><i class="fas fa-map-marker-alt"></i> Address: {{ page.address }}</li>
+        <li><i class="fas fa-phone"></i> Phone: {{ page.phone }}</li>
+        <li><i class="fas fa-envelope"></i> E-mail: {{ page.email }}</li>
+        <li><i class="fab fa-linkedin"></i> Social: <a href="{{ page.linkedin }}" target="_blank">{{ page.linkedinText }}</a>
+          {% if page.other_social %}
+            {% for social in page.other_social %}
+              <br> <i class="{{ social.icon }}"></i> <a href="{{ social.url }}" target="_blank">{{ social.urlText }}</a>
+            {% endfor %}
+          {% endif %}
+        </li>
+      </ul>
+    </div>
+
+    <div class="resume-skills"> <!-- Renamed from .skills -->
+      <h3><i class="fas fa-code"></i> Skills</h3>
+      {% for category in site.data.skills.categories %}
+        <h4>{{ category.name }}</h4>
+        {% for skill in category.skills %}
+          <div class="resume-skill-item"> <!-- Renamed from .skill-item -->
+            <span class="resume-skill-name">{{ skill.name }}</span> <!-- Renamed from .skill-name -->
+            <div class="resume-skill-level"> <!-- Renamed from .skill-level -->
+              {% assign level_int = skill.level | downcase | truncatewords: 1, "" | strip | replace: 'excellent', '5' | replace: 'good', '4' | replace: 'average', '3' | replace: 'need improvement', '2' | replace: 'beginner', '1' | plus: 0 %}
+              {% for i in (1..5) %}
+                {% if i <= level_int %}
+                  <span class="resume-dot filled"></span> <!-- Renamed from .dot -->
+                {% else %}
+                  <span class="resume-dot"></span> <!-- Renamed from .dot -->
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      {% endfor %}
+    </div>
+
+    <div class="resume-languages"> <!-- Renamed from .languages -->
+      <h3><i class="fas fa-globe"></i> Languages</h3>
+      {% for category in site.data.skills.categories %}
+        {% if category.name == "Languages" %}
+          {% for skill in category.skills %}
+            <div class="resume-skill-item"> <!-- Renamed from .skill-item -->
+              <span class="resume-skill-name">{{ skill.name }}</span> <!-- Renamed from .skill-name -->
+              <div class="resume-skill-level"> <!-- Renamed from .skill-level -->
+                {% assign level_int = skill.level | downcase | truncatewords: 1, "" | strip | replace: 'native', '5' | replace: 'fluent', '4' | replace: 'good', '3' | replace: 'basic', '2' | replace: 'beginner', '1' | plus: 0 %}
+                {% for i in (1..5) %}
+                  {% if i <= level_int %}
+                    <span class="resume-dot filled"></span> <!-- Renamed from .dot -->
+                  {% else %}
+                    <span class="resume-dot"></span> <!-- Renamed from .dot -->
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="resume-main-content"> <!-- Renamed from .main-content -->
+    <section class="resume-summary-section"> <!-- Renamed from .summary-section -->
+      <h2><i class="fas fa-file-alt"></i> Resume Summary</h2>
+      <p>{{ page.summary }}</p>
+    </section>
+
+    <section class="resume-education-section"> <!-- Renamed from .education-section -->
+      <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+      {% for edu in page.education %}
+        <div class="resume-education-item"> <!-- Renamed from .education-item -->
+          <h3>{{ edu.institution }}</h3>
+          <p class="degree">{{ edu.degree }}</p>
+          <p class="dates">{{ edu.dates }}</p>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section class="resume-work-experience-section"> <!-- Renamed from .work-experience-section -->
+      <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
+      {% for exp in page.experience %}
+        <div class="resume-experience-item"> <!-- Renamed from .experience-item -->
+          <h3>{{ exp.title }}</h3>
+          <p class="company">{{ exp.company }}</p>
+          <p class="dates">{{ exp.dates }}</p>
+          <ul>
+            {% for duty in exp.duties %}
+              <li>{{ duty }}</li>
+            {% endfor %}
+          </ul>
+          {% if exp.hardware %}
+          <p class="resume-hardware-used"><b>Hardware:</b> {{ exp.hardware }}</p> <!-- Renamed from .tools-used -->
+          {% endif %}
+          {% if exp.technology %}
+          <p class="resume-technology-used"><b>Technology:</b> {{ exp.technology }}</p> <!-- Renamed from .tools-used -->
+          {% endif %}
+          {% if exp.libraries %}
+          <p class="resume-libraries-used"><b>Libraries:</b> {{ exp.libraries }}</p> <!-- Renamed from .tools-used -->
+          {% endif %}
+        </div>
+      {% endfor %}
+    </section>
+
+    <section class="resume-career-break-section"> <!-- Renamed from .career-break-section -->
+      <h2><i class="fas fa-hourglass-half"></i> Career Break - Self Development</h2>
+      {% for career_break in page.career_break %}
+        <div class="resume-career-break-item"> <!-- Renamed from .career-break-item -->
+          <h3>{{ career_break.title }}</h3>
+          <p class="dates">{{ career_break.dates }}</p>
+          <ul>
+            {% for duty in career_break.duties %}
+              <li>{{ duty }}</li>
+            {% endfor %}
+          </ul>
+           {% if career_break.tools %}
+          <p class="resume-tools-used"><b>Tools Utilized:</b> {{ career_break.tools }}</p> <!-- Renamed from .tools-used -->
+          {% endif %}
+        </div>
+      {% endfor %}
+    </section>
+
+
+    <section class="resume-patents-section"> <!-- Renamed from .patents-section -->
+      <h2><i class="fas fa-clipboard"></i> Patents</h2>
+      {% for patent in page.patents %}
+        <div class="resume-patent-item"> <!-- Renamed from .patent-item -->
+          <h3>{{ patent.title }}</h3>
+          {% if patent.description %} <p>{{ patent.description }}</p> {% endif %}
+          {% if patent.uspto %} <p>USPTO: {{ patent.uspto }}</p> {% endif %}
+          {% if patent.ipo %} <p>IPO: {{ patent.ipo }}</p> {% endif %}
+        </div>
+      {% endfor %}
+    </section>
+
+    <section class="resume-awards-section"> <!-- Renamed from .awards-section -->
+      <h2><i class="fas fa-trophy"></i> Awards</h2>
+      {% for award in page.awards %}
+        <div class="resume-award-item"> <!-- Renamed from .award-item -->
+          <h3>{{ award.title }}</h3>
+          <p>{{ award.description }}</p>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section class="resume-certifications-section"> <!-- Renamed from .certifications-section -->
+      <h2><i class="fas fa-certificate"></i> Certifications</h2>
+      <ul class="resume-certifications-list"> <!-- Renamed from .certifications-list -->
+        {% for cert in page.certifications %}
+          <li>{{ cert }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section class="resume-tools-section"> <!-- Renamed from .tools-section -->
+      <h2><i class="fas fa-wrench"></i> Tools Used</h2>
+      {% if page.toolsUsed.techplatform %}
+      <p><b>Technology/Platform :</b> {{ page.toolsUsed.techplatform }}</p>
+      {% endif %}
+      {% if page.toolsUsed.libraries %}
+      <p><b>Libraries:</b> {{ page.toolsUsed.libraries }}</p>
+      {% endif %}
+    </section>
+
+  </div>
+</div>
+
+
+<!--
+  <div class="container">
+    <div class="row">
+      <div class="col col-6 col-t-12 last-item">
+        <header>
+          <h1>{{ page.username }}</h1>
+          <p>{{ page.title }}</p>
+          <div class="contact__info">
+            <p><i class="fas fa-map-marker-alt"></i> {{ page.address }}</p>
+            <p><i class="fas fa-phone"></i> {{ page.phone }}</p>
+            <p><i class="fas fa-envelope"></i> <a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+            {% if page.linkedin %}
+            <p><i class="fab fa-linkedin"></i> <a href="{{ page.linkedin }}" target="_blank">{{ page.linkedinText }}</a>
+            </p>
+            {% endif %}
+            {% if page.other_social %}
+            {% for social in page.other_social %}
+            <p><i class="{{social.icon}}"></i><a href="{{ social.url }}" target="_blank">{{ social.urlText }}</a></p>
+            {% endfor %}
+            {% endif %}
+          </div>
+        </header>
+
+        <section class="resume-summary">
+          <h2>Resume Summary</h2>
+          <p>{{ page.summary }}</p>
+        </section>
+
+        <section class="education">
+          <h2>Education</h2>
+          {% for edu in page.education %}
+          <div class="education-item">
+            <h3>{{ edu.institution }}</h3>
+            <p class="degree">{{ edu.degree }}</p>
+            <p class="dates">{{ edu.dates }}</p>
+          </div>
+          {% endfor %}
+        </section>
+
+        <section class="work-experience">
+          <h2>Work Experience</h2>
+          {% for exp in page.experience %}
+          <div class="experience-item">
+            <h3>{{ exp.title }}</h3>
+            <p class="company">{{ exp.company }}</p>
+            <p class="dates">{{ exp.dates }}</p>
+            <ul>
+              {% for duty in exp.duties %}
+              <li>{{ duty }}</li>
+              {% endfor %}
+            </ul>
+            {% if exp.tools %}
+            <p><strong>Tools Utilized:</strong> {{ exp.tools }}</p>
+            {% endif %}
+
+          </div>
+          {% endfor %}
+        </section>
+
+        {% if page.career_break %}
+        <section class="career-break">
+          <h2>Career Break</h2>
+          {% for item in page.career_break %}
+          <h3>{{ item.title }}</h3>
+          {% for duty in item.duties %}
+          <p>{{ duty }}</p>
+          {% endfor %}
+          {% if item.tools %}
+          <p><strong>Tools Utilized:</strong> {{ item.tools }}</p>
+          {% endif %}
+
+          {% endfor %}
+        </section>
+        {% endif %}
+
+        {% if page.patents %}
+        <section class="patents">
+          <h2>Patents</h2>
+          {% for patent in page.patents %}
+          <div class="patent-item">
+            <h3>{{ patent.title }}</h3>
+            <p>{{ patent.description }}</p>
+            <p>USPTO: {{ patent.uspto }}</p>
+            <p>IPO: {{ patent.ipo }}</p>
+          </div>
+          {% endfor %}
+        </section>
+        {% endif %}
+
+        {% if page.awards %}
+        <section class="awards">
+          <h2>Awards</h2>
+          {% for award in page.awards %}
+          <div class="award-item">
+            <h3>{{ award.title }}</h3>
+            <p>{{ award.description }}</p>
+          </div>
+          {% endfor %}
+        </section>
+        {% endif %}
+
+        {% if page.certifications %}
+        <section class="certifications">
+          <h2>Certifications</h2>
+          <ul>
+            {% for certification in page.certifications %}
+            <li>{{ certification }}</li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+
+        <section class="skills">
+          <h2>Skills</h2>
+          {% for category in site.data.skills.categories %}
+          {% include skills-chart.html category=category %}
+          {% endfor %}
+        </section>
+        <section class="tools">
+          <h2>Tools Used</h2>
+          <p><strong>Technology/Platform:</strong> {{ page.toolsUsed.techplatform }}</p>
+          <p><strong>Libraries:</strong> {{ page.toolsUsed.libraries }}</p>
+        </section>
+
+      </div>
+    </div>
+  </div>
+</div>
