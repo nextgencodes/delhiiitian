@@ -7,6 +7,28 @@ panel_includes:
 
 <div id="resume">
   <div class="resume-main-content">
+    <section>
+      <div class="resume-profile"> <!-- Renamed from .profile -->
+        <img src="/assets/img/profile.png" alt="Profile Picture">
+        <h1>{{ page.username }}</h1>
+        <h2>{{ page.designation }}</h2>
+      </div>
+      <div class="resume-personal-info"> <!-- Renamed from .personal-info -->
+        <h2><i class="fas fa-user"></i> Personal Info</h2>
+        <ul>
+          <li><i class="fas fa-map-marker-alt"></i> Address: {{ page.address }}</li>
+          <li><i class="fas fa-phone"></i> Phone: {{ page.phone }}</li>
+          <li><i class="fas fa-envelope"></i> E-mail: <a href="mailto:{{ page.email }}"> {{page.email}}</a></li>
+          <li><i class="fab fa-hashtag"></i> Social: |
+            {% if page.other_social %}
+              {% for social in page.other_social %}
+               <i class="{{ social.icon }}"></i> <a href="{{ social.url }}" target="_blank">{{ social.urlText }}</a> |
+              {% endfor %}
+            {% endif %}
+          </li>
+        </ul>
+      </div>
+    </section>
     <section class="resume-summary-section">
       <h2><i class="fas fa-file-alt"></i> Resume Summary</h2>
       <p>{{ page.summary }}</p>
@@ -55,6 +77,23 @@ panel_includes:
       </div>
     </section>
 
+    <section class="resume-career-break-section">
+      <h2><i class="fas fa-hourglass-half"></i> Career Break - Self Development</h2>
+      {% for career_break in page.career_break %}
+      <div class="resume-career-break-item">
+        <h3>{{ career_break.title }}</h3>
+        <p class="dates">{{ career_break.dates }}</p>
+        <ul>
+          {% for duty in career_break.duties %}
+          <li>{{ duty }}</li>
+          {% endfor %}
+        </ul>
+        {% if career_break.tools %}
+        <p class="resume-tools-used"><b>Tools Utilized:</b> {{ career_break.tools }}</p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </section>
 
     <section class="resume-work-experience-section">
       <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
@@ -85,23 +124,7 @@ panel_includes:
       {% endfor %}
     </section>
 
-    <section class="resume-career-break-section">
-      <h2><i class="fas fa-hourglass-half"></i> Career Break - Self Development</h2>
-      {% for career_break in page.career_break %}
-      <div class="resume-career-break-item">
-        <h3>{{ career_break.title }}</h3>
-        <p class="dates">{{ career_break.dates }}</p>
-        <ul>
-          {% for duty in career_break.duties %}
-          <li>{{ duty }}</li>
-          {% endfor %}
-        </ul>
-        {% if career_break.tools %}
-        <p class="resume-tools-used"><b>Tools Utilized:</b> {{ career_break.tools }}</p>
-        {% endif %}
-      </div>
-      {% endfor %}
-    </section>
+
 
 
     <section class="resume-patents-section">

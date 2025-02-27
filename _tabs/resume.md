@@ -5,9 +5,9 @@ order: 1
 username: Ashok Kumar
 title: Resume
 designation: Data Scientist (Specialist)
-address: Jodhpur, India
-phone: "+91-9660402461"
-email: kashok@alum.iisc.ac.in
+address: India
+phone: "+91-######2461"
+email: delhiiitian@gmail.com
 other_social:
   - url: https://www.linkedin.com/in/delhiiitian
     urlText: Linkedin
@@ -29,19 +29,7 @@ education:
     degree: Bachelors in Textile Technology
     dates: 2018
 experience:
-  - title: Research Engineer (2.4 Yrs)
-    company: Data and Intelligence Group (Mindtree LTD)
-    dates: 2020-Aug to 2022-Dec
-    duties:
-      - Developed active learning for model training and data labelling
-      - "Jaguar and Landrover – Consumer data analytics. Achieved 6% lead conversion utilizing logit model. Managing ML Model Pipelines using GCP Matillion. Managing SVCRM tables with big query."
-      - Code migration from R to Python.
-      - Customer churn prediction using survival models
-      - "P&G - Customer sales data analysis and building recommendation engine. Awarded for best delivery project"
-      - "POC – Process optimizing using Linear/Non-Linear programming (Staff Scheduling, Supply Chain)"
-      - "POC - Benchmarking ML Tools and Platforms (Samsung sds, Knime, H2O, Azureml, datarobot)."
-    technology:    "Python, R, GCP, Matillion, SVCRM, Brightics-Al (Samsung), KNIME, Pyspark-ML, Azure ML, Vector-Al"
-    libraries: "Pyomo, Gekko, Gurobi, Excel Solver, Scikit-Learn"
+  
 
   - title: Data Scientist (specialist) – Edge Analytics (1.8 Yrs)
     company: iNxT (Ltimindtree Ltd)
@@ -62,10 +50,24 @@ experience:
     technology: "Python, C++, Arm64/32, Matlab, Free Cad, Creality slicer/Cura, Label Studio, QT Creator, Paraview "
     libraries : "Tensorflow, Pytorch, YoloV8, openvino, Opencv, GAN, Style transfer, SDV, QT6, Fast API, Streamlit,, Flask"
 
+  - title: Data Scientist (2.4 Yrs)
+    company: Data and Intelligence Group (Mindtree LTD)
+    dates: 2020-Aug to 2022-Dec
+    duties:
+      - Developed **active learning** for model training and data labelling
+      - "Jaguar and Landrover – Consumer data analytics. Achieved 6% lead conversion utilizing logit model. Managing ML Model Pipelines using GCP Matillion. Managing SVCRM tables with big query."
+      - Code migration from R to Python.
+      - Customer churn prediction using survival models
+      - "P&G - Customer sales data analysis and building recommendation engine. Awarded for best delivery project"
+      - "POC – Process optimizing using Linear/Non-Linear programming (Staff Scheduling, Supply Chain)"
+      - "POC - Benchmarking ML Tools and Platforms (Samsung sds, Knime, H2O, Azureml, datarobot)."
+    technology:    "Python, R, GCP, Matillion, SVCRM, Brightics-Al (Samsung), KNIME, Pyspark-ML, Azure ML, Vector-Al"
+    libraries: "Pyomo, Gekko, Gurobi, Excel Solver, Scikit-Learn"
+
 career_break:
   - title: Self Development
     duties:
-        - "Data Science Blog – Writing blogs to cover Data Science and Machine Learning topics [HyperEscape](https://www.hyperscape.com)"  # Added link
+        - "Data Science Blog – Writing blogs to cover Data Science and Machine Learning topics <a href='https://www.hyperscape.com'>HyperEscape</a>"  # Added link
         - "Laser Scanner – Developing android based 3D laser scanner and profiler. Modular attachment for mobile phones"
         - "GenAI Raspberrypi Assistant: Voice command and assistant using Google AI Studio Api."
     hardware : "Raspberrypi 4b, Line Laser, Rapid Prototyping (3d Printer), Creality Ender V3" 

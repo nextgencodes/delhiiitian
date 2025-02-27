@@ -3,7 +3,7 @@
 @use '../abstracts/breakpoints' as bp; /* Adjust path if needed */
 @use '../abstracts/placeholders';     /* Adjust path if needed */
 
-$resume__body-bg-color: #f4f4f4;
+$resume__body-bg-color: #ffffff;
 $resume__text-color: #333;
 $resume__line-height: 1.6;
 $resume__white-color: #fff;
@@ -123,10 +123,10 @@ $resume__mq: (
   }
 }
 
-.resume-personal-info h3,
-.resume-skills h3,
-.resume-languages h3 {
-  font-size: 1.3em;
+.resume-personal-info h2,
+.resume-skills h2,
+.resume-languages h2 {
+  font-size: 1.5em;
   margin-top: 0;
   margin-bottom: 10px;
   color: $resume__heading-color;
