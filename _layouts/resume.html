@@ -5,64 +5,65 @@ panel_includes:
   - resume-languages-panel
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script> -->
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const downloadButtonContainer = document.getElementById('download-button-container');
-    const downloadButton = document.getElementById('download-pdf-button');
-    const resumeContent = document.getElementById('resume');
 
-    let initialTopOffset = 290;
-    let stuckTopThreshold = 10;
-    let isStuckToTop = false;
-    let lastScrollY = 0;
-
-    window.addEventListener('scroll', () => {
-      let scrollY = window.scrollY;
-      let scrollDirection = scrollY > lastScrollY ? 'down' : 'up';
-      lastScrollY = scrollY;
-
-      let newTopPosition = initialTopOffset - scrollY;
-
-      if (newTopPosition <= stuckTopThreshold) {
-        //  Sticking to top
-        newTopPosition = stuckTopThreshold;
-        if (!isStuckToTop) {
-            downloadButtonContainer.classList.add('stuck-top');
-            isStuckToTop = true;
-        }
-      } else if (scrollY <= initialTopOffset - stuckTopThreshold){
-          isStuckToTop = false;
-          downloadButtonContainer.classList.remove('stuck-top');
-          downloadButtonContainer.style.top = `${newTopPosition}px`;
-      }
-      else {
-        // Below the sticking point, but not yet at initial position
-          downloadButtonContainer.classList.remove('stuck-top');
-          isStuckToTop = false;
-          downloadButtonContainer.style.top = `${initialTopOffset}px`;
-      }
-
-      downloadButtonContainer.style.top = `${newTopPosition}px`;
-    });
-
-    downloadButton.addEventListener('click', function() {
-      // location.href='../assets/files/resume-latest.pdf';
-      const opt = {
-        margin:       5,
-        filename:     'resume.pdf',
-        image:        { type: 'jpeg', quality: 1 },
-        html2canvas:  { scale: 1 },
-        jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
-      };
-      html2pdf().from(resumeContent).set(opt).save();
-    });
-  });
-</script>
 
 
 <div id="resume">
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const downloadButtonContainer = document.getElementById('download-button-container');
+      const downloadButton = document.getElementById('download-pdf-button');
+      const resumeContent = document.getElementById('resume');
+  
+      let initialTopOffset = 290;
+      let stuckTopThreshold = 10;
+      let isStuckToTop = false;
+      let lastScrollY = 0;
+  
+      window.addEventListener('scroll', () => {
+        let scrollY = window.scrollY;
+        let scrollDirection = scrollY > lastScrollY ? 'down' : 'up';
+        lastScrollY = scrollY;
+  
+        let newTopPosition = initialTopOffset - scrollY;
+  
+        if (newTopPosition <= stuckTopThreshold) {
+          //  Sticking to top
+          newTopPosition = stuckTopThreshold;
+          if (!isStuckToTop) {
+              downloadButtonContainer.classList.add('stuck-top');
+              isStuckToTop = true;
+          }
+        } else if (scrollY <= initialTopOffset - stuckTopThreshold){
+            isStuckToTop = false;
+            downloadButtonContainer.classList.remove('stuck-top');
+            downloadButtonContainer.style.top = `${newTopPosition}px`;
+        }
+        else {
+          // Below the sticking point, but not yet at initial position
+            downloadButtonContainer.classList.remove('stuck-top');
+            isStuckToTop = false;
+            downloadButtonContainer.style.top = `${initialTopOffset}px`;
+        }
+  
+        downloadButtonContainer.style.top = `${newTopPosition}px`;
+      });
+  
+      downloadButton.addEventListener('click', function() {
+        location.href='../assets/files/resume-latest.pdf';
+        // const opt = {
+        //   margin:       5,
+        //   filename:     'resume.pdf',
+        //   image:        { type: 'jpeg', quality: 1 },
+        //   html2canvas:  { scale: 1 },
+        //   jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+        // };
+        // html2pdf().from(resumeContent).set(opt).save();
+      });
+    });
+  </script>
 
   <div id="download-button-container" class="download-button-container">
     <button id='download-pdf-button'>
