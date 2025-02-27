@@ -2,14 +2,14 @@
 title: Getting Started with Laser Scanners
 description: A comprehensive guide to help you get started with laser scanners.
   Learn about different types of scanners, their applications, and the basic steps to operate them effectively.
-author: Bard
+authors: ashok
 date: 2024-01-26 10:00:00 +0000
 categories: [Project, Laser]
 tags: [laser scanner, 3D scanning]
 pin: true
 math: true
 mermaid: true
-media_subpath: '/posts/20240126'
+render_with_liquid: false
 ---
 
 ## Understanding Laser Scanners

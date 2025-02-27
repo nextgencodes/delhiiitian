@@ -31,7 +31,6 @@
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="Getting Started with Laser Scanners" />
-<meta name="author" content="Bard" />
 <meta property="og:locale" content="en" />
 <meta name="description" content="A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively." />
 <meta property="og:description" content="A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively." />
@@ -43,9 +42,8 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Getting Started with Laser Scanners" />
 <meta name="twitter:site" content="@delhiiitian" />
-<meta name="twitter:creator" content="@Bard" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Bard"},"dateModified":"2024-01-26T15:30:00+05:30","datePublished":"2024-01-26T15:30:00+05:30","description":"A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively.","headline":"Getting Started with Laser Scanners","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/laserscanner/"},"url":"http://localhost:4000/posts/laserscanner/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-26T15:30:00+05:30","datePublished":"2024-01-26T15:30:00+05:30","description":"A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively.","headline":"Getting Started with Laser Scanners","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/laserscanner/"},"url":"http://localhost:4000/posts/laserscanner/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -734,7 +732,7 @@
           <em>
             
               
-                
+                <a href="https://github.com/nextgencodes/">Ashok Kumar</a>
                 
               
             
@@ -1013,6 +1011,13 @@
         
         
         <li class="text-truncate lh-lg">
+          <a href="/posts/text-and-typography/">Text and Typography</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
           <a href="/posts/laserscanner/">Getting Started with Laser Scanners</a>
         </li>
       
@@ -1062,6 +1067,29 @@
         
         
 
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
 
 
   <section>
@@ -1073,6 +1101,9 @@
       
         
         <a class="post-tag btn btn-outline-primary" href="/tags/laser-scanner/">laser scanner</a>
+      
+        
+        <a class="post-tag btn btn-outline-primary" href="/tags/typography/">typography</a>
       
     </div>
   </section>
@@ -1133,6 +1164,18 @@
   
 
   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
     
 
 
@@ -1144,6 +1187,42 @@
 
 
 
+  <aside id="related-posts" aria-labelledby="related-label">
+    <h3 class="mb-4" id="related-label">Further Reading</h3>
+    <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
+      
+        <article class="col">
+          <a href="/posts/text-and-typography/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1565235180"
+  data-df="ll"
+  
+>
+  Aug  8, 2019
+</time>
+
+              <h4 class="pt-0 my-2">Text and Typography</h4>
+              <div class="text-muted">
+                <p>Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+    </nav>
+  </aside>
+  <!-- #related-posts -->
+
 
             
               
@@ -1154,9 +1233,13 @@
   
 
   
-    <div class="btn btn-outline-primary disabled" aria-label="Older">
-      <p>-</p>
-    </div>
+    <a
+      href="/posts/text-and-typography/"
+      class="btn btn-outline-primary"
+      aria-label="Older"
+    >
+      <p>Text and Typography</p>
+    </a>
   
 
   
@@ -1246,6 +1329,29 @@
         
         
 
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
 
 
   <section>
@@ -1257,6 +1363,9 @@
       
         
         <a class="post-tag btn btn-outline-primary" href="/tags/laser-scanner/">laser scanner</a>
+      
+        
+        <a class="post-tag btn btn-outline-primary" href="/tags/typography/">typography</a>
       
     </div>
   </section>
@@ -1311,6 +1420,58 @@
     
       
       <!-- The comments switcher -->
+
+  
+  <script>
+  var disqus_config = function () {
+    this.page.url = 'http://localhost:4000/posts/laserscanner/';
+    this.page.identifier = '/posts/laserscanner/';
+  };
+
+  function addDisqus() {
+    let disqusThread = document.createElement('div');
+    let paragraph = document.createElement('p');
+
+    disqusThread.id = 'disqus_thread';
+    paragraph.className = 'text-center text-muted small';
+    paragraph.innerHTML = 'Comments powered by <a href="https://disqus.com/">Disqus</a>.';
+    disqusThread.appendChild(paragraph);
+
+    const footer = document.querySelector('footer');
+    footer.insertAdjacentElement("beforebegin", disqusThread);
+  }function reloadDisqus(event) {
+    if (event.source === window && event.data && event.data.id === Theme.ID) {if (typeof DISQUS === 'undefined') {
+        return;
+      }
+
+      if (document.readyState == 'complete') {
+        DISQUS.reset({ reload: true, config: disqus_config });
+      }
+    }
+  }
+
+  addDisqus();
+
+  if (Theme.switchable) {
+    addEventListener('message', reloadDisqus);
+  }var disqusObserver = new IntersectionObserver(
+    function (entries) {
+      if (entries[0].isIntersecting) {
+        var d = document,
+          s = d.createElement('script');
+        s.src = 'https://.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+
+        disqusObserver.disconnect();
+      }
+    },
+    { threshold: [0] }
+  );
+
+  disqusObserver.observe(document.getElementById('disqus_thread'));
+</script>
+
 
 
     

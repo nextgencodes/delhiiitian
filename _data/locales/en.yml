@@ -11,8 +11,10 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
+  projects: Projects
   categories: Categories
   tags: Tags
+  resume: Resume
   archives: Archives
   about: About
 
