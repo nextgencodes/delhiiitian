@@ -3,19 +3,21 @@
 @use '../abstracts/breakpoints' as bp; /* Adjust path if needed */
 @use '../abstracts/placeholders';     /* Adjust path if needed */
 
-$resume__body-bg-color: #ffffff;
-$resume__text-color: #333;
-$resume__line-height: 1.6;
-$resume__white-color: #fff;
-$resume__sidebar-bg-color: #f0f0f0;
-$resume__border-color: #ddd;
-$resume__secondary-text-color: #555;
-$resume__link-color: #007bff;
-$resume__heading-color: #333;
-$resume__section-heading-color: #444;
-$resume__skill-dot-filled-color: #5cb85c;
-$resume__light-text-color: #777;
-$resume__tools-text-color: #666;
+// Define CSS Variables (but don't set default values here)
+:root {
+  --resume-body-bg-color: var(--main-bg); // Link to theme's main background
+  --resume-text-color: var(--text-color); // Link to theme's text color
+  --resume-white-color: #fff;  // Or link to theme's equivalent if available
+  --resume-sidebar-bg-color: var(--card-bg); //Use card bg for sidebar
+  --resume-border-color: var(--btn-border-color); //Link to theme border color
+  --resume-secondary-text-color: var(--text-muted-color);  // Link to theme muted text
+  --resume-link-color: var(--link-color);   // If you have this in your theme
+  --resume-heading-color: var(--heading-color); // Assuming you have heading colors
+  --resume-section-heading-color: var(--heading-color);
+  --resume-skill-dot-filled-color: #5cb85c; // Keep this static or link to theme
+  --resume-light-text-color: var(--text-muted-color); // Assuming you have a light text
+  --resume-tools-text-color: var(--text-muted-color); // Use the muted text color
+}
 
 // Breakpoints - Adjust as needed to match your project
 $resume__desktop: 992px;
@@ -32,9 +34,9 @@ $resume__mq: (
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: $resume__body-bg-color;
-  color: $resume__text-color;
-  line-height: $resume__line-height;
+  background-color: var(--resume-body-bg-color);
+  color: var(--resume-text-color);
+  line-height: 1.6;
 }
 
 .resume-container {
@@ -42,7 +44,7 @@ $resume__mq: (
   grid-template-columns: 300px 1fr;
   max-width: 1200px;
   margin: 20px auto;
-  background-color: $resume__white-color;
+  background-color: var(--resume-white-color);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
   @media (max-width: map.get($resume__mq, tablet)) {
@@ -60,7 +62,7 @@ $resume__mq: (
 }
 
 .resume-sidebar {
-  background-color: $resume__sidebar-bg-color;
+  background-color: var(--resume-sidebar-bg-color);
   padding: 20px;
 
   @media (max-width: map.get($resume__mq, tablet)) {
@@ -86,7 +88,7 @@ $resume__mq: (
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .resume-profile h1,
@@ -96,7 +98,7 @@ $resume__mq: (
 
 .resume-profile h1 {
   font-size: 1.8em;
-  color: $resume__heading-color;
+  color: var(--resume-heading-color);
 
   @media (max-width: map.get($resume__mq, mobile)) {
     font-size: 1.6em;
@@ -105,7 +107,7 @@ $resume__mq: (
 
 .resume-profile h2 {
   font-size: 1.2em;
-  color: $resume__secondary-text-color;
+  color: var(--resume-secondary-text-color);
   font-weight: normal;
 
   @media (max-width: map.get($resume__mq, mobile)) {
@@ -129,8 +131,8 @@ $resume__mq: (
   font-size: 1.5em;
   margin-top: 0;
   margin-bottom: 10px;
-  color: $resume__heading-color;
-  border-bottom: 2px solid $resume__border-color;
+  color: var(--resume-heading-color);
+  border-bottom: 2px solid var(--resume-border-color);
   padding-bottom: 5px;
 
   @media (max-width: map.get($resume__mq, mobile)) {
@@ -156,13 +158,13 @@ $resume__mq: (
 
 .resume-personal-info i {
   margin-right: 5px;
-  color: $resume__secondary-text-color;
+  color: var(--resume-secondary-text-color);
 }
 
 .resume-personal-info a,
 .resume-skills a,
 .resume-languages a {
-  color: $resume__link-color;
+  color: var(--resume-link-color);
   text-decoration: none;
 }
 
@@ -181,7 +183,7 @@ $resume__mq: (
   font-size: 1.1em;
   margin-top: 10px;
   margin-bottom: 5px;
-  color: $resume__section-heading-color;
+  color: var(--resume-section-heading-color);
 
   @media (max-width: map.get($resume__mq, mobile)) {
     font-size: 1em;
@@ -220,12 +222,12 @@ $resume__mq: (
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  border: 1px solid $resume__border-color;
-  background-color: $resume__white-color;
+  border: 1px solid var(--resume-border-color);
+  background-color: var(--resume-white-color);
   margin-left: 3px;
   &.filled {
-    background-color: $resume__skill-dot-filled-color;
-    border-color: $resume__skill-dot-filled-color;
+    background-color: var(--resume-skill-dot-filled-color);
+    border-color: var(--resume-skill-dot-filled-color);
   }
 }
 
@@ -245,7 +247,7 @@ $resume__mq: (
 }
 
 .level-bar-fill {
-  background-color: $resume__skill-dot-filled-color;
+  background-color: var(--resume-skill-dot-filled-color);
   height: 100%;
   position: absolute;
   left: 0;
@@ -265,7 +267,7 @@ $resume__mq: (
 
 .skill-level-text {
   font-size: 0.85em;
-  color: $resume__light-text-color;
+  color: var(--resume-light-text-color);
   text-align: right; /* Keep right alignment for level text */
   /* Removed absolute positioning styles - no longer needed */
 }
@@ -313,8 +315,8 @@ $resume__mq: (
   font-size: 1.5em;
   margin-top: 0;
   margin-bottom: 15px;
-  color: $resume__heading-color;
-  border-bottom: 2px solid $resume__border-color;
+  color: var(--resume-heading-color);
+  border-bottom: 2px solid var(--resume-border-color);
   padding-bottom: 5px;
 
   @media (max-width: map.get($resume__mq, tablet)) {
@@ -355,7 +357,7 @@ $resume__mq: (
   font-size: 1.2em;
   margin-top: 0;
   margin-bottom: 5px;
-  color: $resume__heading-color;
+  color: var(--resume-heading-color);
 
   @media (max-width: map.get($resume__mq, mobile)) {
     font-size: 1.1em;
@@ -366,7 +368,7 @@ $resume__mq: (
 .resume-education-item .degree,
 .resume-experience-item .company {
   font-weight: bold;
-  color: $resume__secondary-text-color;
+  color: var(--resume-secondary-text-color);
   margin-bottom: 3px;
 }
 
@@ -374,7 +376,7 @@ $resume__mq: (
 .resume-experience-item .dates,
 .resume-career-break-item .dates {
   font-size: 0.9em;
-  color: $resume__light-text-color;
+  color: var(--resume-light-text-color);
   margin-bottom: 5px;
 
   @media (max-width: map.get($resume__mq, mobile)) {
@@ -435,7 +437,7 @@ $resume__mq: (
 
 .resume-tools-used {
   font-size: 0.95em;
-  color: $resume__tools-text-color;
+  color: var(--resume-tools-text-color);
   margin-top: 5px;
 
   @media (max-width: map.get($resume__mq, mobile)) {
@@ -461,7 +463,7 @@ $resume__mq: (
   flex-basis: auto;
   text-align: right;
   margin-right: 5px; /* Spacing after dates */
-  color: $resume__light-text-color; /* Match dates color */
+  color: var(--resume-light-text-color); /* Match dates color */
   font-size: 0.9em; /* Match dates font size */
   display: inline-block; /* Ensure inline display */
 }
@@ -482,7 +484,7 @@ $resume__mq: (
 .resume-experience-item .company { /* Style for company name in work experience */
   text-align: right; /* Align company name to the right */
   font-weight: bold; /* Make company name bold */
-  color: $resume__secondary-text-color; /* Use secondary text color */
+  color: var(--resume-secondary-text-color); /* Use secondary text color */
 }
 
 .resume-experience-item .experience-header {
@@ -492,144 +494,172 @@ $resume__mq: (
   margin-bottom: 5px; /* Add margin below header for dates */
 }
 
-#custom-timeline {
-  letter-spacing: 0.03rem;
+/* The actual timeline (the vertical ruler) */
+.timeline-timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-  @include bp.lt(bp.get(sm)) {
-    margin-top: -1rem;
+/* The actual timeline (the vertical ruler) */
+.timeline-timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: var(--site-title-color);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
 
-    ul {
-      letter-spacing: 0;
-    }
+/* Container around content */
+.timeline-container {
+  padding: 0px 0px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline - Left containers */
+.timeline-left::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -12px; /* Adjust for left container */
+  background-color: white;
+  border: 4px solid var(--site-subtitle-color);
+  top: 20px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* The circles on the timeline - Right containers */
+.timeline-right::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: -12px; /* Adjust for right container */
+  background-color: white;
+  border: 4px solid var(--site-subtitle-color);
+  top: 20px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.timeline-left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.timeline-right {
+  left: 50%;
+}
+
+/* Add year to the left container */
+.timeline-left::before {
+  content: attr(data-year); /* Use the data-year attribute */
+  position: absolute;
+  top: 22px; /* Adjust as needed */
+  right: 30px; /* Adjust as needed */
+  font-size: 0.8em; /* Adjust font size as needed */
+  color: var(--site-subtitle-color); /* Adjust color as needed */
+  z-index: 1;
+}
+
+/* Add year to the right container */
+.timeline-right::before {
+  content: attr(data-year); /* Use the data-year attribute */
+  position: absolute;
+  top: 22px; /* Adjust as needed */
+  left: 30px; /* Adjust as needed */
+  font-size: 0.8em; /* Adjust font size as needed */
+  color: var(--site-subtitle-color); /* Adjust color as needed */
+  z-index: 1;
+}
+
+/* The actual content */
+.timeline-content {
+  padding: 10px 30px;
+  background-color: var(--resume-body-bg-color);
+  position: relative;
+  border-radius: 6px;
   }
 
-  $timeline-width: 4px;
-
-  %custom-timeline {
-    content: '';
-    width: $timeline-width;
-    position: relative;
-    background-color: var(--timeline-color); /* Make sure --timeline-color is defined in your CSS variables */
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+/* Place the timelime to the left */
+  .timeline-timeline::after {
+    left: 31px;
   }
 
-  .timeline-year-item-container { /* New container style */
-    display: flex; /* Enable flexbox */
-    justify-content: left; /* Space between year and education item */
-    align-items: baseline; /* Align items to the start of the container */
-    margin-top: 0.2px;
-    margin-bottom: 0.2px;
+/* Full-width containers */
+  .timeline-container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
   }
 
-
-  .timeline-year-heading.lead.d-block { /* Renamed from .year, and made specific */
-    height: auto; /* Adjust height to auto to fit content */
-    font-size: 1.3rem;
-    position: relative;
-    margin-left: 0; /* Reset margin-left */
-    margin-right: 20px; /* Add margin to separate from education item */
-    padding-left: 20px; /* Add padding to align with timeline start */
-    display: inline-block; /* Change to inline-block to be in same line */
-    width: auto; /* Adjust width to auto to fit content */
-    flex-shrink: 0; /* Prevent year heading from shrinking */
-
-
-    &::before {
-      @extend %custom-timeline; /* Renamed placeholder */
-
-      height: 100%; /* Extend timeline to full height of year + education item */
-      left: 9.5px;
-      top: 0; /* Align timeline to top of container */
-      bottom: auto; /* Remove bottom */
-      
-    }
-
-    &:first-child::before {
-      @extend %custom-timeline; /* Renamed placeholder */
-      
-      height: 50%;
-      top: 0; /* Align timeline to top for first child */
-    }
-
-    /* Year dot (now more generic timeline dot) */
-    &::after {
-      content: '';
-      display: inline-block; /* Changed to block */
-      position: relative; /* Use absolute positioning */
-      border-radius: 50%;
-      width: 12px;
-      height: 12px;
-      left: 15.5px;
-      border: 3px solid;
-      background-color: var(--timeline-year-dot-color); /* Make sure --timeline-year-dot-color is defined */
-      border-color: var(--timeline-node-bg);        /* Make sure --timeline-node-bg is defined */
-      box-shadow: 0 0 2px 0 #c2c6cc;
-      z-index: 1;
-    }
+/* Make sure that all arrows are pointing leftwards */
+  .timeline-container::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
   }
 
-  .resume-education-item { /* Adjust resume education item for timeline */
-    margin-bottom: 0; /* Remove bottom margin from education item */
-    width: auto; /* Adjust width to auto */
-    flex-grow: 1; /* Allow education item to take remaining space */
-    text-align: right; /* Align content to the right */
+/* Make sure all circles are at the same spot */
+  .timeline-left::after, .timeline-right::after {
+    left: 15px;
   }
 
-
-  ul {
-    li {
-      font-size: 1.1rem;
-      line-height: 3rem;
-
-      @extend %text-ellipsis; /* Make sure %text-ellipsis placeholder is defined or remove if not needed */
-
-      &:nth-child(odd) {
-        background-color: var(--main-bg, #ffffff); /* Make sure --main-bg is defined */
-        background-image: linear-gradient(
-          to left,
-          #ffffff,
-          #fbfbfb,
-          #fbfbfb,
-          #fbfbfb,
-          #ffffff
-        );
-      }
-
-      &::before {
-        @extend %custom-timeline; /* Renamed placeholder */
-
-        top: 0;
-        left: 77px;
-        height: 3.1rem;
-      }
-    }
-
-    &:last-child li:last-child::before {
-      height: 1.5rem;
-    }
-  } /* #custom-timeline ul */
-
-
-  .timeline-item-description { /* Renamed from a (post title in archives) */
-    /* post description in timeline */
-    margin-left: 2.5rem;
-    position: relative;
-    top: 0.1rem;
-
-
-    &::before {
-      /* the dot before timeline description */
-      content: '';
-      display: inline-block;
-      position: relative;
-      border-radius: 50%;
-      width: 8px;
-      height: 8px;
-      float: left;
-      top: 1.35rem;
-      left: 35.5px;
-      background-color: var(--timeline-node-bg); /* Make sure --timeline-node-bg is defined */
-      box-shadow: 0 0 3px 0 #c2c6cc;
-      z-index: 1;
-    }
+/* Make all right containers behave like the left ones */
+  .timeline-right {
+    left: 0%;
   }
-} /* #custom-timeline */
+}
+
+
+
+#download-button-container.download-button-container { /* Add a more specific class for styling and JS targeting */
+  position: fixed;
+  top: 290px; /* Initial top position */
+  right: 380px; /* Initial right position - keep this or adjust as needed */
+  z-index: 1000;
+  // transition: top 0.03s ease-out; /* Smooth transition for top property */
+}
+
+#download-button-container.stuck-top.download-button-container { /* Style when stuck at top */
+  top: 10px !important; /* Overrides inline style, adjust '20px' for desired top margin when stuck */
+  /* You can add other styles to indicate it's stuck if you want, e.g., different background */
+  /* background-color: lightgreen; */
+}
+
+
+#download-pdf-button {
+  padding: 10px 15px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#download-pdf-button:hover {
+  background-color: #0056b3;
+}
+
+#download-pdf-button i {
+  margin-right: 5px;
+}
+
+@media print {
+  #download-button-container.download-button-container {
+    display: none;
+  }
+}

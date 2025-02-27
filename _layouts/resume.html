@@ -1,11 +1,75 @@
 ---
 layout: default
 panel_includes:
-- resume-skills-panel
-- resume-languages-panel
+  - resume-skills-panel
+  - resume-languages-panel
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const downloadButtonContainer = document.getElementById('download-button-container');
+    const downloadButton = document.getElementById('download-pdf-button');
+    const resumeContent = document.getElementById('resume');
+
+    let initialTopOffset = 290;
+    let stuckTopThreshold = 10;
+    let isStuckToTop = false;
+    let lastScrollY = 0;
+
+    window.addEventListener('scroll', () => {
+      let scrollY = window.scrollY;
+      let scrollDirection = scrollY > lastScrollY ? 'down' : 'up';
+      lastScrollY = scrollY;
+
+      let newTopPosition = initialTopOffset - scrollY;
+
+      if (newTopPosition <= stuckTopThreshold) {
+        //  Sticking to top
+        newTopPosition = stuckTopThreshold;
+        if (!isStuckToTop) {
+            downloadButtonContainer.classList.add('stuck-top');
+            isStuckToTop = true;
+        }
+      } else if (scrollY <= initialTopOffset - stuckTopThreshold){
+          isStuckToTop = false;
+          downloadButtonContainer.classList.remove('stuck-top');
+          downloadButtonContainer.style.top = `${newTopPosition}px`;
+      }
+      else {
+        // Below the sticking point, but not yet at initial position
+          downloadButtonContainer.classList.remove('stuck-top');
+          isStuckToTop = false;
+          downloadButtonContainer.style.top = `${initialTopOffset}px`;
+      }
+
+      downloadButtonContainer.style.top = `${newTopPosition}px`;
+    });
+
+    downloadButton.addEventListener('click', function() {
+      location.href='../assets/files/resume-latest.pdf';
+      // const opt = {
+      //   margin:       5,
+      //   filename:     'resume.pdf',
+      //   image:        { type: 'png', quality: 5 },
+      //   html2canvas:  { scale: 1 },
+      //   jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+      // };
+      // html2pdf().from(resumeContent).set(opt).save();
+    });
+  });
+</script>
+
+
 <div id="resume">
+
+  <div id="download-button-container" class="download-button-container">
+    <button id='download-pdf-button'>
+      <i class="fas fa-download"></i> Download PDF
+    </button>
+  </div>
+
   <div class="resume-main-content">
     <section>
       <div class="resume-profile"> <!-- Renamed from .profile -->
@@ -21,9 +85,9 @@ panel_includes:
           <li><i class="fas fa-envelope"></i> E-mail: <a href="mailto:{{ page.email }}"> {{page.email}}</a></li>
           <li><i class="fab fa-hashtag"></i> Social: |
             {% if page.other_social %}
-              {% for social in page.other_social %}
-               <i class="{{ social.icon }}"></i> <a href="{{ social.url }}" target="_blank">{{ social.urlText }}</a> |
-              {% endfor %}
+            {% for social in page.other_social %}
+            <i class="{{ social.icon }}"></i> <a href="{{ social.url }}" target="_blank">{{ social.urlText }}</a> |
+            {% endfor %}
             {% endif %}
           </li>
         </ul>
@@ -33,49 +97,24 @@ panel_includes:
       <h2><i class="fas fa-file-alt"></i> Resume Summary</h2>
       <p>{{ page.summary }}</p>
     </section>
-<!-- 
-    <section class="resume-education-section">
-      <h2><i class="fas fa-graduation-cap"></i> Education</h2>
-      {% for edu in page.education %}
-      <div class="resume-education-item">
-        <div class="education-line">
-          <h3>{{ edu.institution }} </h3>
-          <span class="education-dates">({{ edu.dates }})</span>
-          <p class="degree">{{ edu.degree }}</p>
-        </div>
-      </div>
-      {% endfor %}
-    </section> -->
 
     <section class="resume-education-section">
       <h2><i class="fas fa-graduation-cap"></i> Education</h2>
-      <div id="custom-timeline" class="pl-xl-3">
-        {% for item in page.education %}
-        {% assign current_name = item.dates %}
-    
-        {% if current_name != last_name %}
-        {% unless forloop.first %}</ul>{% endunless %}
-        
-        <div class="timeline-year-item-container">  <!-- Container for year and education item -->
-          <time class="timeline-year-heading lead d-block">{{ current_name }}</time>
-          <div class="resume-education-item">
-            <div class="education-line">
-              <h3>{{ item.institution }} </h3>
-              <p class="degree">({{ item.degree }})</p>
-            </div>
-          </div>
+      <div class="timeline-timeline">
+        {% for edu in page.education %}
+        {% assign mod = forloop.index | modulo: 2 %}
+        {% assign start_year = edu.dates %}
+        <div class="timeline-container {% if mod == 0 %}timeline-right{% else %}timeline-left{% endif %}" data-year="{{ start_year }}">
+              <div class="timeline-content">
+                <h3>{{ edu.institution }} </h3>
+                <!-- <span class="education-dates">({{ edu.dates }})</span> -->
+                <p class="degree">{{ edu.degree }}</p>
+              </div>
         </div>
-        {{ '<ul class="list-unstyled">' }}
-    
-          {% assign last_name = current_name %}
-          {% endif %}
-  
-    
-          {% if forloop.last %}
-        {% endif %}
         {% endfor %}
       </div>
     </section>
+
 
     <section class="resume-career-break-section">
       <h2><i class="fas fa-hourglass-half"></i> Career Break - Self Development</h2>
@@ -123,9 +162,6 @@ panel_includes:
       </div>
       {% endfor %}
     </section>
-
-
-
 
     <section class="resume-patents-section">
       <h2><i class="fas fa-clipboard"></i> Patents</h2>

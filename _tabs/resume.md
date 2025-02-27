@@ -1,7 +1,7 @@
 ---
 layout: resume
 icon: fas fa-pen-nib
-order: 1
+order: 4
 username: Ashok Kumar
 title: Resume
 designation: Data Scientist (Specialist)

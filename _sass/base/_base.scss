@@ -255,6 +255,9 @@ main {
   overflow: hidden;
   position: relative;
   background: var(--img-bg);
+  border-radius: 50%; // Make it circular
+    mask-image: radial-gradient(circle, white, white); // Mask the shimmer
+
 
   &::before {
     content: '';
