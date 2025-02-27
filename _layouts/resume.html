@@ -48,15 +48,15 @@ panel_includes:
     });
 
     downloadButton.addEventListener('click', function() {
-      location.href='../assets/files/resume-latest.pdf';
-      // const opt = {
-      //   margin:       5,
-      //   filename:     'resume.pdf',
-      //   image:        { type: 'png', quality: 5 },
-      //   html2canvas:  { scale: 1 },
-      //   jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
-      // };
-      // html2pdf().from(resumeContent).set(opt).save();
+      // location.href='../assets/files/resume-latest.pdf';
+      const opt = {
+        margin:       5,
+        filename:     'resume.pdf',
+        image:        { type: 'jpeg', quality: 1 },
+        html2canvas:  { scale: 1 },
+        jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+      };
+      html2pdf().from(resumeContent).set(opt).save();
     });
   });
 </script>
