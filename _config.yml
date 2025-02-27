@@ -73,7 +73,7 @@ analytics:
   fathom:
     id: # fill in your Fathom Site ID
   yandexmatrica:
-    id: 100082263 # fill in your Yandex matrica tag
+    id: #100082263 # fill in your Yandex matrica tag
 
 # Page views settings
 pageviews:
