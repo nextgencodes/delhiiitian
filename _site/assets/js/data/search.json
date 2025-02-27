@@ -2,18 +2,10 @@
   {
     "title": "Getting Started with Laser Scanners",
     "url": "/posts/laserscanner/",
-    "categories": "Project, AI, ML",
+    "categories": "Project, Laser",
     "tags": "laser scanner, 3D scanning",
     "date": "2024-01-26 15:30:00 +0530",
     "content": "A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively."
-  },
-  {
-    "title": "Writing a New Post",
-    "url": "/posts/write-a-new-post/",
-    "categories": "Blogging, Tutorial",
-    "tags": "writing",
-    "date": "2020-08-08 11:40:00 +0530",
-    "content": "This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and..."
   }
   
 ]
