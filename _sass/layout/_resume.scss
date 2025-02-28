@@ -663,3 +663,17 @@ $resume__mq: (
     display: none;
   }
 }
+
+/* Mobile Styles - Adjust download button for mobile */
+@media (max-width: map.get($resume__mq, mobile)) {
+  #download-button-container.download-button-container {
+    position: fixed;
+    top: 275px;
+    right: 8px;
+    z-index: 1000;
+  }
+
+  #download-pdf-button {
+    padding: 2px 15px;
+  }
+}
