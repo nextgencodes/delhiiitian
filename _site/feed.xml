@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Darkgen</title>
   <subtitle>A personal blog on Data Science and Machine Learning by Someone from IIT Delhi.</subtitle>
-  <updated>2025-02-28T23:45:06+05:30</updated>
+  <updated>2025-03-07T18:43:29+05:30</updated>
   <author>
     <name>Ashok Kumar</name>
     <uri>http://localhost:4000/</uri>
@@ -17,32 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Getting Started with Laser Scanners</title>
-    <link href="http://localhost:4000/posts/laserscanner/" rel="alternate" type="text/html" title="Getting Started with Laser Scanners" />
-    <published>2024-01-26T15:30:00+05:30</published>
-  
-    <updated>2025-02-28T00:02:23+05:30</updated>
-  
-    <id>http://localhost:4000/posts/laserscanner/</id>
-    <content type="text/html" src="http://localhost:4000/posts/laserscanner/" />
-    <author>
-      <name>Ashok Kumar</name>
-    </author>
-
-  
-    
-    <category term="Project" />
-    
-    <category term="Laser" />
-    
-  
-
-  <summary>A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively.</summary>
-
-  </entry>
 
 </feed>
 

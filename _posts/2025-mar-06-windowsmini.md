@@ -2,7 +2,7 @@
 title: Testing Suspicious Software using Mini Windows 8.1 in VirtualBox
 description: Safely test potentially malicious software using a lightweight Windows 8.1 virtual machine in VirtualBox.  Learn setup, file sharing, and isolation.
 authors: ashok
-date: 2025-03-07 18:00:00 +0000
+date: 2025-mar-6 18:00:00 +0000
 categories: [Cybersecurity, Virtual Machine]
 tags: [Windows, Vulnerability]
 pin: true
