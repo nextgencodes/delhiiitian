@@ -1,4 +1,20 @@
 [
+  {
+    "title": "Testing Suspicious Software using Mini Windows 8.1 in VirtualBox",
+    "url": "/posts/windowsmini/",
+    "categories": "Cybersecurity, Virtual Machine",
+    "tags": "Windows, Vulnerability",
+    "date": "2025-03-06 23:30:00 +0530",
+    "content": "Safely test potentially malicious software using a lightweight Windows 8.1 virtual machine in VirtualBox.  Learn setup, file sharing, and isolation."
+  },
+  {
+    "title": "Getting Started with Laser Scanners",
+    "url": "/posts/laserscanner/",
+    "categories": "Project, Laser",
+    "tags": "Laser Scanner, 3D Scanning",
+    "date": "2025-01-26 15:30:00 +0530",
+    "content": "A comprehensive guide to help you get started with laser scanners. Learn about different types of scanners, their applications, and the basic steps to operate them effectively."
+  }
   
 ]
 
