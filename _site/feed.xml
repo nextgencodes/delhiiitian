@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Darkgen</title>
   <subtitle>A personal blog on Data Science and Machine Learning by Someone from IIT Delhi.</subtitle>
-  <updated>2025-03-07T18:46:36+05:30</updated>
+  <updated>2025-03-11T00:16:01+05:30</updated>
   <author>
     <name>Ashok Kumar</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>How AI is Redefining Accuracy in Document Review</title>
+    <link href="http://localhost:4000/posts/metrological/" rel="alternate" type="text/html" title="How AI is Redefining Accuracy in Document Review" />
+    <published>2025-03-10T15:30:00+05:30</published>
+  
+    <updated>2025-03-10T15:30:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/metrological/</id>
+    <content type="text/html" src="http://localhost:4000/posts/metrological/" />
+    <author>
+      <name>Ashok Kumar</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  <summary>How a Large Language Models, can revolutionize document review. Learn how AI can be your secret weapon for error-free documents!</summary>
+
+  </entry>
 
   
   <entry>
@@ -50,7 +76,7 @@
     <link href="http://localhost:4000/posts/laserscanner/" rel="alternate" type="text/html" title="Getting Started with Laser Scanners" />
     <published>2025-01-26T15:30:00+05:30</published>
   
-    <updated>2025-03-07T18:43:36+05:30</updated>
+    <updated>2025-03-07T18:46:47+05:30</updated>
   
     <id>http://localhost:4000/posts/laserscanner/</id>
     <content type="text/html" src="http://localhost:4000/posts/laserscanner/" />
