@@ -6,7 +6,6 @@ username: Ashok Kumar
 title: Resume
 designation: Data Scientist (Specialist)
 address: India
-phone: "+91-######2461"
 email: delhiiitian@gmail.com
 other_social:
   - url: https://www.linkedin.com/in/delhiiitian
