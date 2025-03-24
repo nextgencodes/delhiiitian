@@ -220,16 +220,9 @@
 
   
 
-  
-    
-
-    
-
-  
 
 
-
-  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/en.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js,npm/tocbot@4.32.2/dist/tocbot.min.js,npm/mermaid@11.4.0/dist/mermaid.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/en.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js,npm/tocbot@4.32.2/dist/tocbot.min.js"></script>
 
 
 
@@ -240,16 +233,13 @@
 <script defer src="/assets/js/dist/post.min.js"></script>
 
 
-  <!-- MathJax -->
-  <script async src="/assets/js/data/mathjax.js"></script>
-  <script async src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
-
 
 <!-- Pageviews -->
 
   
 
+  
+    
   
 
 
@@ -689,9 +679,9 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="101 words"
+  title="586 words"
 >
-  <em>1 min</em> read</span>
+  <em>3 min</em> read</span>
 
         </div>
       </div>
@@ -725,12 +715,58 @@
   <div class="content">
     <h2 id="introduction"><span class="me-2">Introduction</span><a href="#introduction" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
-<p>Ever found a suspicious file, like a keygen, and worried about running it?  This post shows how to create a safe, isolated environment using a lightweight Windows 8.1 virtual machine within VirtualBox. We’ll walk through downloading a tiny Windows 8.1 ISO, installing it in VirtualBox, and setting up shared folders to transfer files.  This allows you to test potentially malicious software without risking your main operating system.  The VM uses minimal resources (around 2GB of disk space and 200MB of RAM), making it ideal for quick tests.
+<p>Ever found a suspicious file, like a keygen, and worried about running it?  This post shows how to create a safe, isolated environment using a lightweight Windows 8.1 virtual machine within VirtualBox. We’ll walk through downloading a tiny Windows 8.1 ISO, installing it in VirtualBox, and setting up shared folders to transfer files.  This allows you to test potentially malicious software without risking your main operating system.  The VM uses minimal resources , making it ideal for quick tests.
 See the complete steps in this video</p>
 
-<h2 id="video"><span class="me-2">Video</span><a href="#video" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<p>Ever stumbled upon a file that looks a little…suspicious?  Maybe a keygen, a cracked application, or something else you’re not entirely sure about?  Like me the other day, you might find Windows Defender jumping in to quarantine it, saving you from potential trouble.</p>
 
-<p>{% include embed/youtube.html id=’Nn2CnvD5UOM’ %}</p>
+<p>But what if you <em>really</em> need to test it?  Or you’re just curious?  Running it directly on your main operating system is a recipe for disaster.  Docker and containers are great, but sometimes feel overkill for a quick test, especially when file sharing gets complicated. Online virtual machines are an option, but waiting for them to spin up and dealing with file transfers can be a pain too.</p>
+
+<p>So, what’s a quick and relatively easy way to test potentially risky software in an isolated environment?  The answer - a lightweight virtual machine!</p>
+
+<p>Visit <a href="https://archive.org/download/mini-8.1-and-soft">Windows 8.1 Mini</a> to download the 8.1 Mini Version available at archive.org</p>
+
+<p>There are online free Virtual Machines which you can utilize to do any isolated work. One such website is <a href="https://onworks.net">Onworks</a></p>
+
+<p>In this quick guide, we’ll walk through setting up a minimal Windows 8.1 virtual machine using VirtualBox.  This approach is perfect for:</p>
+
+<ul>
+  <li><strong>Testing suspicious files:</strong>  Like that keygen you found 😉.</li>
+  <li><strong>Running older software:</strong>  That might not be compatible with your current OS.</li>
+  <li><strong>Exploring different operating systems:</strong> Without messing with your main setup.</li>
+</ul>
+
+<p><strong>Here’s the gist of the process:</strong></p>
+
+<ol>
+  <li><strong>Grab a lightweight Windows 8.1 ISO:</strong> Search for “Mini Windows 8.1 ISO” – you’ll find images around 900MB that are surprisingly functional with around 2GB of disk space usage and 200MB of RAM after installation.</li>
+  <li><strong>Install VirtualBox (if you haven’t already):</strong> It’s free and powerful.</li>
+  <li><strong>Create a new VM in VirtualBox:</strong>  Choose Windows 8.1 (32-bit) and allocate minimal resources (around 200MB RAM and a few GB of disk space).</li>
+  <li><strong>Install Windows 8.1 in the VM:</strong>  It’s surprisingly fast for such a minimal setup!</li>
+  <li><strong>Install VirtualBox Guest Additions:</strong> This is crucial for shared folders and better performance.</li>
+  <li><strong>Set up a shared folder:</strong>  Easily transfer files between your host machine and the VM.</li>
+  <li><strong>Test your software!</strong>  Now you can safely run that questionable file within the VM, isolated from your main system.</li>
+</ol>
+
+<p><strong>Why this is handy:</strong></p>
+
+<ul>
+  <li><strong>Isolation:</strong>  Keeps potentially harmful software away from your main OS.</li>
+  <li><strong>Lightweight:</strong>  Doesn’t hog resources, perfect for quick tests.</li>
+  <li><strong>Free:</strong>  VirtualBox and minimal Windows images are readily available.</li>
+  <li><strong>Relatively easy:</strong>  Straightforward setup process.</li>
+</ul>
+
+<p><strong>Important Note:</strong> While this setup provides a good level of isolation, remember that the network adapter in your VM is still connected to your system’s network. For truly isolated testing, you’d need to consider network isolation within VirtualBox or other advanced setups.</p>
+
+<p>This approach isn’t foolproof, but it’s a significant step up from running risky software directly on your machine.  Give it a try next time you need to test something questionable!</p>
+
+<p>Have a look at the full tutorial on installing and testing the VM</p>
+
+<h2 id="video"><span class="me-2">Video</span><a href="#video" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<iframe class="embed-video" loading="lazy" src="https://www.youtube.com/embed/Nn2CnvD5UOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Let me know in the comments if you found this helpful and what other tech tips you’d like to see!</p>
 
   </div>
 
@@ -859,6 +895,13 @@ See the complete steps in this video</p>
   <section id="access-lastmod">
     <h2 class="panel-heading">Recently Updated</h2>
     <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/posts/lc-spiralmatrix/">54. Spiral Matrix</a>
+        </li>
       
         
         
@@ -1017,6 +1060,50 @@ See the complete steps in this video</p>
         
         
 
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
 
 
   <section>
@@ -1028,6 +1115,9 @@ See the complete steps in this video</p>
       
         
         <a class="post-tag btn btn-outline-primary" href="/tags/laser-scanner/">Laser Scanner</a>
+      
+        
+        <a class="post-tag btn btn-outline-primary" href="/tags/leetcode/">Leetcode</a>
       
         
         <a class="post-tag btn btn-outline-primary" href="/tags/llm/">LLM</a>
@@ -1308,6 +1398,50 @@ See the complete steps in this video</p>
         
         
 
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
 
 
   <section>
@@ -1319,6 +1453,9 @@ See the complete steps in this video</p>
       
         
         <a class="post-tag btn btn-outline-primary" href="/tags/laser-scanner/">Laser Scanner</a>
+      
+        
+        <a class="post-tag btn btn-outline-primary" href="/tags/leetcode/">Leetcode</a>
       
         
         <a class="post-tag btn btn-outline-primary" href="/tags/llm/">LLM</a>
@@ -1421,7 +1558,7 @@ See the complete steps in this video</p>
       if (entries[0].isIntersecting) {
         var d = document,
           s = d.createElement('script');
-        s.src = 'https://.disqus.com/embed.js';
+        s.src = 'https://delhiiitian.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
 

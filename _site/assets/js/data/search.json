@@ -1,5 +1,13 @@
 [
   {
+    "title": "54. Spiral Matrix",
+    "url": "/posts/lc-spiralmatrix/",
+    "categories": "Leetcode, Spiral Matrix",
+    "tags": "Leetcode",
+    "date": "2025-03-23 15:30:00 +0530",
+    "content": "Introduction Today, we’re diving into a classic matrix problem: spiral matrix traversal. Given a 2D matrix, our goal is to extract all its elements in a spiral path, starting from the top-left corn..."
+  },
+  {
     "title": "How AI is Redefining Accuracy in Document Review",
     "url": "/posts/metrological/",
     "categories": "Blogging, Tutorial",

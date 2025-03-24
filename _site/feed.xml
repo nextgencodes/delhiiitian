@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Darkgen</title>
   <subtitle>A personal blog on Data Science and Machine Learning by Someone from IIT Delhi.</subtitle>
-  <updated>2025-03-11T00:16:01+05:30</updated>
+  <updated>2025-03-24T16:32:13+05:30</updated>
   <author>
     <name>Ashok Kumar</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>54. Spiral Matrix</title>
+    <link href="http://localhost:4000/posts/lc-spiralmatrix/" rel="alternate" type="text/html" title="54. Spiral Matrix" />
+    <published>2025-03-23T15:30:00+05:30</published>
+  
+    <updated>2025-03-23T15:30:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/lc-spiralmatrix/</id>
+    <content type="text/html" src="http://localhost:4000/posts/lc-spiralmatrix/" />
+    <author>
+      <name>Ashok Kumar</name>
+    </author>
+
+  
+    
+    <category term="Leetcode" />
+    
+    <category term="Spiral Matrix" />
+    
+  
+
+  <summary>Introduction Today, we’re diving into a classic matrix problem: spiral matrix traversal. Given a 2D matrix, our goal is to extract all its elements in a spiral path, starting from the top-left corner and moving clockwise. Check the leetcode problem here  Problem Statement Given an m x n matrix, return all elements of the matrix in spiral order.  Example 1:  Input: matrix = [[1,2,3],            ...</summary>
+
+  </entry>
 
   
   <entry>
