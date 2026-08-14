@@ -1,5 +1,5 @@
 ---
-title: DeepMind CEO Predicts Human-Level AI Within 5-10 Years: What It Means for Society
+title: DeepMind CEO Predicts Human-Level AI Within 5-10 Years - What It Means for Society
 description: Demis Hassabis' forecast that AGI will match human capabilities in the near future sparks important conversations about technological readiness, ethical preparation, and the profound societal implications of artificial general intelligence.
 authors: ashok
 date: 2025-mar-17 10:00:00 +0000

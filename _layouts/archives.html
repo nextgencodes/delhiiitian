@@ -2,9 +2,7 @@
 layout: page
 # The Archives of posts.
 ---
-
 {% include lang.html %}
-
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
@@ -21,10 +19,10 @@ layout: page
       {% assign last_year = cur_year %}
     {% endif %}
     <li>
-      {% assign ts = post.date | date: '%s' %}
-      <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
-      <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
-        {{ post.date | date: df_strftime_m }}
+      {% assign date_str = post.url | remove: '/posts/' | remove: '/' | split: '-' | slice: 0, 3 | join: '-' %}
+      <span class="date day" data-ts="{{ date_str | date: '%s' }}" data-df="DD">{{ date_str | date: '%d' }}</span>
+      <span class="date month small text-muted ms-1" data-ts="{{ date_str | date: '%s' }}" data-df="{{ df_dayjs_m }}">
+        {{ date_str | date: df_strftime_m }}
       </span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>

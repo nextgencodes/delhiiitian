@@ -18,14 +18,14 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-13
 - **Date**: 2025-03-13
-- **Title**: When AI Learns to Act in the World: Robotics, Ethics, and Society's Response
+- **Title**: When AI Learns to Act in the World: Robotics Ethics and Society's Response
 - **Source**: Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed ... (deepmind.google), Yale Scholar Banned After A.I. News Site Accuses Her of Terrorist Link ... (nytimes.com), French publishers and authors file lawsuit against Meta in AI case (reuters.com)
 - **Summary**: Covered the March 13, 2025 announcements and discussions around DeepMind's Gemini Robotics system for physical AI action, ethical controversies including Yale scholar suspension over AI-generated content, and legal challenges including French lawsuit against Meta over AI training data copyright.
 - **File**: _posts/2025-03-13-ai-robotics-ethics-society.md
 
 ## 2025-03-14
 - **Date**: 2025-03-14
-- **Title**: OpenAI's Call for a National AI Strategy: Why Federal Action Matters Now
+- **Title**: OpenAI's Call for a National AI Strategy - Why Federal Action Matters Now
 - **Source**: AI Daily News March 14 2025: OpenAI Pushes for Federal Shield in AI ... (noumen.substack.com)
 - **Summary**: Covered OpenAI's March 14, 2025 call for a federal AI Action Plan addressing national infrastructure, equitable benefit sharing, AI consortium for security/ethics, and copyright reform, in response to the surge of 781 state-level AI bills that threaten American innovation and competitiveness.
 - **File**: _posts/2025-03-14-openai-federal-ai-action-plan.md
@@ -39,14 +39,56 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-16
 - **Date**: 2025-03-16
-- **Title**: The Rise of AI Nurses: Transforming Healthcare Delivery Amid Human Concerns
+- **Title**: The Rise of AI Nurses - Transforming Healthcare Delivery Amid Human Concerns
 - **Source**: As AI nurses reshape hospital care, human nurses are pushing back (medicalxpress.com), As AI nurses reshape hospital care, human nurses push back | AP News (apnews.com)
 - **Summary**: Covered March 16, 2025 reports on AI nursing assistants like Hippocratic AI's Ana handling patient calls 24/7, monitoring vitals, and flagging emergencies, while discussing hospital benefits (efficiency, staffing solutions) and nursing concerns (alert fatigue, judgment limitations, patient experience).
 - **File**: _posts/2025-03-16-ai-nurses-healthcare.md
 
 ## 2025-03-17
 - **Date**: 2025-03-17
-- **Title**: DeepMind CEO Predicts Human-Level AI Within 5-10 Years: What It Means for Society
+- **Title**: DeepMind CEO Predicts Human-Level AI Within 5-10 Years - What It Means for Society
 - **Source**: Google DeepMind CEO Demis Hassabis says that humans have just over 5 ... (fortune.com), Human-level AI will be here in 5 to 10 years, DeepMind CEO says - CNBC (cnbc.com)
 - **Summary**: Covered March 17, 2025 statements by DeepMind CEO Demis Hassabis predicting artificial general intelligence will reach human-level competence in the next five to ten years, discussing the implications for society, workforce, and technological readiness.
 - **File**: _posts/2025-03-17-deepmind-agi-timeline-prediction.md
+
+## 2025-03-18
+- **Date**: 2025-03-18
+- **Title**: Jensen Huang's GTC 2025 Vision Rebooting the AI Trade for the Next Era
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 18, 2025 | CISO ... (hipther.com)
+- **Summary**: Covered Nvidia CEO Jensen Huang's GTC 2025 keynote where he outlined a vision to "reboot the AI trade" focusing on reasoning models, physical AI/robotics, and sovereign AI as national infrastructure, discussing the implications for AI development, infrastructure, and global competitiveness.
+- **File**: _posts/2025-03-18-nvidia-gtc-ai-vision.md
+
+## 2025-03-19
+- **Date**: 2025-03-19
+- **Title**: How NVIDIA's Personal AI Computers Are Democratizing Access to Cutting-Edge AI
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 19, 2025: Google ... (hipther.com)
+- **Summary**: Covered NVIDIA's March 19, 2025 release of DGX Spark and DGX Station personal AI computers, discussing how these systems bring data center-level AI capabilities to individual developers and researchers, democratizing access to cutting-edge AI development beyond big tech corporations and well-funded institutions.
+- **File**: _posts/2025-03-19-personal-ai-computers-democratizing-ai.md
+
+## 2025-03-20
+- **Date**: 2025-03-20
+- **title**: How Google's Pixel 9a is Making Advanced AI Accessible on a Budget
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 20, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered Google's March 20, 2025 announcement of the Pixel 9a smartphone highlighting how it brings advanced AI capabilities like real time translation intelligent photo editing and improved voice assistant to an affordable device making powerful AI accessible to everyone not just premium device users.
+- **File**: _posts/2025-03-20-google-pixel-9a-mobile-ai.md
+
+## 2025-03-21
+- **Date**: 2025-03-21
+- **Title**: How MIT's New HART AI Tool is Making Image Generation Faster and More Accessible
+- **Source**: AI tool generates high-quality images faster than state-of-the-art ... (news.mit.edu), MIT & NVIDIA Unveil Fast AI Image Generator HART (opendatascience.com)
+- **Summary**: Covered MIT's March 21, 2025 announcement of HART Hybrid Autoregressive Transformer a new AI image generation approach that creates high quality images up to nine times faster while using less computation and can run on everyday devices like laptops and smartphones after a single natural language prompt.
+- **File**: _posts/2025-03-21-mit-hart-ai-image-generation.md
+
+## 2025-03-22
+- **Date**: 2025-03-22
+- **Title**: How NVIDIA's New Blackwell Ultra GPUs Are Advancing AI Computing
+- **Source**: As of March 22, 2025, here are the latest developments in artificial ... (medium.com/@phillipmitchell872/as-of-march-22-2025-here-are-the-latest-developments-in-artificial-intelligence-ai-601c9c49a68e)
+- **Summary**: Covered NVIDIA's March 22, 2025 announcement of Blackwell Ultra GPUs and Rubin Feynman chip architectures showing continued progress in AI hardware making powerful computing more accessible for research and development.
+- **File**: _posts/2025-03-22-nvidia-blackwell-ultra-gpus.md
+
+## 2025-03-23
+- **Date**: 2025-03-23
+- **Title**: How DeepSeek's V3 Model Release is Advancing AI Reasoning and Programming
+- **Source**: AI Developments: March 23-29, 2025 (linkedin.com), DeepSeek releases V3 model with improved reasoning and programming (linkedin.com)
+- **Summary**: Covered DeepSeek's March 23, 2025 release of their V3 model showing improved reasoning and programming capabilities continuing the trend of increasingly capable AI models from research labs around the world.
+- **File**: _posts/2025-03-23-deepseek-v3-model-release.md

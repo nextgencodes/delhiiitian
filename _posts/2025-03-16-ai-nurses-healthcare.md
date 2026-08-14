@@ -1,5 +1,5 @@
 ---
-title: The Rise of AI Nurses: Transforming Healthcare Delivery Amid Human Concerns
+title: The Rise of AI Nurses - Transforming Healthcare Delivery Amid Human Concerns
 description: AI-powered nursing assistants are reshaping hospital care by handling routine tasks and monitoring patients 24/7, sparking important debates about the future of healthcare delivery and the irreplaceable role of human touch.
 authors: ashok
 date: 2025-mar-16 10:00:00 +0000

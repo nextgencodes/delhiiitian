@@ -1,5 +1,5 @@
 ---
-title: OpenAI's Call for a National AI Strategy: Why Federal Action Matters Now
+title: OpenAI's Call for a National AI Strategy - Why Federal Action Matters Now
 description: OpenAI's March 14th plea for a coordinated federal AI approach highlights the growing tension between state-level regulation and national competitiveness in the global AI race.
 authors: ashok
 date: 2025-mar-14 10:00:00 +0000
