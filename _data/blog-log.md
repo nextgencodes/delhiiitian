@@ -32,7 +32,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-15
 - 'Date': 2025-03-15
-- 'Title': How Google's AI Mode is Transforming Search into Conversational Discovery
+- 'title': How Google's AI Mode is Transforming Search into Conversational Discovery
 - 'Source': Google announces 'AI Mode' as a new way to use Search (9to5google.com), Google AI Mode - a new way to search, whatever's on your mind (search.google)
 - 'Summary': Covered Google's March 5, 2025 announcement of AI Mode as an early experiment that lets users ask complex, multi-part questions and receive AI-generated answers powered by a custom Gemini 2.0 model with real-time Knowledge Bank and Shopping Graph data, using a "query fan-out" technique to synthesize information from multiple sources into comprehensive, page-filling responses.
 - 'File': _posts/2025-03-15-google-ai-mode-search.md
@@ -68,7 +68,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-20
 - 'Date': 2025-03-20
 - 'Title': How Google's Pixel 9a is Making Advanced AI Accessible on a Budget
-- 'Source': AI Dispatch: Daily Trends and Innovations - March 20, 2025: Featuring ... (hipther.com)
+- 'Source': AI Dispatch: Daily Trends and Innovations - March 20, 0.00:00 +0000
 - 'Summary': Covered Google's March 20, 2025 announcement of the Pixel 9a smartphone highlighting how it brings advanced AI capabilities like real time translation intelligent photo editing and improved voice assistant to an affordable device making powerful AI accessible to everyone not just premium device users.
 - 'File': _posts/2025-03-20-google-pixel-9a-mobile-ai.md
 
@@ -124,14 +124,14 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-28
 - 'Date': 2025-03-28
 - 'Title': How xAI's Acquisition of X and the Stargate Project are Reshaping AI Infrastructure
-- 'Source': AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o‑update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
+- 'Source': AI News Highlights for March 28th, 0.00:00 +0000
 - 'Summary': Covered xAI's acquisition of X and the announcement of the Stargate AI data center project in March 2025 showing continued investment in AI infrastructure making powerful computing more accessible for research and development.
 - 'File': _posts/2025-03-28-xai-acquires-x-stargate-ai-infrastructure.md
 
 ## 2025-03-29
 - 'Date': 2025-03-29
 - 'Title': How New AI Model Releases in March 2025 are Advancing Capabilities Across Domains
-- 'Source': AI News Highlights for March 29th & 30th, 2025 (linkedin.com), AI Developments: March 23-29, 2025 (linkedin.com)
+- 'Source': AI News Highlights for March 29th & 30th, 0.00:00 +0000
 - 'Summary': Covered the March 29, 2025 AI roundup highlighting new model releases including Reve Image 1.0 DeepSeek V3 Ideogram 3.0 Google Gemini 2.5 Qwen QVQ-Max/Qwen2.5-Omni-7B-Instruct Perplexity Answer Tabs and OpenAI's GPT-4o image generator showing continued progress in image generation reasoning and multimodal capabilities.
 - 'File': _posts/2025-03-29-new-ai-model-releases-march-2025.md
 
@@ -145,7 +145,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-31
 - 'Date': 2025-03-31
 - 'Title': How AI Model Releases Continued to Accelerate in Late March 2025
-- 'Source': AI News Highlights for March 31st, 2025 (linkedin.com), AI Daily News - March 31, 2025: AI Agents, Biotechnology ... (linkedin.com)
+- 'Source': AI News Highlights for March 31st, 0.00:00 +0000
 - 'Summary': Covered March 31, 2025 AI highlights including Reve Image 1.0 DeepSeek V3 ECgMPL cancer detection model GPT-4o Image Generator integrated into ChatGPT Perplexity Answer Tabs Google Gemini 2.5 Qwen QVQ-Max/Qwen2.5-Omni-7B/Qwen2.5-VL-32B-Instruct Ideogram 3.0 and DeepSeek-R1 rivaling Western models at lower costs showing continued progress in image generation reasoning coding medical diagnostics and accessibility.
 - 'File': _posts/2025-03-31-ai-model-releases-continue-march-2025.md
 
@@ -216,7 +216,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - 'Date': 2025-04-10
 - 'Title': How AI Product Tiers Partnerships and Investments Advanced in April 2025
 - 'Source': AI News Highlights for April 10th, 2025 (linkedin.com), AI news and funding updates from the last 24 hours(10th April 2025) (linkedin.com)
-- 'Summary': Covered April 10, 2025 AI highlights including Anthropic launched Claude Max tiers at $100 and $200/month giving 5× and 20× the usage of its $20 Pro plan Google Cloud partnered with Safe Superintensity and Udio supplying TPUs and previewing the Ironwood chip while DeepMind backed Anthropic's Model Context Protocol Amazon's Q Developer added Hindi Chinese Spanish and French support and announced new AI‑chip investments WordPress released an AI site‑builder Atlassian expanded Rovo AI and introduced Rovo Studio HPE unveiled a Private Cloud AI solution in India with NVIDIA tech YouTube expanded AI detection of likeness content and launched a Music Assistant OpenAI started a Pioneers Program for domain‑specific benchmarks and filed a countersuit against Elon Musk Nvidia's CEO reportedly struck a deal with the Trump administration to keep H20 chip exports to China xAI released the Grok 3 API Ominimo secured a €10 M investment from Zurich Insurance incident.io raised $62 M Series B SC Capital Partners may buy Global Switch for $4‑5 B TSMC's Q1 revenue jumped 42% on AI‑chip demand IIT Madras etc launched the Centre of AI Research with Kompact AI to run models on CPUs MIT noted AI lacks coherent values benchmarking costs are high and the IEA warned tariffs could curb AI growth showing continued growth and maturation of the AI ecosystem.
+- 'Summary': Covered April 10, 2025 AI highlights including Anthropic launched Claude Max tiers at $100 and $200/month giving 5× and 20× the usage of its $20 Pro plan Google Cloud partnered with Safe Superintensity and Udio supplying TPUs and previewing the Ironwood chip while DeepMind backed Anthropic's Model Context Protocol Amazon's Q Developer added Hindi Chinese Spanish and French support and announced new AI‑chip investments WordPress released an AI site‑builder Atlassian expanded Rova AI and introduced Rovo Studio HPE unveiled a Private Cloud AI solution in India with NVIDIA tech YouTube expanded AI detection of likeness content and launched a Music Assistant OpenAI started a Pioneers Program for domain‑specific benchmarks and filed a countersuit against Elon Musk Nvidia's CEO reportedly struck a deal with the Trump administration to keep H20 chip exports to China xAI released the Grok 3 API Ominimo secured a €10 M investment from Zurich Insurance incident.io raised $62 M Series B SC Capital Partners may buy Global Switch for $4‑5 B TSMC's Q1 revenue jumped 42% on AI‑chip demand IIT Madras etc launched the Centre of AI Research with Kompact AI to run models on CPUs MIT noted AI lacks coherent values benchmarking costs are high and the IEA warned tariffs could curb AI growth showing continued growth and maturation of the AI ecosystem.
 - 'File': _posts/2025-04-10-ai-product-tiers-partnerships-and-investments-april-2025.md
 
 ## 2025-04-11
@@ -243,7 +243,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-04-14
 - 'Date': 2025-04-14
 - 'Title': How AI Agents Got a Memory Boost and Voice AI Levelled Up While AI Cartoons Stunned in April 2025
-- 'Source': AI News Highlights for April 14th, 2025 (linkedin.com), Apr 14 2025 | This Week in AI - enterprisesoftware.blog (enterprisesoftware.blog), breinhardt.substack.com/p/this-week-in-ai-april-14th-2025 (breinhardt.substack.com)
+- 'Source': AI News Highlights for April 14th, 0.00:00 +0000
 - 'Summary': Covered April 14, 2025 AI highlights including Llama 4 makes waves Google pushes AI agents forwardChatGPT gets a memory boost Amazon's voice AI levelling up NVIDIA's AI cartoons stunning and Mira Murati's startup gaining momentum showing continued progress in AI agents memory voice AI and creative applications.
 - 'File': _posts/2025-04-14-ai-agents-memory-boost-voice-ai-and-cartoons-april-2025.md
 
