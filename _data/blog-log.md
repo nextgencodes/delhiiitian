@@ -96,7 +96,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-24
 - **Date**: 2025-03-24
 - **Title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
-- **Source**: AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
+- **Source': AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
 - **Summary**: Covered DeepSeek's March 24, 2025 release of the V3-0324 upgrade showing significant improvements in reasoning and coding abilities demonstrating how quickly AI models are evolving.
 - **File**: _posts/2025-03-24-deepseek-v3-upgrade.md
 
@@ -127,3 +127,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o’s update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
 - **Summary**: Covered xAI's acquisition of X and the announcement of the Stargate AI data center project in March 2025 showing continued investment in AI infrastructure making powerful computing more accessible for research and development.
 - **File**: _posts/2025-03-28-xai-acquires-x-stargate-ai-infrastructure.md
+
+## 2025-03-29
+- **Date**: 2025-03-29
+- **Title**: How New AI Model Releases in March 2025 are Advancing Capabilities Across Domains
+- **Source**: AI News Highlights for March 29th & 30th, 2025 (linkedin.com), AI Developments: March 23-29, 2025 (linkedin.com)
+- **Summary**: Covered the March 29, 2025 AI roundup highlighting new model releases including Reve Image 1.0 DeepSeek V3 Ideogram 3.0 Google Gemini 2.5 Qwen QVQ-Max/Qwen2.5-Omni-7B-Instruct Perplexity Answer Tabs and OpenAI's GPT-4o image generator showing continued progress in image generation reasoning and multimodal capabilities.
+- **File**: _posts/2025-03-29-new-ai-model-releases-march-2025.md
