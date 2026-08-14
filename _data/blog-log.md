@@ -43,3 +43,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: As AI nurses reshape hospital care, human nurses are pushing back (medicalxpress.com), As AI nurses reshape hospital care, human nurses push back | AP News (apnews.com)
 - **Summary**: Covered March 16, 2025 reports on AI nursing assistants like Hippocratic AI's Ana handling patient calls 24/7, monitoring vitals, and flagging emergencies, while discussing hospital benefits (efficiency, staffing solutions) and nursing concerns (alert fatigue, judgment limitations, patient experience).
 - **File**: _posts/2025-03-16-ai-nurses-healthcare.md
+
+## 2025-03-17
+- **Date**: 2025-03-17
+- **Title**: DeepMind CEO Predicts Human-Level AI Within 5-10 Years: What It Means for Society
+- **Source**: Google DeepMind CEO Demis Hassabis says that humans have just over 5 ... (fortune.com), Human-level AI will be here in 5 to 10 years, DeepMind CEO says - CNBC (cnbc.com)
+- **Summary**: Covered March 17, 2025 statements by DeepMind CEO Demis Hassabis predicting artificial general intelligence will reach human-level competence in the next five to ten years, discussing the implications for society, workforce, and technological readiness.
+- **File**: _posts/2025-03-17-deepmind-agi-timeline-prediction.md
