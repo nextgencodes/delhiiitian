@@ -99,3 +99,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
 - **Summary**: Covered DeepSeek's March 24, 2025 release of the V3-0324 upgrade showing significant improvements in reasoning and coding abilities demonstrating how quickly AI models are evolving.
 - **File**: _posts/2025-03-24-deepseek-v3-upgrade.md
+
+## 2025-03-25
+- **Date**: 2025-03-25
+- **Title**: How Google's Gemini 2.5 Thinking Model is Advancing AI Reasoning
+- **Source**: AI News Highlights for March 25th, 2025 (linkedin.com), Gemini 2.5 described as a thinking model (linkedin.com)
+- **Summary**: Covered Google's March 25, 2025 announcement of Gemini 2.5 described as a thinking model showing continued progress in AI capabilities with improved reasoning and problem solving abilities.
+- **File**: _posts/2025-03-25-google-gemini-2-5-thinking-model.md
