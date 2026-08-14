@@ -1,5 +1,5 @@
 ---
-title: Jensen Huang's GTC 2025 Vision: Rebooting the AI Trade for the Next Era
+title: Jensen Huang's GTC 2025 Vision - Rebooting the AI Trade for the Next Era
 description: Nvidia CEO Jensen Huang's keynote at GTC 2025 outlined a bold vision to rebuild AI infrastructure, emphasizing reasoning models, robotics, and sovereign AI as the next frontier.
 authors: ashok
 date: 2025-mar-18 10:00:00 +0000

@@ -1,5 +1,5 @@
 ---
-title: When AI Learns to Act in the World: Robotics, Ethics, and Society's Response
+title: When AI Learns to Act in the World - Robotics, Ethics, and Society's Response
 description: DeepMind's Gemini Robotics announcement highlights both the promise and challenges of embodied AI, sparking vital conversations about safety, governance, and our collective future with intelligent machines.
 authors: ashok
 date: 2025-mar-13 10:00:00 +0000
