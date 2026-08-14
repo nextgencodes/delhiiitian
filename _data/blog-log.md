@@ -34,7 +34,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Date**: 2025-03-15
 - **Title**: How Google's AI Mode is Transforming Search into Conversational Discovery
 - **Source**: Google announces 'AI Mode' as a new way to use Search (9to5google.com), Google AI Mode - a new way to search, whatever's on your mind (search.google)
-- **Summary**: Covered Google's March 5, 2025 announcement of AI Mode as an early experiment that lets users ask complex, multi-part questions and receive AI-generated answers powered by a custom Gemini 2.0 model with real-time Knowledge Graph and Shopping Graph data, using a "query fan-out" technique to synthesize information from multiple sources into comprehensive, page-filling responses.
+- **Summary**: Covered Google's March 5, 2025 announcement of AI Mode as an early experiment that lets users ask complex, multi-part questions and receive AI-generated answers powered by a custom Gemini 2.0 model with real-time Knowledge Bank and Shopping Graph data, using a "query fan-out" technique to synthesize information from multiple sources into comprehensive, page-filling responses.
 - **File**: _posts/2025-03-15-google-ai-mode-search.md
 
 ## 2025-03-16
@@ -95,7 +95,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-24
 - **Date**: 2025-03-24
-- **title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
+- **Title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
 - **Source**: AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
 - **Summary**: Covered DeepSeek's March 24, 2025 release of the V3-0324 upgrade showing significant improvements in reasoning and coding abilities demonstrating how quickly AI models are evolving.
 - **File**: _posts/2025-03-24-deepseek-v3-upgrade.md
@@ -120,3 +120,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI News Highlights for March 27th, 2025 (linkedin.com), ChatGPT‑4o moved to second on the Arena leaderboard, "surpassing GPT‑4.5" (linkedin.com), OpenAI released an updated GPT‑4o for paid users with improved instruction‑following (linkedin.com)
 - **Summary**: Covered OpenAI's March 27, 2025 release of an updated GPT-4o model for paid users showing improved instruction following abilities continuing the trend of ongoing AI model enhancements.
 - **File**: _posts/2025-03-27-openai-gpt-4o-update.md
+
+## 2025-03-28
+- **Date**: 2025-03-28
+- **Title**: How xAI's Acquisition of X and the Stargate Project are Reshaping AI Infrastructure
+- **Source**: AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o’s update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
+- **Summary**: Covered xAI's acquisition of X and the announcement of the Stargate AI data center project in March 2025 showing continued investment in AI infrastructure making powerful computing more accessible for research and development.
+- **File**: _posts/2025-03-28-xai-acquires-x-stargate-ai-infrastructure.md
