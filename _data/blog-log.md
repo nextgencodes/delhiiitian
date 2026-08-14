@@ -14,3 +14,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI Dispatch: Daily Trends and Innovations - March 12, 2025 | OpenAI ... (Hipther), AI in March 2025: Breakthroughs, Battles, and the Road to AGI (Medium)
 - **Summary**: Covered OpenAI's agent-building tools, AI uncovering 5,000-year-old desert civilizations, $40M Bellini College establishment, Azure's Responses API and computer-using agent, and Google's Gemma 3 launch.
 - **File**: _posts/2025-03-12-march-12-2025-ai-highlights.md
+
+## 2025-03-13
+- **Date**: 2025-03-13
+- **Title**: March 13, 2025: When AI Meets Robotics, Ethics, and Public Service
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 13, 2025: DeepMind ... (Hipther), Daily Digest on AI and Emerging Technologies (13 March 2025) (pam.int)
+- **Summary**: Covered DeepMind's Gemini Robotics initiative, machine learning breakthroughs in Nature, Yale's terrorism-linked AI research controversy, Guardian's report on AI replacing civil service functions, and French lawsuit against Meta over AI-generated content.
+- **File**: _posts/2025-03-13-march-13-2025-ai-robotics-ethics.md
