@@ -12,8 +12,8 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-12
 - **Date**: 2025-03-12
 - **Title**: How AI Unearthed a 5,000-Year-Old Civilization Beneath the Desert Sands
-- **Source**: AI Uncovers a 5,000-Year-Old Civilization Beneath the Arabian Desert (thearchaeologist.org), AI Discovery Reveals 5,000-Year-Old Lost Civilizations Hidden Beneath ... (indiandefencereview.com)
-- **Summary**: Covered the March 12, 2025 breakthrough where AI combined Synthetic Aperture Radar with satellite imagery to discover a 5,000-Year-Old civilization buried beneath the Arabian Desert, discussing the technology, accuracy, and implications for historical discovery and archaeology.
+- **Source**: AI Uncovers a 5,000-Year-Oft Civilization Beneath the Arabian Desert (thearchaeologist.org), AI Discovery Reveals 5,000-Year-Oft Lost Civilizations Hidden Beneath ... (indiandefencereview.com)
+- **Summary**: Covered the March 12, 2025 breakthrough where AI combined Synthetic Aperture Radar with satellite imagery to discover a 5,000-Year-Oft civilization buried beneath the Arabian Desert, discussing the technology, accuracy, and implications for historical discovery and archaeology.
 - **File**: _posts/2025-03-12-ai-discovers-ancient-civilization.md
 
 ## 2025-03-13
@@ -34,7 +34,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Date**: 2025-03-15
 - **Title**: How Google's AI Mode is Transforming Search into Conversational Discovery
 - **Source**: Google announces 'AI Mode' as a new way to use Search (9to5google.com), Google AI Mode - a new way to search, whatever's on your mind (search.google)
-- **Summary**: Covered Google's March 5, 2025 announcement of AI Mode as an early experiment that lets users ask complex, multi-part questions and receive AI-generated answers powered by a custom Gemini 2.0 model with real-time Knowledge Graph and Shopping Graph data, using a "query fan-out" technique to synthesize information from multiple sources into comprehensive, page-filling responses.
+- **Summary**: Covered Google's March 5, 2025 announcement of AI Mode as an early experiment that lets users ask complex, multi-part questions and receive AI-generated answers powered by a custom Gemini 2.0 model with real-time Knowledge Bank and Shopping Graph data, using a "query fan-out" technique to synthesize information from multiple sources into comprehensive, page-filling responses.
 - **File**: _posts/2025-03-15-google-ai-mode-search.md
 
 ## 2025-03-16
@@ -67,7 +67,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-20
 - **Date**: 2025-03-20
-- **title**: How Google's Pixel 9a is Making Advanced AI Accessible on a Budget
+- **Title**: How Google's Pixel 9a is Making Advanced AI Accessible on a Budget
 - **Source**: AI Dispatch: Daily Trends and Innovations - March 20, 2025: Featuring ... (hipther.com)
 - **Summary**: Covered Google's March 20, 2025 announcement of the Pixel 9a smartphone highlighting how it brings advanced AI capabilities like real time translation intelligent photo editing and improved voice assistant to an affordable device making powerful AI accessible to everyone not just premium device users.
 - **File**: _posts/2025-03-20-google-pixel-9a-mobile-ai.md
@@ -92,3 +92,45 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI Developments: March 23-29, 2025 (linkedin.com), DeepSeek releases V3 model with improved reasoning and programming (linkedin.com)
 - **Summary**: Covered DeepSeek's March 23, 2025 release of their V3 model showing improved reasoning and programming capabilities continuing the trend of increasingly capable AI models from research labs around the world.
 - **File**: _posts/2025-03-23-deepseek-v3-model-release.md
+
+## 2025-03-24
+- **Date**: 2025-03-24
+- **Title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
+- **Source': AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
+- **Summary**: Covered DeepSeek's March 24, 2025 release of the V3-0324 upgrade showing significant improvements in reasoning and coding abilities demonstrating how quickly AI models are evolving.
+- **File**: _posts/2025-03-24-deepseek-v3-upgrade.md
+
+## 2025-03-25
+- **Date**: 2025-03-25
+- **Title**: How Google's Gemini 2.5 Thinking Model is Advancing AI Reasoning
+- **Source**: AI News Highlights for March 25th, 2025 (linkedin.com), Gemini 2.5 described as a thinking model (linkedin.com)
+- **Summary**: Covered Google's March 25, 2025 announcement of Gemini 2.5 described as a thinking model showing continued progress in AI capabilities with improved reasoning and problem solving abilities.
+- **File**: _posts/2025-03-25-google-gemini-2-5-thinking-model.md
+
+## 2025-03-26
+- **Date**: 2025-03-26
+- **Title**: How DeepMind's Gemini Model Thinking Updates are Enhancing AI Reasoning
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 26, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered DeepMind's March 26, 2025 Gemini Model Thinking updates showing continued progress in AI reasoning capabilities with improved thinking and problem solving abilities.
+- **File**: _posts/2025-03-26-deepmind-gemini-thinking-updates.md
+
+## 2025-03-27
+- **Date**: 2025-03-27
+- **Title**: How OpenAI's GPT-4o Update Improved Instruction Following
+- **Source**: AI News Highlights for March 27th, 2025 (linkedin.com), ChatGPT‑4o moved to second on the Arena leaderboard, "surpassing GPT‑4.5" (linkedin.com), OpenAI released an updated GPT‑4o for paid users with improved instruction‑following (linkedin.com)
+- **Summary**: Covered OpenAI's March 27, 2025 release of an updated GPT-4o model for paid users showing improved instruction following abilities continuing the trend of ongoing AI model enhancements.
+- **File**: _posts/2025-03-27-openai-gpt-4o-update.md
+
+## 2025-03-28
+- **Date**: 2025-03-28
+- **Title**: How xAI's Acquisition of X and the Stargate Project are Reshaping AI Infrastructure
+- **Source**: AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o’s update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
+- **Summary**: Covered xAI's acquisition of X and the announcement of the Stargate AI data center project in March 2025 showing continued investment in AI infrastructure making powerful computing more accessible for research and development.
+- **File**: _posts/2025-03-28-xai-acquires-x-stargate-ai-infrastructure.md
+
+## 2025-03-29
+- **Date**: 2025-03-29
+- **Title**: How New AI Model Releases in March 2025 are Advancing Capabilities Across Domains
+- **Source**: AI News Highlights for March 29th & 30th, 2025 (linkedin.com), AI Developments: March 23-29, 2025 (linkedin.com)
+- **Summary**: Covered the March 29, 2025 AI roundup highlighting new model releases including Reve Image 1.0 DeepSeek V3 Ideogram 3.0 Google Gemini 2.5 Qwen QVQ-Max/Qwen2.5-Omni-7B-Instruct Perplexity Answer Tabs and OpenAI's GPT-4o image generator showing continued progress in image generation reasoning and multimodal capabilities.
+- **File**: _posts/2025-03-29-new-ai-model-releases-march-2025.md
