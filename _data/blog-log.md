@@ -12,8 +12,8 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-12
 - **Date**: 2025-03-12
 - **Title**: How AI Unearthed a 5,000-Year-Old Civilization Beneath the Desert Sands
-- **Source**: AI Uncovers a 5,000-Year-Old Civilization Beneath the Arabian Desert (thearchaeologist.org), AI Discovery Reveals 5,000-Year-Old Lost Civilizations Hidden Beneath ... (indiandefencereview.com)
-- **Summary**: Covered the March 12, 2025 breakthrough where AI combined Synthetic Aperture Radar with satellite imagery to discover a 5,000-Year-Old civilization buried beneath the Arabian Desert, discussing the technology, accuracy, and implications for historical discovery and archaeology.
+- **Source**: AI Uncovers a 5,000-Year-Oft Civilization Beneath the Arabian Desert (thearchaeologist.org), AI Discovery Reveals 5,000-Year-Oft Lost Civilizations Hidden Beneath ... (indiandefencereview.com)
+- **Summary**: Covered the March 12, 2025 breakthrough where AI combined Synthetic Aperture Radar with satellite imagery to discover a 5,000-Year-Oft civilization buried beneath the Arabian Desert, discussing the technology, accuracy, and implications for historical discovery and archaeology.
 - **File**: _posts/2025-03-12-ai-discovers-ancient-civilization.md
 
 ## 2025-03-13
@@ -88,7 +88,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-23
 - **Date**: 2025-03-23
-- **Title**: How DeepSeek's V3 Model Release is Advancing AI Reasoning and Programming
+- **title**: How DeepSeek's V3 Model Release is Advancing AI Reasoning and Programming
 - **Source**: AI Developments: March 23-29, 2025 (linkedin.com), DeepSeek releases V3 model with improved reasoning and programming (linkedin.com)
 - **Summary**: Covered DeepSeek's March 23, 2025 release of their V3 model showing improved reasoning and programming capabilities continuing the trend of increasingly capable AI models from research labs around the world.
 - **File**: _posts/2025-03-23-deepseek-v3-model-release.md
@@ -106,3 +106,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI News Highlights for March 25th, 2025 (linkedin.com), Gemini 2.5 described as a thinking model (linkedin.com)
 - **Summary**: Covered Google's March 25, 2025 announcement of Gemini 2.5 described as a thinking model showing continued progress in AI capabilities with improved reasoning and problem solving abilities.
 - **File**: _posts/2025-03-25-google-gemini-2-5-thinking-model.md
+
+## 2025-03-26
+- **Date**: 2025-03-26
+- **Title**: How DeepMind's Gemini Model Thinking Updates are Enhancing AI Reasoning
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 26, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered Deepmind's March 26, 2025 Gemini Model Thinking updates showing continued progress in AI reasoning capabilities with improved thinking and problem solving abilities.
+- **File**: _posts/2025-03-26-deepmind-gemini-thinking-updates.md
