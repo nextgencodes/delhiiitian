@@ -67,7 +67,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-20
 - **Date**: 2025-03-20
-- **title**: How Google's Pixel 9a is Making Advanced AI Accessible on a Budget
+- **Title**: How Google's Pixel 9a is Making Advanced AI Accessible on a Budget
 - **Source**: AI Dispatch: Daily Trends and Innovations - March 20, 2025: Featuring ... (hipther.com)
 - **Summary**: Covered Google's March 20, 2025 announcement of the Pixel 9a smartphone highlighting how it brings advanced AI capabilities like real time translation intelligent photo editing and improved voice assistant to an affordable device making powerful AI accessible to everyone not just premium device users.
 - **File**: _posts/2025-03-20-google-pixel-9a-mobile-ai.md
@@ -92,3 +92,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI Developments: March 23-29, 2025 (linkedin.com), DeepSeek releases V3 model with improved reasoning and programming (linkedin.com)
 - **Summary**: Covered DeepSeek's March 23, 2025 release of their V3 model showing improved reasoning and programming capabilities continuing the trend of increasingly capable AI models from research labs around the world.
 - **File**: _posts/2025-03-23-deepseek-v3-model-release.md
+
+## 2025-03-24
+- **Date**: 2025-03-24
+- **Title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
+- **Source**: AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
+- **Summary**: Covered DeepSeek's March 24, 2025 release of the V3-0324 upgrade showing significant improvements in reasoning and coding abilities demonstrating how quickly AI models are evolving.
+- **File**: _posts/2025-03-24-deepseek-v3-upgrade.md
