@@ -1,6 +1,6 @@
-## 2025-04-26
-- **Date**: 2025-04-26
-- **Title**: How AI Is Advancing in Llama 4 Reasoning, Voice Interaction, Security Copilot and AGI Safety in April 2025
-- **Source**: The AI Landscape in April 2025: Latest Innovations and Updates (linkedin.com)
-- **Summary**: Covered April 26, 2025 AI highlights including Meta’s upcoming Llama 4 with reasoning and voice interaction, Microsoft’s Security Copilot spotting GRUB2/U‑Boot flaws, Google DeepMind’s AGI safety paper sparking debate, generative AI advances including GPT‑4 content creation and Sora Turbo video‑from‑text, agentic AI (tool‑using models like Llama 4), Quantum‑AI pilots by IBM & Google for finance & cybersecurity, push for ethical explainable AI, and Jensen Huang quote: “AI is not just a tool; it’s a partner in innovation.”
-- **File**: _posts/2025-04-26-llama-4-reasoning-voice-security-copilot-agi-safety-april-2025.md
+## 2025-04-27
+- **Date**: 2025-04-27
+- **Title**: How AI Is Advancing in Welfare Programs Native Browsers and Opt-Out Indicators in April 2025
+- **Source**: This Week in AI - Week of April 27, 2025 (substack.com)
+- **Summary**: Covered April 27, 2025 AI highlights including Anthropic launching a Model Welfare program to study AI sentience Perplexity partnering with Motorola to preview its AI-native browser Comet and warning of an intensifying AI browser war Adobe proposing a robots.txt‑styled indicator for images so creators can opt‑out of AI training and a new rigorous benchmark for RAG systems showing continued progress in AI ethics accessibility and creative control.
+- 'File': _posts/2025-04-27-ai-welfare-program-ai-native-browser-and-opt-out-indicators-april-2025.md
