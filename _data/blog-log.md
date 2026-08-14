@@ -6,12 +6,12 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Date**: 2025-03-11
 - **Title**: How GPT-4o's Native Image Generation is Changing Creative Workflows
 - **Source**: Introducing 4o Image Generation - OpenAI (openai.com), OpenAI Adds New Image Generation Capabilities to GPT-4o (pymnts.com)
-- **Summary**: Covered OpenAI's March 11, 2025 announcement of native image generation in GPT-4o, discussing how it eliminates the need for separate models like DALL-E, provides unified context for text and image generation, enables iterative refinement, and offers practical benefits for creators and professionals.
+- 'Summary': Covered OpenAI's March 11, 2025 announcement of native image generation in GPT-4o, discussing how it eliminates the need for separate models like DALL-E, provides unified context for text and image generation, enables iterative refinement, and offers practical benefits for creators and professionals.
 - 'File': _posts/2025-03-11-openai-gpt4o-native-image-generation.md
 
 ## 2025-03-12
-- **Date**: 2025-03-12
-- **Title**: How AI Unearthed a 5,000-Year-Oft Civilization Beneath the Desert Sands
+- 'Date': 2025-03-12
+- 'Title': How AI Unearthed a 5,000-Year-Oft Civilization Beneath the Desert Sands
 - 'Source': AI Uncovers a 5,000-Year-Oft Civilization Beneath the Arabian Desert (thearchaeologist.org), AI Discovery Reveals 5,000-Year-Oft Lost Civilizations Hidden Beneath ... (indiandefencereview.com)
 - 'Summary': Covered the March 12, 2025 breakthrough where AI combined Synthetic Aperture Radar with satellite imagery to discover a 5,000-Year-Oft civilization buried beneath the Arabian Desert, discussing the technology, accuracy, and implications for historical discovery and archaeology.
 - 'File': _posts/2025-03-12-ai-discovers-ancient-civilization.md
@@ -48,7 +48,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - 'Date': 2025-03-17
 - 'Title': DeepMind CEO Predicts Human-Level AI Within 5-10 Years - What It Means for Society
 - 'Source': Google DeepMind CEO Demis Hassabis says that humans have just over 5 ... (fortune.com), Human-level AI will be here in 5 to 10 years, DeepMind CEO says - CNBC (cnbc.com)
-- 'Summary': Covered March 17, 2025 statements by DeepMind CEO Demis Hassabis predicting artificial general intelligence will reach human-level competence in the next five to ten years, discussing the implications for society, workforce, and technological readiness.
+- 'Summary': Covered March 17, 2025 statements by DeepMind CEO Demis Hassabis predicting human-level AI will reach human-level competence in the next five to ten years, discussing the implications for society, workforce, and technological readiness.
 - 'File': _posts/2025-03-17-deepmind-agi-timeline-prediction.md
 
 ## 2025-03-18
@@ -104,13 +104,13 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - 'Date': 2025-03-25
 - 'Title': How Google's Gemini 2.5 Thinking Model is Advancing AI Reasoning
 - 'Source': AI News Highlights for March 25th, 2025 (linkedin.com), Gemini 2.5 described as a thinking model (linkedin.com)
-- 'Summary': Covered Google's March 25, 2025 announcement of Gemini 2.5 described as a thinking model showing continued progress in AI capabilities with improved reasoning and problem solving abilities.
+- 'Summary': Covered Google's March 25, 2025 annotation of Gemini 2.5 described as a thinking model showing continued progress in AI capabilities with improved reasoning and problem solving abilities.
 - 'File': _posts/2025-03-25-google-gemini-2-5-thinking-model.md
 
 ## 2025-03-26
 - 'Date': 2025-03-26
-- 'Title': How DeepMind's Gemini Model Thinking Updates are Enhancing AI Reasoning
-- 'Source': AI Dispatch: Daily Trends and Innovations - March 26, 2025: Featuring ... (hipther.com)
+- 'Title': How DeepMind's Gemini Model Thinking Updates is Enhancing AI Reasoning
+- 'Source': AI Dispatch: Daily Trends and Innovations - March 26, 2025: Feeding ... (hipther.com)
 - 'Summary': Covered DeepMind's March 26, 2025 Gemini Model Thinking updates showing continued progress in AI reasoning capabilities with improved thinking and problem solving abilities.
 - 'File': _posts/2025-03-26-deepmind-gemini-thinking-updates.md
 
@@ -124,7 +124,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-28
 - 'Date': 2025-03-28
 - 'Title': How xAI's Acquisition of X and the Stargate Project are Reshaping AI Infrastructure
-- 'Source': AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o’s update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
+- 'Source': AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o‑update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
 - 'Summary': Covered xAI's acquisition of X and the announcement of the Stargate AI data center project in March 2025 showing continued investment in AI infrastructure making powerful computing more accessible for research and development.
 - 'File': _posts/2025-03-28-xai-acquires-x-stargate-ai-infrastructure.md
 
@@ -138,8 +138,8 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-30
 - 'Date': 2025-03-30
 - 'Title': How AI is Advancing in Healthcare Drones and Automotive Applications in March 2025
-- 'Source': AI Daily News - March 30, 2025: Health Tech, AI Research, Drone ... (linkedin.com), AI News Highlights for March 29th & 30th, 2025 (linkedin.com)
-- 'Summary': Covered March 30, 2025 AI highlights including Apple's healthcare technology preparations AI powered dogs tackling wildfires in Germany ChatGPT's resilient comeback after global outage and Alibaba BMW automotive AI partnership showing AI's expanding real world impact across healthcare safety and transportation sectors.
+- 'Source': AI Daily News - March 30, 0.00:00 +0000
+- 'Summary': Covered March 30, 2025 AI highlights including Apple's healthcare technology preparations AI powered drones tackling wildfires in Germany ChatGPT's resilient comeback after global outage and Alibaba BMW automotive AI partnership showing AI's expanding real world impact across healthcare safety and transportation sectors.
 - 'File': _posts/2025-03-30-ai-in-healthcare-drones-automotive.md
 
 ## 2025-03-31
@@ -152,30 +152,30 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-04-01
 - 'Date': 2025-04-01
 - 'Title': How OpenAI's First Open Weight Model Since GPT-2 is Changing AI Accessibility
-- 'Source': AI News Highlights for April 1st, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 1, 2025: Featuring ... (hipther.com)
+- 'Source': AI News Highlights for April 1st, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 1, 2025: Feeding ... (hipther.com)
 - 'Summary': Covered April 1, 2025 AI highlights including OpenAI's first open weight model since GPT-2 with no user limits Gemma 3 function calling and GemmaCoder-3-12b efficiency gains Qwen2.5-Omni Thinker-Talker flexibility TogetherCompute 140 TPS on 671B model ChatGPT image gen & voice for all users Runway Gen-4 diorama animation LangGraph computer use agent Figure 03 humanoids at BMW and research on reasoning economy GPT-4 Tutor and AI spending trends showing progress in AI accessibility efficiency and real world applications.
 - 'File': _posts/2025-04-01-open-weights-and-ai-accessibility-april-2025.md
 
 ## 2025-04-02
 - 'Date': 2025-04-02
 - 'Title': How the AI Industry Faced Challenges and Debates in Early April 2025
-- 'Source': AI News Highlights for April 2nd, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 2, 2025: Featuring ... (hipther.com)
+- 'Source': AI News Highlights for April 2nd, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 2, 2025: Feeding ... (hipther.com)
 - 'Summary': Covered April 2, 2025 AI highlights including AI bubble debate concerns OpenAI allegations of using paywalled O'Reilly books without permission DeepMind allegedly withholding research for Google competitive edge Runway Gen-4 AI video generator automating editing lowering costs boosting creativity and Meta AI research chief departure signaling potential strategic shifts showing the complex challenges and discussions facing the rapidly growing AI industry.
 - 'File': _posts/2025-04-02-ai-bubble-debate-and-industry-challenges-april-2025.md
 
 ## 2025-04-03
 - 'Date': 2025-04-03
 - 'Title': How AI Faces Cybersecurity Global Tensions and Hardware Breakthroughs in April 2025
-- 'Source': AI Dispatch: Daily Trends and Innovations - April 3, 2025: Feeding: ... (hipther.com)
+- 'Source': AI Dispatch: Daily Trends and Innovations - April 3, 2025: Feeding ... (hipther.com)
 - 'Summary': Covered April 3, 2025 AI highlights including DeepMind's study on AI cybersecurity risks Meta's London protests over copyrighted book use in AI training NVIDIA's Blackwell MLPerf Inference performance breakthrough Malaysia's data centers enabling China's AI ambitions and Africa's Cassava Technologies advancing AI in agriculture showing the complex interplay of progress and challenges in AI development.
 - 'File': _posts/2025-04-03-ai-cybersecurity-global-tensions-and-hardware-advances-april-2025.md
 
 ## 2025-04-04
 - 'Date': 2025-04-04
 - 'Title': How AI Model Feedback and Collaboration Advances Shaped Early April 2025 Developments
-- 'Source': AI News Highlights from 4th to 7th of April, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 4, 2025: Feeding ... (hipther.com)
+- 'Source': AI News Highlights from 4th to 7th of April, 2025 (linkedin.com), AI Dispatch: Daily Trend!s and Innovations - April 4, 2025: Feeding ... (hipther.com)
 - 'Summary': Covered April 4, 2025 AI highlights including Llama 4 suite mixed feedback Gemini 2.5 Pro lagging on benchmarks like Tic-Tac-Toe-Bench DeepSeek-R1 gaining grassroots praise Mistral AI expanding with €100M deal and MCP maturing for LLM applications showing the healthy ecosystem of feedback collaboration and evolving standards in AI development.
-- 'File': _posts/2025-04-04-llama-4-feedback-and-ai-collaboration-advances-april-2025.md
+- 'File': _posts/2025-04-04-llama-4-feedback-and-ai-collaboration-advances-aprile-2025.md
 
 ## 2025-04-05
 - 'Date': 2025-04-05
@@ -201,14 +201,14 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-04-08
 - 'Date': 2025-04-08
 - 'Title': How AI Startup Breakthroughs and Cloud Alliances Advanced Innovation in April 2025
-- 'Source': AI Daily News - April 8, 2025: Breakthroughs in AI Startups AR ... (linkedin.com), AI News Highlights from 4th to 7th of April, 2025 (linkedin.com)
+- 'Source': AI Daily News - April 8, 0.00:00 +0000
 - 'Summary': Covered April 8, 2025 AI highlights including Mira Murati’s AI startup secures a cadre of prominent ex-OpenAI advisors Snapchat is stepping up its innovation game with the rollout of sponsored AI lenses designed specifically for brand engagement Amazon has launched its Nova Sonic voice and speech foundation model Google Cloud and AI2 Forge Alliance to Bolster Open-Source AI Solutions and renewed tariffs under the Trump administration are likely to escalate production costs showing startup breakthroughs social media platform innovation voice and speech foundation model cloud provider AI organization alliance and geopolitical trade policy considerations.
 - 'File': _posts/2025-04-08-ai-startup-breakthroughs-and-cloud-alliances-april-2025.md
 
 ## 2025-04-09
 - 'Date': 2025-04-09
 - 'Title': How AI Investment Fraud Standards Development and Values Research Shaped Early April 2025 Developments
-- 'Source': AI News Highlights from 4th to 7th of April, 2025 (linkedin.com), TechCrunch 2025/04/09 (techcrunch.com), justice.gov press release (justice.gov)
+- 'Source': AI News Highlights from 4th to 7th of April, 2025 (linkedin.com), TechCrish 2025/04/09 (techcrish.com), justice.gov press release (justice.gov)
 - 'Summary': Covered April 9, 2025 AI highlights including a tech CEO charged with an artificial intelligence investment fraud scheme Google to embrace Anthropic's standard for connecting AI models to data OpenAI launches program to design new 'domain-specific' AI benchmarks Anthropic rolls out a $200‑per‑month Claude subscription MIT study finds that AI doesn't in fact have values and WordPress.com launches a free AI‑powered website builder showing the complex interplay of challenges standards and research in AI development.
 - 'File': _posts/2025-04-09-ai-investment-fraud-standards-and-values-research-april-2025.md
 
@@ -222,21 +222,21 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-04-11
 - 'Date': 2025-04-11
 - 'Title': How AI Faces Limits in Judgment and Creativity and Confronts Energy Demand Challenges in April 2025
-- 'Source': AI News Highlights for April 11th, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 11, 2025: Featured ... (hipther.com)
+- 'Source': AI News Highlights for April 11th, 2025 (linkedin.com), AI Dispatch: Daily Trend!s and Innovations - April 11, 2025: Feeding ... (hipther.com)
 - 'Summary': Covered April 11, 2025 AI highlights including MIT study revealing AI's limits in judgment and creativity warnings about AI data center energy demand set to quadruple by 2030 Google Cloud Next 2025 unveiling new AI powered cloud tools James Cameron announcing AI‑driven cost‑saving and storytelling advances in film and Trump administration's tariffs on AI automation and robotics components affecting global supply chains showing the complex interplay of limits challenges and advances in AI development.
 - 'File': _posts/2025-04-11-ai-limits-energy-demand-and-cloud-tools-april-2025.md
 
 ## 2025-04-12
 - 'Date': 2025-04-12
 - 'Title': How AI Enables Symbiotic Relationships with Humans and Provides Urban Insights in April 2025
-- 'Source': AI News Highlights for April 12th, 2025 (linkedin.com), AI Daily News - April 12, 2025: AI Innovations Infrastructure ... (linkedin.com)
-- 'Summary': Covered April 12, 2025 AI highlights including Microsoft AI CEO Mustafa Suleyman urging young people to play with emerging models Google Maps unveiling Insights Netflix testing AI search engine iOS Australia NZ and political pressures from tariffs and Trump comments intensifying scrutiny on Silicon Valley AI development Texas firm revealed a fully modular nuclear reactor (Aalo Pod) built to power data centers with low enriched uranium sodium cooled technology showing how AI enables symbiotic relationships with humans provides urban insights and develops innovative energy solutions.
+- 'Source': AI News Highlights for April 12th, 2025 (linkedin.com), AI Daily News - April 12, 0.00:00 +0000
+- 'Summary': Covered April 12, 2025 AI highlights including Microsoft AI CEO Mustafa Suleyman urging young people to play with emerging models Google Maps unveiling Imagery Insights Netflix testing AI search engine iOS Australia NZ and political pressures from tariffs and Trump comments intensifying scrutiny on Silicon Valley AI development Texas firm revealed a fully modular nuclear reactor (Aalo Pod) built to power data centers with low enriched uranium sodium cooled technology showing how AI enables symbiotic relationships with humans provides urban insights and develops innovative energy solutions.
 - 'File': _posts/2025-04-12-ai-symbiotic-relationships-and-urban-insights-april-2025.md
 
 ## 2025-04-13
 - 'Date': 2025-04-13
 - 'Title': How AI Is Shaping Our Future Parenting Digital Pen Pals and Prompt Engineering in April 2025
-- 'Source': AI News Highlights for April 13th, 2025 (linkedin.com), AI Daily News - April 13, 2025: From the Future of Intelligence to the ... (linkedin.com)
+- 'Source': AI News Highlights for April 13th, 2025 (linkedin.com), AI Daily News - April 13, 0.00:00 +0000
 - 'Summary': Covered April 13, 2025 AI highlights including When Will AI Be Smarter Than Humans Don't Ask Raising a Child in the Age of AI ChatGPT as Your Digital Pen‑Pal Google's New Prompt Engineering Playbook: 10 Key Points on Gemini Investments in Agentic AI Assistants Diversifying Qatar's Economy showing how AI is shaping our future relationships and capabilities.
 - 'File': _posts/2025-04-13-ai-future-parenting-digital-pen-pals-and-prompt-engineering-april-2025.md
 
@@ -244,5 +244,18 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - 'Date': 2025-04-14
 - 'Title': How AI Agents Got a Memory Boost and Voice AI Levelled Up While AI Cartoons Stunned in April 2025
 - 'Source': AI News Highlights for April 14th, 2025 (linkedin.com), Apr 14 2025 | This Week in AI - enterprisesoftware.blog (enterprisesoftware.blog), breinhardt.substack.com/p/this-week-in-ai-april-14th-2025 (breinhardt.substack.com)
-- 'Summary': Covered April 14, 2025 AI highlights including Llama 4 makes waves Google pushes AI agents forward ChatGPT gets a memory boost Amazon's voice AI levelling up NVIDIA's AI cartoons stunning and Mira Murati's startup gaining momentum showing continued progress in AI agents memory voice AI and creative applications.
+- 'Summary': Covered April 14, 2025 AI highlights including Llama 4 makes waves Google pushes AI agents forwardChatGPT gets a memory boost Amazon's voice AI levelling up NVIDIA's AI cartoons stunning and Mira Murati's startup gaining momentum showing continued progress in AI agents memory voice AI and creative applications.
 - 'File': _posts/2025-04-14-ai-agents-memory-boost-voice-ai-and-cartoons-april-2025.md
+
+## 2025-04-15
+- 'Date': 2025-04-15
+- 'Title': How OpenAI Released New Models and Advanced AI for Dolphin Language and US Supercomputers in April 2025
+- 'Source': AI News Highlights from 15th of April, 2025 (linkedin.com), AI Dispatch: Daily Trend!s and Innovations - April 15, 2025: NVIDIA ... (hipther.com)
+- 'Summary': Covered April 15, 2025 AI highlights including OpenAI released GPT‑4.1/mini/nano (1 M‑token context, June 2024 cutoff); DeepMind unveiled DolphinGemma for dolphin‑language research; Hugging Face bought Pollen Robotics; NVIDIA announced US AI supercomputers in Texas and Arizona; ByteDance’s Seaweed‑7B video model, PixelFlow pixel‑space generation, and InteractVLM 3D reasoning appeared; new tools included GigaTok tokenizer, C3PO MoE optimizer, ThinkLite‑VL low‑data visual reasoner; OpenAI introduced BrowseComp web‑search benchmark; Gemini now generates quizzes in Google Classroom; DeepSeek will open‑source its inference engine; Google’s Agent2Agent protocol went live; Google Cloud highlighted 600+ AI use cases; plus updates to Vertex AI, Figure AI funding talks, and imminent Veo 2 rollout showing continued progress in AI models animal communication robotics and hardware infrastructure.
+- 'File': _posts/2025-04-15-openai-models-dolphin-gemma-and-us-supercomputers-april-2025.md
+
+## 2025-04-16
+- 'Date': 2025-04-16
+- 'Title': How AI Is Enabling Social Feeds Facing Chip Export Restrictions and Advancing Therapeutic Discovery in April 2025
+- 'Source': AI News Highlights for April 16th, 2025 (linkedin.com), AI Dispatch: Daily Trend!s and Innovations - April 16, 2025: Feeding ... (hipther.com)
+- 'Summary': Covered April 16, 2025 AI highlights including OpenAI tested a ChatGPT-driven social feed US blocking Nvidia H20 AI chips to China and Google's TxGemma for therapeutic discovery showing how AI is being integrated into social media facing geopolica
