@@ -36,3 +36,10 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: Google announces 'AI Mode' as a new way to use Search (9to5google.com), Google AI Mode - a new way to search, whatever's on your mind (search.google)
 - **Summary**: Covered Google's March 5, 2025 announcement of AI Mode as an early experiment that lets users ask complex, multi-part questions and receive AI-generated answers powered by a custom Gemini 2.0 model with real-time Knowledge Graph and Shopping Graph data, using a "query fan-out" technique to synthesize information from multiple sources into comprehensive, page-filling responses.
 - **File**: _posts/2025-03-15-google-ai-mode-search.md
+
+## 2025-03-16
+- **Date**: 2025-03-16
+- **Title**: The Rise of AI Nurses: Transforming Healthcare Delivery Amid Human Concerns
+- **Source**: As AI nurses reshape hospital care, human nurses are pushing back (medicalxpress.com), As AI nurses reshape hospital care, human nurses push back | AP News (apnews.com)
+- **Summary**: Covered March 16, 2025 reports on AI nursing assistants like Hippocratic AI's Ana handling patient calls 24/7, monitoring vitals, and flagging emergencies, while discussing hospital benefits (efficiency, staffing solutions) and nursing concerns (alert fatigue, judgment limitations, patient experience).
+- **File**: _posts/2025-03-16-ai-nurses-healthcare.md
