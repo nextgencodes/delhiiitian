@@ -88,14 +88,14 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-23
 - **Date**: 2025-03-23
-- **title**: How DeepSeek's V3 Model Release is Advancing AI Reasoning and Programming
+- **Title**: How DeepSeek's V3 Model Release is Advancing AI Reasoning and Programming
 - **Source**: AI Developments: March 23-29, 2025 (linkedin.com), DeepSeek releases V3 model with improved reasoning and programming (linkedin.com)
 - **Summary**: Covered DeepSeek's March 23, 2025 release of their V3 model showing improved reasoning and programming capabilities continuing the trend of increasingly capable AI models from research labs around the world.
 - **File**: _posts/2025-03-23-deepseek-v3-model-release.md
 
 ## 2025-03-24
 - **Date**: 2025-03-24
-- **Title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
+- **title**: How DeepSeek's V3 Upgrade Shows Rapid Progress in AI Model Development
 - **Source**: AI Daily News March 24 2025: DeepSeek Quietly Releases V3 Upgrade ... (enoumen.substack.com)
 - **Summary**: Covered DeepSeek's March 24, 2025 release of the V3-0324 upgrade showing significant improvements in reasoning and coding abilities demonstrating how quickly AI models are evolving.
 - **File**: _posts/2025-03-24-deepseek-v3-upgrade.md
@@ -111,5 +111,12 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Date**: 2025-03-26
 - **Title**: How DeepMind's Gemini Model Thinking Updates are Enhancing AI Reasoning
 - **Source**: AI Dispatch: Daily Trends and Innovations - March 26, 2025: Featuring ... (hipther.com)
-- **Summary**: Covered Deepmind's March 26, 2025 Gemini Model Thinking updates showing continued progress in AI reasoning capabilities with improved thinking and problem solving abilities.
+- **Summary**: Covered DeepMind's March 26, 2025 Gemini Model Thinking updates showing continued progress in AI reasoning capabilities with improved thinking and problem solving abilities.
 - **File**: _posts/2025-03-26-deepmind-gemini-thinking-updates.md
+
+## 2025-03-27
+- **Date**: 2025-03-27
+- **Title**: How OpenAI's GPT-4o Update Improved Instruction Following
+- **Source**: AI News Highlights for March 27th, 2025 (linkedin.com), ChatGPT‑4o moved to second on the Arena leaderboard, "surpassing GPT‑4.5" (linkedin.com), OpenAI released an updated GPT‑4o for paid users with improved instruction‑following (linkedin.com)
+- **Summary**: Covered OpenAI's March 27, 2025 release of an updated GPT-4o model for paid users showing improved instruction following abilities continuing the trend of ongoing AI model enhancements.
+- **File**: _posts/2025-03-27-openai-gpt-4o-update.md
