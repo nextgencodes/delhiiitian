@@ -50,3 +50,17 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: Google DeepMind CEO Demis Hassabis says that humans have just over 5 ... (fortune.com), Human-level AI will be here in 5 to 10 years, DeepMind CEO says - CNBC (cnbc.com)
 - **Summary**: Covered March 17, 2025 statements by DeepMind CEO Demis Hassabis predicting artificial general intelligence will reach human-level competence in the next five to ten years, discussing the implications for society, workforce, and technological readiness.
 - **File**: _posts/2025-03-17-deepmind-agi-timeline-prediction.md
+
+## 2025-03-18
+- **Date**: 2025-03-18
+- **Title**: Jensen Huang's GTC 2025 Vision: Rebooting the AI Trade for the Next Era
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 18, 2025 | CISO ... (hipther.com)
+- **Summary**: Covered Nvidia CEO Jensen Huang's GTC 2025 keynote where he outlined a vision to "reboot the AI trade" focusing on reasoning models, physical AI/robotics, and sovereign AI as national infrastructure, discussing the implications for AI development, infrastructure, and global competitiveness.
+- **File**: _posts/2025-03-18-nvidia-gtc-ai-vision.md
+
+## 2025-03-19
+- **Date**: 2025-03-19
+- **Title**: How NVIDIA's Personal AI Computers Are Democratizing Access to Cutting-Edge AI
+- **Source**: AI Dispatch: Daily Trends and Innovations - March 19, 2025: Google ... (hipther.com)
+- **Summary**: Covered NVIDIA's March 19, 2025 release of DGX Spark and DGX Station personal AI computers, discussing how these systems bring data center-level AI capabilities to individual developers and researchers, democratizing access to cutting-edge AI development beyond big tech corporations and well-funded institutions.
+- **File**: _posts/2025-03-19-personal-ai-computers-democratizing-ai.md
