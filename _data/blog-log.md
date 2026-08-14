@@ -1,6 +1,6 @@
-## 2025-04-27
-- **Date**: 2025-04-27
-- **Title**: How AI Is Advancing in Welfare Programs Native Browsers and Opt-Out Indicators in April 2025
-- **Source**: This Week in AI - Week of April 27, 2025 (substack.com)
-- **Summary**: Covered April 27, 2025 AI highlights including Anthropic launching a Model Welfare program to study AI sentience Perplexity partnering with Motorola to preview its AI-native browser Comet and warning of an intensifying AI browser war Adobe proposing a robots.txt‑styled indicator for images so creators can opt‑out of AI training and a new rigorous benchmark for RAG systems showing continued progress in AI ethics accessibility and creative control.
-- 'File': _posts/2025-04-27-ai-welfare-program-ai-native-browser-and-opt-out-indicators-april-2025.md
+## 2025-04-28
+- **Date**: 2025-04-28
+- **Title**: How AI Is Evolving in Standalone Apps Mode Updates Vibe‑Coding Platforms and Deepfake Laws in April 2025
+- **Source**: AI News Weekly Roundup: April 28 - May 4, 2025 (aisharepro.com)
+- **Summary**: Covered April 28, 2025 AI highlights including Meta unveiling a standalone AI app to rival ChatGPT and saying it wants AI to write half of Meta’s code by next year Google removing the waitlist for its experimental AI Mode in Search adding visual product cards and real‑time inventory data OpenAI’s GPT‑4o update being called “sycophant‑y and annoying” by Sam Altman and facing safety bugs involving minors Apple and Anthropic building a vibe‑coding platform that will integrate Claude Sonnet into a new version of Xcode Microsoft planning to host Elon Musk’s Grok AI on Azure AI Foundry for developers Google’s AMIE AI doctor now being able to “see” medical images boosting diagnostic accuracy in tests analysts warning AI is driving job cuts many of which go unreported as companies use hiring freezes instead of layoffs the UN cautioning that AI‑driven algorithms threaten journalism by shaping what people see and enabling disinformation and Congress passing the “Take It Down” Act requiring removal of nonconsensual deepfakes within 48 hours.
+- 'File': _posts/2025-04-28-standalone-ai-app-ai-mode-update-vibe-coding-platform-and-deepfake-law-april-2025.md
