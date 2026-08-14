@@ -60,8 +60,8 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 
 ## 2025-03-19
 - **Date**: 2025-03-19
-- **Title**: How NVIDIA's Personal AI Computers Are Democratizing Access to Cutting-Edge AI
-- **Source**: AI Dispatch: Daily Trends and Innovations - March 19, 2025: Google ... (hipther.com)
+- **title**: How NVIDIA's Personal AI Computers Are Democratizing Access to Cutting-Edge AI
+- **Source': AI Dispatch: Daily Trends and Innovations - March 19, 2025: Google ... (hipther.com)
 - **Summary**: Covered NVIDIA's March 19, 2025 release of DGX Spark and DGX Station personal AI computers, discussing how these systems bring data center-level AI capabilities to individual developers and researchers, democratizing access to cutting-edge AI development beyond big tech corporations and well-funded institutions.
 - **File**: _posts/2025-03-19-personal-ai-computers-democratizing-ai.md
 
@@ -124,7 +124,7 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 ## 2025-03-28
 - **Date**: 2025-03-28
 - **Title**: How xAI's Acquisition of X and the Stargate Project are Reshaping AI Infrastructure
-- **Source**: AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o’s update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
+- **Source": AI News Highlights for March 28th, 2025 (linkedin.com), xAI acquired X in an all‑stock deal—xAI valued at $80 billion and X at $33 billion (linkedin.com), Gemini 2.5 Pro launched with flair (linkedin.com), GPT-4o’s update rolled out to paid users, sharpening its coding chops and instruction‑following skills (linkedin.com), Stargate project slated for a data center housing up to 400,000 Nvidia AI chips (linkedin.com)
 - **Summary**: Covered xAI's acquisition of X and the announcement of the Stargate AI data center project in March 2025 showing continued investment in AI infrastructure making powerful computing more accessible for research and development.
 - **File**: _posts/2025-03-28-xai-acquires-x-stargate-ai-infrastructure.md
 
@@ -141,3 +141,38 @@ This file tracks blog posts created to avoid duplicates and maintain a record of
 - **Source**: AI Daily News - March 30, 2025: Health Tech, AI Research, Drone ... (linkedin.com), AI News Highlights for March 29th & 30th, 2025 (linkedin.com)
 - **Summary**: Covered March 30, 2025 AI highlights including Apple's healthcare technology preparations AI powered drones tackling wildfires in Germany ChatGPT's resilient comeback after global outage and Alibaba BMW automotive AI partnership showing AI's expanding real world impact across healthcare safety and transportation sectors.
 - **File**: _posts/2025-03-30-ai-in-healthcare-drones-automotive.md
+
+## 2025-03-31
+- **Date**: 2025-03-31
+- **Title**: How AI Model Releases Continued to Accelerate in Late March 2025
+- **Source**: AI News Highlights for March 31st, 2025 (linkedin.com), AI Daily News - March 31, 2025: AI Agents, Biotechnology ... (linkedin.com)
+- **Summary**: Covered March 31, 2025 AI highlights including Reve Image 1.0 DeepSeek V3 ECgMPL cancer detection model GPT-4o Image Generator integrated into ChatGPT Perplexity Answer Tabs Google Gemini 2.5 Qwen QVQ-Max/Qwen2.5-Omni-7B/Qwen2.5-VL-32B-Instruct Ideogram 3.0 and DeepSeek-R1 rivaling Western models at lower costs showing continued progress in image generation reasoning coding medical diagnostics and accessibility.
+- **File**: _posts/2025-03-31-ai-model-releases-continue-march-2025.md
+
+## 2025-04-01
+- **Date**: 2025-04-01
+- **Title**: How OpenAI's First Open Weight Model Since GPT-2 is Changing AI Accessibility
+- **Source**: AI News Highlights for April 1st, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 1, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered April 1, 2025 AI highlights including OpenAI's first open weight model since GPT-2 with no user limits Gemma 3 function calling and GemmaCoder-3-12b efficiency gains Qwen2.5-Omni Thinker-Talker flexibility TogetherCompute 140 TPS on 671B model ChatGPT image gen & voice for all users Runway Gen-4 diorama animation LangGraph computer use agent Figure 03 humanoids at BMW and research on reasoning economy GPT-4 Tutor and AI spending trends showing progress in AI accessibility efficiency and real world applications.
+- **File**: _posts/2025-04-01-open-weights-and-ai-accessibility-april-2025.md
+
+## 2025-04-02
+- **Date**: 2025-04-02
+- **Title**: How the AI Industry Faced Challenges and Debates in Early April 2025
+- **Source**: AI News Highlights for April 2nd, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 2, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered April 2, 2025 AI highlights including AI bubble debate concerns OpenAI allegations of using paywalled O'Reilly books without permission DeepMind allegedly withholding research for Google competitive edge Runway Gen-4 AI video generator automating editing lowering costs boosting creativity and Meta AI research chief departure signaling potential strategic shifts showing the complex challenges and discussions facing the rapidly growing AI industry.
+- **File**: _posts/2025-04-02-ai-bubble-debate-and-industry-challenges-april-2025.md
+
+## 2025-04-03
+- **Date**: 2025-04-03
+- **Title**: How AI Faces Cybersecurity Global Tensions and Hardware Breakthroughs in April 2025
+- **Source**: AI Dispatch: Daily Trends and Innovations - April 3, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered April 3, 2025 AI highlights including DeepMind's study on AI cybersecurity risks Meta's London protests over copyrighted book use in AI training NVIDIA's Blackwell MLPerf Inference performance breakthrough Malaysia's data centers enabling China's AI ambitions and Africa's Cassava Technologies advancing AI in agriculture showing the complex interplay of progress and challenges in AI development.
+- **File**: _posts/2025-04-03-ai-cybersecurity-global-tensions-and-hardware-advances-april-2025.md
+
+## 2025-04-04
+- **Date**: 2025-04-04
+- **Title**: How AI Model Feedback and Collaboration Advances Shaped Early April 2025 Developments
+- **Source**: AI News Highlights from 4th to 7th of April, 2025 (linkedin.com), AI Dispatch: Daily Trends and Innovations - April 4, 2025: Featuring ... (hipther.com)
+- **Summary**: Covered April 4, 2025 AI highlights including Llama 4 suite mixed feedback Gemini 2.5 Pro lagging on benchmarks like Tic-Tac-Toe-Bench DeepSeek-R1 gaining grassroots praise Mistral AI expanding with €100M deal and MCP maturing for LLM applications showing the healthy ecosystem of feedback collaboration and evolving standards in AI development.
+- **File**: _posts/2025-04-04-llama-4-feedback-and-ai-collaboration-advances-april-2025.md
