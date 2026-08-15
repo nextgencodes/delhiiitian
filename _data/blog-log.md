@@ -1,6 +1,6 @@
-## 2025-05-04
-- **Date**: 2025-05-04
-- **Title**: How OpenAI's Sora Video Models and AI Agent Director Are Transforming Visual Storytelling in May 2025
-- **Source**: OpenAI News May 4 2025: AI Industry Updates (reelmind.ai)
-- **Summary**: Covered May 4, 2025 AI highlights including OpenAI's Sora Series video models (Sora Turbo at 120 credits Sora Standard at 100 credits) ReelMind's library of over 101 AI models multi‑image fusion for character consistency and the Nolan AI Agent Director for automated cinematography and narrative guidance showing continued progress in AI‑powered visual content creation and automated filmmaking.
-- 'File': _posts/2025-05-04-openai-sora-video-models-and-ai-agent-director-may-2025.md
+## 2025-05-05
+- **Date**: 2025-05-05
+- **Title**: How AI Coding Assistants Are Evolving Through Apple-Anthropic Partnerships and Transparent Model Updates in May 2025
+- **Source**: AI News Highlights from 5th of May, 2025 (linkedin.com)
+- **Summary**: Covered May 5, 2025 AI highlights including Apple & Anthropic Team Up on AI Coding Assistant Apple integrating Claude Sonnet into Xcode OpenAI Plans Transparent Updates After GPT-4o Sycophancy opt‑in alpha phase and stricter safety reviews promised and Microsoft’s Synthetically Trained Reasoning Model showing strong math/code performance despite limited world knowledge.
+- 'File': _posts/2025-05-05-apple-anthropic-coding-assistant-openai-transparency-microsoft-reasoning-model-may-2025.md
