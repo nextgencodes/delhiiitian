@@ -1674,3 +1674,10 @@
 - **Summary**: January 2026 advances in aviation AI include recent developments in AI applications for aviation, improving efficiency and outcomes.
 - 'File': _posts/2026-01-17-ai-aviation.md
 
+## 2026-01-18
+- **Date**: 2026-01-18
+- **Title**: AI Advances Industry 4.0 in January 2026
+- **Source**: Based on the highlights from 2026-01-18 AI news
+- **Summary**: January 2026 advances in industry 4.0 AI include recent developments in AI applications for industry 4.0, improving efficiency and outcomes.
+- 'File': _posts/2026-01-18-ai-industry-4.0.md
+
