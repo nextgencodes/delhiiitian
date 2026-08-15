@@ -1632,3 +1632,10 @@
 - **Summary**: January 2026 advances in edtech AI include recent developments in AI applications for edtech, improving efficiency and outcomes.
 - 'File': _posts/2026-01-11-ai-edtech.md
 
+## 2026-01-12
+- **Date**: 2026-01-12
+- **Title**: AI Advances Urban Mobility in January 2026
+- **Source**: Based on the highlights from 2026-01-12 AI news
+- **Summary**: January 2026 advances in urban mobility AI include recent developments in AI applications for urban mobility, improving efficiency and outcomes.
+- 'File': _posts/2026-01-12-ai-urban-mobility.md
+
