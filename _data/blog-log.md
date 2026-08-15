@@ -1,6 +1,6 @@
-## 2025-05-20
-- **Date**: 2025-05-20
-- **Title**: How AI Is Evolving Through Mobile Computing Windows Integration Conversational AI Chip Controls Scaling Limitations Global AI Competition Safety Moderation Cost-Efficient Reasoning Prompt Attacks Hugging Face Azure Databricks Neon and OpenAI A-Z Challenge in May 2025
-- **Source**: AI News Highlights from 20th of May, 2025 (linkedin.com)
-- **Summary**: Covered May 20, 2025 AI highlights including NotebookLM Debuts on Android Microsoft Embeds AI Directly into Windows with MCP and AI Foundry Character.AI Adds Memory to Conversations Jensen Huang argued U.S. chip controls have cost Nvidia billions and accelerated China's self-sufficiency How Far Can o3-Style Reasoning Models Scale warns of compute data generalization limits The Five Key Players in China's AI Race Alibaba open-source ByteDance multimodal Stepfun fusion Zhipu agents DeepSeek novel architecture ShieldGemma 2 Vision-Language Moderation from DeepMind Cost-Efficient Reasoning Fine-Tuning for Qwen2.5B SFT+GRPO pipeline on AWS Prompt Attacks Still Undermine LLM Safety Judges Hugging Face Models Go Live in Azure AI Foundry Databricks Acquires Neon to Disrupt the Postgres Market OpenAI's A-Z Challenge Offers $2.5K Prizes Across 26 Categories showing continued progress in AI mobile computing Windows integration conversational AI chip controls scaling limitations global AI competition safety moderation cost-efficient reasoning prompt attacks Hugging Face Azure Databricks Neon and OpenAI A-Z Challenge in May 2025.
-- 'File': _posts/2025-05-20-ai-mobile-windows-conversational-chip-scaling-china-safety-reasoning-prompt-azure-databricks-openai-challenge-may-2025.md
+## 2025-05-22
+- **Date**: 2025-05-22
+- **Title**: How Microsoft Build 2025 Unveiled Autonomous Coding Agents Advanced Data Integration Open Source Copilot and GB200 Supercomputer on Azure in May 2025
+- **Source**: Microsoft Build 2025 unveiled autonomous coding agents advanced data integration tools an open-source Copilot and the largest GB200-based supercomputer hosted on Azure (theaitrack.com)
+- **Summary**: Covered May 22, 2025 AI highlights including Microsoft Build 2025 unveiling autonomous coding agents advanced data integration tools an open-source Copilot and the largest GB200-based supercomputer hosted on Azure showing continued progress in AI development tools data infrastructure and cloud computing.
+- 'File': _posts/2025-05-22-microsoft-build-2025-autonomous-coding-agents-data-integration-open-source-copilot-gb200-supercomputer-azure.md
