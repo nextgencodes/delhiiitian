@@ -1163,3 +1163,10 @@
 - **Summary**: November 2025 advances in urban mobility AI include recent developments in AI applications for urban mobility, improving efficiency and outcomes.
 - 'File': _posts/2025-11-05-ai-urban-mobility.md
 
+## 2025-11-06
+- **Date**: 2025-11-06
+- **Title**: AI Advances Finance in November 2025
+- **Source**: Based on the highlights from 2025-11-06 AI news
+- **Summary**: November 2025 advances in finance AI include recent developments in AI applications for finance, improving efficiency and outcomes.
+- 'File': _posts/2025-11-06-ai-finance.md
+
