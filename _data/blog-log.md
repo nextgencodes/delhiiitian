@@ -2108,3 +2108,10 @@
 - **Summary**: November 2025 advances in edtech AI include recent developments in AI applications for edtech, improving efficiency and outcomes.
 - 'File': _posts/2025-11-04-ai-edtech.md
 
+## 2025-11-05
+- **Date**: 2025-11-05
+- **Title**: AI Advances Urban Mobility in November 2025
+- **Source**: Based on the highlights from 2025-11-05 AI news
+- **Summary**: November 2025 advances in urban mobility AI include recent developments in AI applications for urban mobility, improving efficiency and outcomes.
+- 'File': _posts/2025-11-05-ai-urban-mobility.md
+
