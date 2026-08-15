@@ -1765,3 +1765,10 @@
 - **Summary**: September 2025 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
 - 'File': _posts/2025-09-16-ai-climate.md
 
+## 2025-09-17
+- **Date**: 2025-09-17
+- **Title**: AI Advances Aviation in September 2025
+- **Source**: Based on the highlights from 2025-09-17 AI news
+- **Summary**: September 2025 advances in aviation AI include recent developments in AI applications for aviation, improving efficiency and outcomes.
+- 'File': _posts/2025-09-17-ai-aviation.md
+
