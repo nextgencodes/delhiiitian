@@ -1296,3 +1296,10 @@
 - **Summary**: November 2025 advances in research AI include recent developments in AI applications for research, improving efficiency and outcomes.
 - 'File': _posts/2025-11-24-ai-research.md
 
+## 2025-11-25
+- **Date**: 2025-11-25
+- **Title**: AI Advances Transportation in November 2025
+- **Source**: Based on the highlights from 2025-11-25 AI news
+- **Summary**: November 2025 advances in transportation AI include recent developments in AI applications for transportation, improving efficiency and outcomes.
+- 'File': _posts/2025-11-25-ai-transportation.md
+
