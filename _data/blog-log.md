@@ -1219,3 +1219,10 @@
 - **Summary**: November 2025 advances in space exploration AI include recent developments in AI applications for space exploration, improving efficiency and outcomes.
 - 'File': _posts/2025-11-13-ai-space-exploration.md
 
+## 2025-11-14
+- **Date**: 2025-11-14
+- **Title**: AI Advances Cybersecurity in November 2025
+- **Source**: Based on the highlights from 2025-11-14 AI news
+- **Summary**: November 2025 advances in cybersecurity AI include recent developments in AI applications for cybersecurity, improving efficiency and outcomes.
+- 'File': _posts/2025-11-14-ai-cybersecurity.md
+
