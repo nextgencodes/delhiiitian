@@ -1702,3 +1702,10 @@
 - **Summary**: January 2026 advances in cybersecurity AI include recent developments in AI applications for cybersecurity, improving efficiency and outcomes.
 - 'File': _posts/2026-01-21-ai-cybersecurity.md
 
+## 2026-01-22
+- **Date**: 2026-01-22
+- **Title**: AI Advances Real Estate in January 2026
+- **Source**: Based on the highlights from 2026-01-22 AI news
+- **Summary**: January 2026 advances in real estate AI include recent developments in AI applications for real estate, improving efficiency and outcomes.
+- 'File': _posts/2026-01-22-ai-real-estate.md
+
