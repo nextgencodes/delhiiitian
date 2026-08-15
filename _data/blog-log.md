@@ -1583,3 +1583,10 @@
 - **Summary**: January 2026 advances in research AI include recent developments in AI applications for research, improving efficiency and outcomes.
 - 'File': _posts/2026-01-04-ai-research.md
 
+## 2026-01-05
+- **Date**: 2026-01-05
+- **Title**: AI Advances Transportation in January 2026
+- **Source**: Based on the highlights from 2026-01-05 AI news
+- **Summary**: January 2026 advances in transportation AI include recent developments in AI applications for transportation, improving efficiency and outcomes.
+- 'File': _posts/2026-01-05-ai-transportation.md
+
