@@ -2010,3 +2010,10 @@
 - **Summary**: October 2025 advances in agriculture tech AI include recent developments in AI applications for agriculture tech, improving efficiency and outcomes.
 - 'File': _posts/2025-10-21-ai-agriculture-tech.md
 
+## 2025-10-22
+- **Date**: 2025-10-22
+- **Title**: AI Advances Manufacturing Tech in October 2025
+- **Source**: Based on the highlights from 2025-10-22 AI news
+- **Summary**: October 2025 advances in manufacturing tech AI include recent developments in AI applications for manufacturing tech, improving efficiency and outcomes.
+- 'File': _posts/2025-10-22-ai-manufacturing-tech.md
+
