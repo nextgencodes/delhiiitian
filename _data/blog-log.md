@@ -2045,3 +2045,10 @@
 - **Summary**: October 2025 advances in education AI include recent developments in AI applications for education, improving efficiency and outcomes.
 - 'File': _posts/2025-10-26-ai-education.md
 
+## 2025-10-27
+- **Date**: 2025-10-27
+- **Title**: AI Advances Energy in October 2025
+- **Source**: Based on the highlights from 2025-10-27 AI news
+- **Summary**: October 2025 advances in energy AI include recent developments in AI applications for energy, improving efficiency and outcomes.
+- 'File': _posts/2025-10-27-ai-energy.md
+
