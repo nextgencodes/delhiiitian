@@ -1926,3 +1926,10 @@
 - **Summary**: October 2025 advances in urban mobility AI include recent developments in AI applications for urban mobility, improving efficiency and outcomes.
 - 'File': _posts/2025-10-09-ai-urban-mobility.md
 
+## 2025-10-10
+- **Date**: 2025-10-10
+- **Title**: AI Advances Finance in October 2025
+- **Source**: Based on the highlights from 2025-10-10 AI news
+- **Summary**: October 2025 advances in finance AI include recent developments in AI applications for finance, improving efficiency and outcomes.
+- 'File': _posts/2025-10-10-ai-finance.md
+
