@@ -1303,3 +1303,10 @@
 - **Summary**: November 2025 advances in transportation AI include recent developments in AI applications for transportation, improving efficiency and outcomes.
 - 'File': _posts/2025-11-25-ai-transportation.md
 
+## 2025-11-26
+- **Date**: 2025-11-26
+- **Title**: AI Advances Healthcare in November 2025
+- **Source**: Based on the highlights from 2025-11-26 AI news
+- **Summary**: November 2025 advances in healthcare AI include recent developments in AI applications for healthcare, improving efficiency and outcomes.
+- 'File': _posts/2025-11-26-ai-healthcare.md
+
