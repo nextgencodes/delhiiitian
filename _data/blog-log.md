@@ -1982,3 +1982,10 @@
 - **Summary**: October 2025 advances in space exploration AI include recent developments in AI applications for space exploration, improving efficiency and outcomes.
 - 'File': _posts/2025-10-17-ai-space-exploration.md
 
+## 2025-10-18
+- **Date**: 2025-10-18
+- **Title**: AI Advances Cybersecurity in October 2025
+- **Source**: Based on the highlights from 2025-10-18 AI news
+- **Summary**: October 2025 advances in cybersecurity AI include recent developments in AI applications for cybersecurity, improving efficiency and outcomes.
+- 'File': _posts/2025-10-18-ai-cybersecurity.md
+
