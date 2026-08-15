@@ -1170,3 +1170,10 @@
 - **Summary**: November 2025 advances in finance AI include recent developments in AI applications for finance, improving efficiency and outcomes.
 - 'File': _posts/2025-11-06-ai-finance.md
 
+## 2025-11-07
+- **Date**: 2025-11-07
+- **Title**: AI Advances Public Health in November 2025
+- **Source**: Based on the highlights from 2025-11-07 AI news
+- **Summary**: November 2025 advances in public health AI include recent developments in AI applications for public health, improving efficiency and outcomes.
+- 'File': _posts/2025-11-07-ai-public-health.md
+
