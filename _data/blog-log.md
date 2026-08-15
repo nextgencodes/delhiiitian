@@ -1492,3 +1492,10 @@
 - **Summary**: December 2025 advances in transportation AI include recent developments in AI applications for transportation, improving efficiency and outcomes.
 - 'File': _posts/2025-12-22-ai-transportation.md
 
+## 2025-12-23
+- **Date**: 2025-12-23
+- **Title**: AI Advances Healthcare in December 2025
+- **Source**: Based on the highlights from 2025-12-23 AI news
+- **Summary**: December 2025 advances in healthcare AI include recent developments in AI applications for healthcare, improving efficiency and outcomes.
+- 'File': _posts/2025-12-23-ai-healthcare.md
+
