@@ -1079,3 +1079,10 @@
 - **Summary**: October 2025 advances in sports fitness AI include recent developments in AI applications for sports fitness, improving efficiency and outcomes.
 - 'File': _posts/2025-10-24-ai-sports-fitness.md
 
+## 2025-10-25
+- **Date**: 2025-10-25
+- **Title**: AI Advances Retail Technology in October 2025
+- **Source**: Based on the highlights from 2025-10-25 AI news
+- **Summary**: October 2025 advances in retail technology AI include recent developments in AI applications for retail technology, improving efficiency and outcomes.
+- 'File': _posts/2025-10-25-ai-retail-technology.md
+
