@@ -876,3 +876,10 @@
 - **Summary**: September 2025 advances in manufacturing tech AI include recent developments in AI applications for manufacturing tech, improving efficiency and outcomes.
 - 'File': _posts/2025-09-25-ai-manufacturing-tech.md
 
+## 2025-09-26
+- **Date**: 2025-09-26
+- **Title**: AI Advances Arts Creativity in September 2025
+- **Source**: Based on the highlights from 2025-09-26 AI news
+- **Summary**: September 2025 advances in arts creativity AI include recent developments in AI applications for arts creativity, improving efficiency and outcomes.
+- 'File': _posts/2025-09-26-ai-arts-creativity.md
+
