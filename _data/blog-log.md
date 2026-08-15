@@ -1310,3 +1310,10 @@
 - **Summary**: November 2025 advances in healthcare AI include recent developments in AI applications for healthcare, improving efficiency and outcomes.
 - 'File': _posts/2025-11-26-ai-healthcare.md
 
+## 2025-11-27
+- **Date**: 2025-11-27
+- **Title**: AI Advances Environment in November 2025
+- **Source**: Based on the highlights from 2025-11-27 AI news
+- **Summary**: November 2025 advances in environment AI include recent developments in AI applications for environment, improving efficiency and outcomes.
+- 'File': _posts/2025-11-27-ai-environment.md
+
