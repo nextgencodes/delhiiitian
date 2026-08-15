@@ -1317,3 +1317,10 @@
 - **Summary**: November 2025 advances in environment AI include recent developments in AI applications for environment, improving efficiency and outcomes.
 - 'File': _posts/2025-11-27-ai-environment.md
 
+## 2025-11-28
+- **Date**: 2025-11-28
+- **Title**: AI Advances Government in November 2025
+- **Source**: Based on the highlights from 2025-11-28 AI news
+- **Summary**: November 2025 advances in government AI include recent developments in AI applications for government, improving efficiency and outcomes.
+- 'File': _posts/2025-11-28-ai-government.md
+
