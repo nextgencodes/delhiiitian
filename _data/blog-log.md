@@ -1100,3 +1100,10 @@
 - **Summary**: October 2025 advances in energy AI include recent developments in AI applications for energy, improving efficiency and outcomes.
 - 'File': _posts/2025-10-27-ai-energy.md
 
+## 2025-10-28
+- **Date**: 2025-10-28
+- **Title**: AI Advances Research in October 2025
+- **Source**: Based on the highlights from 2025-10-28 AI news
+- **Summary**: October 2025 advances in research AI include recent developments in AI applications for research, improving efficiency and outcomes.
+- 'File': _posts/2025-10-28-ai-research.md
+
