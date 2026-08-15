@@ -1212,3 +1212,10 @@
 - **Summary**: November 2025 advances in mental health AI include recent developments in AI applications for mental health, improving efficiency and outcomes.
 - 'File': _posts/2025-11-12-ai-mental-health.md
 
+## 2025-11-13
+- **Date**: 2025-11-13
+- **Title**: AI Advances Space Exploration in November 2025
+- **Source**: Based on the highlights from 2025-11-13 AI news
+- **Summary**: November 2025 advances in space exploration AI include recent developments in AI applications for space exploration, improving efficiency and outcomes.
+- 'File': _posts/2025-11-13-ai-space-exploration.md
+
