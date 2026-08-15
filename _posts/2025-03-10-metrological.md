@@ -5,7 +5,7 @@ authors: ashok
 date: 2025-mar-10 10:00:00 +0000
 categories: [Blogging, Tutorial]
 tags: [LLM]
-pin: true
+pin: false
 math: true
 mermaid: true
 render_with_liquid: false

@@ -5,7 +5,7 @@ authors: ashok
 date: 2025-mar-6 18:00:00 +0000
 categories: [Cybersecurity, Virtual Machine]
 tags: [Windows, Vulnerability]
-pin: true
+pin: false
 render_with_liquid: true
 ---
 

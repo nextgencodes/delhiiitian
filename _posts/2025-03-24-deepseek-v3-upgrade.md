@@ -4,7 +4,7 @@ description: DeepSeek released an upgrade to their V3 model on March 24 2025 sho
 authors: ashok
 date: 2025-mar-24 10:00:00 +0000
 categories: [Blogging]
-tags: [DeepSeek V3 Upgrade AI Model]
+tags: [DeepSeek, V3, Upgrade, AI, Model]
 pin: false
 math: false
 mermaid: false

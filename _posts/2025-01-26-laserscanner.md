@@ -6,7 +6,7 @@ authors: ashok
 date: 2025-jan-26 10:00:00 +0000
 categories: [Project, Manufacturing]
 tags: [Laser Scanner, 3D Scanning, NDT]
-pin: true
+pin: false
 ---
 
 ## Ensuring Manufacturing Excellence with AI: My Weld Analytics Solution

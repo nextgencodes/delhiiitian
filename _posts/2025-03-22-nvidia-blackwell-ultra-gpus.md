@@ -4,7 +4,7 @@ description: NVIDIA's March 2025 announcement of Blackwell Ultra GPUs and Rubin 
 authors: ashok
 date: 2025-mar-22 10:00:00 +0000
 categories: [Blogging]
-tags: [NVIDIA Blackwell Ultra AI Hardware]
+tags: [NVIDIA, Blackwell, Ultra, AI, Hardware]
 pin: false
 math: false
 mermaid: false
