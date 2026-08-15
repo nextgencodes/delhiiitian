@@ -1667,3 +1667,10 @@
 - **Summary**: January 2026 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
 - 'File': _posts/2026-01-16-ai-climate.md
 
+## 2026-01-17
+- **Date**: 2026-01-17
+- **Title**: AI Advances Aviation in January 2026
+- **Source**: Based on the highlights from 2026-01-17 AI news
+- **Summary**: January 2026 advances in aviation AI include recent developments in AI applications for aviation, improving efficiency and outcomes.
+- 'File': _posts/2026-01-17-ai-aviation.md
+
