@@ -792,3 +792,10 @@
 - **Summary**: September 2025 advances in finance AI include recent developments in AI applications for finance, improving efficiency and outcomes.
 - 'File': _posts/2025-09-13-ai-finance.md
 
+## 2025-09-14
+- **Date**: 2025-09-14
+- **Title**: AI Advances Public Health in September 2025
+- **Source**: Based on the highlights from 2025-09-14 AI news
+- **Summary**: September 2025 advances in public health AI include recent developments in AI applications for public health, improving efficiency and outcomes.
+- 'File': _posts/2025-09-14-ai-public-health.md
+
