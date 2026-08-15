@@ -1975,3 +1975,10 @@
 - **Summary**: October 2025 advances in mental health AI include recent developments in AI applications for mental health, improving efficiency and outcomes.
 - 'File': _posts/2025-10-16-ai-mental-health.md
 
+## 2025-10-17
+- **Date**: 2025-10-17
+- **Title**: AI Advances Space Exploration in October 2025
+- **Source**: Based on the highlights from 2025-10-17 AI news
+- **Summary**: October 2025 advances in space exploration AI include recent developments in AI applications for space exploration, improving efficiency and outcomes.
+- 'File': _posts/2025-10-17-ai-space-exploration.md
+
