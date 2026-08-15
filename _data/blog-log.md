@@ -1457,3 +1457,10 @@
 - **Summary**: December 2025 advances in sports fitness AI include recent developments in AI applications for sports fitness, improving efficiency and outcomes.
 - 'File': _posts/2025-12-17-ai-sports-fitness.md
 
+## 2025-12-18
+- **Date**: 2025-12-18
+- **Title**: AI Advances Retail Technology in December 2025
+- **Source**: Based on the highlights from 2025-12-18 AI news
+- **Summary**: December 2025 advances in retail technology AI include recent developments in AI applications for retail technology, improving efficiency and outcomes.
+- 'File': _posts/2025-12-18-ai-retail-technology.md
+
