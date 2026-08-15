@@ -1177,3 +1177,10 @@
 - **Summary**: November 2025 advances in public health AI include recent developments in AI applications for public health, improving efficiency and outcomes.
 - 'File': _posts/2025-11-07-ai-public-health.md
 
+## 2025-11-08
+- **Date**: 2025-11-08
+- **Title**: AI Advances Higher Ed in November 2025
+- **Source**: Based on the highlights from 2025-11-08 AI news
+- **Summary**: November 2025 advances in higher ed AI include recent developments in AI applications for higher ed, improving efficiency and outcomes.
+- 'File': _posts/2025-11-08-ai-higher-ed.md
+
