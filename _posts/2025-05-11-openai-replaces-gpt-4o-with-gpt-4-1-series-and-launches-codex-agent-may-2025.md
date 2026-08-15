@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI replace GPT-4o with GPT-4.1 series and launch C
 authors: ashok
 date: 2025-may-11 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI GPT-4.1 series Codex agent]
+tags: [OpenAI, GPT-4.1, series, Codex, agent]
 pin: false
 math: false
 mermaid: false

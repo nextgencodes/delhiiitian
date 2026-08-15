@@ -4,7 +4,7 @@ description: OpenAI released an updated GPT-4o model for paid users in March 202
 authors: ashok
 date: 2025-mar-27 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI GPT-4o Update]
+tags: [OpenAI, GPT-4o, Update]
 pin: false
 math: false
 mermaid: false

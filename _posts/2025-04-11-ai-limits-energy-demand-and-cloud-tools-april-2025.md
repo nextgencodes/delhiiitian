@@ -4,7 +4,7 @@ description: April 2025 saw MIT studies revealing AI limits in judgment and crea
 authors: ashok
 date: 2025-apr-11 10:00:00 +0000
 categories: [Blogging]
-tags: [AI limits judgment creativity energy demand Google Cloud]
+tags: [AI, limits, judgment, creativity, energy, demand, Google, Cloud]
 pin: false
 math: false
 mermaid: false

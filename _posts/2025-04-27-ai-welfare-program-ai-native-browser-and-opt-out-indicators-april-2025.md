@@ -4,7 +4,7 @@ description: April 2025 saw Anthropic launch a Model Welfare program to study AI
 authors: ashok
 date: 2025-apr-27 10:00:00 +0000
 categories: [Blogging]
-tags: [AI welfare program AI native browser opt-out indicators]
+tags: [AI, welfare, program, AI, native, browser, opt-out, indicators]
 pin: false
 math: false
 mermaid: false

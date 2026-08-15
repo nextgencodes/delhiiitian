@@ -4,7 +4,7 @@ description: May 2025 saw growing concerns about AI-generated deepfakes and phis
 authors: ashok
 date: 2025-may-07 10:00:00 +0000
 categories: [Blogging]
-tags: [AI deepfake detection cybersecurity resilience]
+tags: [AI, deepfake, detection, cybersecurity, resilience]
 pin: false
 math: false
 mermaid: false

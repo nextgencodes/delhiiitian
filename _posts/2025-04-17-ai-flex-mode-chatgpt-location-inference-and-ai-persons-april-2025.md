@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI's new Flex mode for cheaper slower API use ex
 authors: ashok
 date: 2025-apr-17 10:00:00 +0000
 categories: [Blogging]
-tags: [AI flexibility ChatGPT location inference AI personas]
+tags: [AI, flexibility, ChatGPT, location, inference, AI, personas]
 pin: false
 math: false
 mermaid: false

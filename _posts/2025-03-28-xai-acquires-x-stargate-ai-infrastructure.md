@@ -4,7 +4,7 @@ description: xAI's acquisition of X and the announcement of the Stargate AI data
 authors: ashok
 date: 2025-mar-28 10:00:00 +0000
 categories: [Blogging]
-tags: [xAI X acquisition Stargate AI infrastructure]
+tags: [xAI, X, acquisition, Stargate, AI, infrastructure]
 pin: false
 math: false
 mermaid: false

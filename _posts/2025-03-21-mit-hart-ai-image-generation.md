@@ -4,7 +4,7 @@ description: MIT researchers introduced HART a new AI image generation approach 
 authors: ashok
 date: 2025-mar-21 10:00:00 +0000
 categories: [Blogging]
-tags: [MIT HART AI Image Generation]
+tags: [MIT, HART, AI, Image, Generation]
 pin: false
 math: false
 mermaid: false

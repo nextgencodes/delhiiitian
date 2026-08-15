@@ -4,7 +4,7 @@ description: April 2025 saw Cohere launch Embed 4 for multimodal search Characte
 authors: ashok
 date: 2025-apr-23 10:00:00 +0000
 categories: [Blogging]
-tags: [AI embedding video multiagent graph transformers legacy agents]
+tags: [AI, embedding, video, multiagent, graph, transformers, legacy, agents]
 pin: false
 math: false
 mermaid: false

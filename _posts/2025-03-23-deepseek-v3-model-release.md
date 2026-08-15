@@ -4,7 +4,7 @@ description: DeepSeek released their V3 model in March 2025 showing improved rea
 authors: ashok
 date: 2025-mar-23 10:00:00 +0000
 categories: [Blogging]
-tags: [DeepSeek V3 AI Model]
+tags: [DeepSeek, V3, AI, Model]
 pin: false
 math: false
 mermaid: false

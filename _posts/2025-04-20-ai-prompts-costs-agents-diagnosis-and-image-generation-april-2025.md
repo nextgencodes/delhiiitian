@@ -4,7 +4,7 @@ description: April 2025 saw warnings about polite prompts to ChatGPT costing mil
 authors: ashok
 date: 2025-apr-20 10:00:00 +0000
 categories: [Blogging]
-tags: [AI prompts costs agents diagnosis image generation]
+tags: [AI, prompts, costs, agents, diagnosis, image, generation]
 pin: false
 math: false
 mermaid: false

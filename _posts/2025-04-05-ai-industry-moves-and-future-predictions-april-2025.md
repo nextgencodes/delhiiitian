@@ -4,7 +4,7 @@ description: April 2025 saw Meta's AI research head departure UK AI law concerns
 authors: ashok
 date: 2025-apr-05 10:00:00 +0000
 categories: [Blogging]
-tags: [AI industry moves Meta OpenAI funding AI thinking]
+tags: [AI, industry, moves, Meta, OpenAI, funding, AI, thinking]
 pin: false
 math: false
 mermaid: false

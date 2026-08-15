@@ -4,7 +4,7 @@ description: April 2025 saw Microsoft AI CEO Mustafa Suleyman urging young peopl
 authors: ashok
 date: 2025-apr-12 10:00:00 +0000
 categories: [Blogging]
-tags: [AI symbiotic relationships Google Maps Imagery Insights Netflix AI search]
+tags: [AI, symbiotic, relationships, Google, Maps, Imagery, Insights, Netflix, AI, search]
 pin: false
 math: false
 mermaid: false

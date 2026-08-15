@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI release GPT-5 agent framework for autonomous A
 authors: ashok
 date: 2025-jun-08 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI GPT-5 Agents Anthropic Claude Agents Google Gemini Agents Microsoft AI Agents Hugging Face Agents NVIDIA AI Agents AMD AI Agents Metaverse AI Agents Apple AI Agents]
+tags: [OpenAI, GPT-5, Agents, Anthropic, Claude, Agents, Google, Gemini, Agents, Microsoft, AI, Agents, Hugging, Face, Agents, NVIDIA, AI, Agents, AMD, AI, Agents, Metaverse, AI, Agents, Apple, AI, Agents]
 pin: false
 math: false
 mermaid: false

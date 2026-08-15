@@ -4,7 +4,7 @@ description: May 2025 saw AI quietly integrating into home appliances, personal 
 authors: ashok
 date: 2025-may-03 10:00:00 +0000
 categories: [Blogging]
-tags: [AI home integration health monitoring hardware]
+tags: [AI, home, integration, health, monitoring, hardware]
 pin: false
 math: false
 mermaid: false

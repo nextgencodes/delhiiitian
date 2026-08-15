@@ -4,7 +4,7 @@ description: May 2025 saw Windsurf unveil SWE-1 model family Meta FAIR release o
 authors: ashok
 date: 2025-may-16 10:00:00 +0000
 categories: [Blogging]
-tags: [Windsurf SWE-1 Meta FAIR open datasets Gemini Android Chrome accessibility ChatGPT images LLM agents Psyche Solana BLIP3-O OpenThinkImg FBI deepfake voice Gemini prompt refinement a16z AI dev patterns]
+tags: [Windsurf, SWE-1, Meta, FAIR, open, datasets, Gemini, Android, Chrome, accessibility, ChatGPT, images, LLM, agents, Psyche, Solana, BLIP3-O, OpenThinkImg, FBI, deepfake, voice, Gemini, prompt, refinement, a16z, AI, dev, patterns]
 pin: false
 math: false
 mermaid: false

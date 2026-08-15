@@ -4,7 +4,7 @@ description: April 2025 saw Anthropic's Claude Max tiers Google Cloud partnershi
 authors: ashok
 date: 2025-apr-10 10:00:00 +0000
 categories: [Blogging]
-tags: [Anthropic Claude Max Google Cloud Amazon Q Developer WordPress AI]
+tags: [Anthropic, Claude, Max, Google, Cloud, Amazon, Q, Developer, WordPress, AI]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI release GPT-5Applications API for specialized 
 authors: ashok
 date: 2025-jun-05 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI GPT-5 Applications Anthropic Claude Enterprise Google Gemini Enterprise Microsoft AI for Science Hugging Face Science AI NVIDIA Clara AMD BioStacks Metaverse Healthcare Apple HealthKit AI]
+tags: [OpenAI, GPT-5, Applications, Anthropic, Claude, Enterprise, Google, Gemini, Enterprise, Microsoft, AI, for, Science, Hugging, Face, Science, AI, NVIDIA, Clara, AMD, BioStacks, Metaverse, Healthcare, Apple, HealthKit, AI]
 pin: false
 math: false
 mermaid: false

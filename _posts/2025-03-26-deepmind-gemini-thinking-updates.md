@@ -4,7 +4,7 @@ description: DeepMind announced Gemini Model Thinking updates in March 2025 show
 authors: ashok
 date: 2025-mar-26 10:00:00 +0000
 categories: [Blogging]
-tags: [DeepMind Gemini Thinking Updates]
+tags: [DeepMind, Gemini, Thinking, Updates]
 pin: false
 math: false
 mermaid: false

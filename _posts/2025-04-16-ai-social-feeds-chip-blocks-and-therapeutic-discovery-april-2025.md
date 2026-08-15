@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI testing a ChatGPT-driven social feed US block
 authors: ashok
 date: 2025-apr-16 10:00:00 +0000
 categories: [Blogging]
-tags: [AI social feed chip export therapeutic discovery]
+tags: [AI, social, feed, chip, export, therapeutic, discovery]
 pin: false
 math: false
 mermaid: false

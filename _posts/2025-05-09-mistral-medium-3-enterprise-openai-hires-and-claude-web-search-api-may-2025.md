@@ -4,7 +4,7 @@ description: May 2025 saw Mistral launch Medium 3 for enterprise use OpenAI appo
 authors: ashok
 date: 2025-may-09 10:00:00 +0000
 categories: [Blogging]
-tags: [Mistral Medium 3 OpenAI leadership Claude web search AI agent lifecycle]
+tags: [Mistral, Medium, 3, OpenAI, leadership, Claude, web, search, AI, agent, lifecycle]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: May 2025 saw Anthropic allow AI in 'Why Anthropic?' essays Gartner 
 authors: ashok
 date: 2025-may-23 10:00:00 +0000
 categories: [Blogging]
-tags: [Anthropic AI essay Gartner survey Apple AI Smart Glasses Wix Hour One acquisition China space-based AI supercomputer constellation]
+tags: [Anthropic, AI, essay, Gartner, survey, Apple, AI, Smart, Glasses, Wix, Hour, One, acquisition, China, space-based, AI, supercomputer, constellation]
 pin: false
 math: false
 mermaid: false

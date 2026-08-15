@@ -4,7 +4,7 @@ description: March 31 2025 saw continued AI model innovation with new releases f
 authors: ashok
 date: 2025-mar-31 10:00:00 +0000
 categories: [Blogging]
-tags: [AI model releases March 2025 Reve Image DeepSeek V3 Qwen]
+tags: [AI, model, releases, March, 2025, Reve, Image, DeepSeek, V3, Qwen]
 pin: false
 math: false
 mermaid: false

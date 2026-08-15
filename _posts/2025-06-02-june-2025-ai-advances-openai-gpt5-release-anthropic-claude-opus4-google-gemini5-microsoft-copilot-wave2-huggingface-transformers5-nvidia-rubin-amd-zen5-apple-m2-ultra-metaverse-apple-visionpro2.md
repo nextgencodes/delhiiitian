@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI release GPT-5 with state-of-the-art reasoning 
 authors: ashok
 date: 2025-jun-02 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI GPT-5 Release Anthropic Claude Opus 4 Google Gemini 5 Microsoft Copilot Wave 2 Hugging Face Transformers 5 NVIDIA Rubin AMD Zen5+ Apple M2 Ultra Metaverse Apple Vision Pro 2]
+tags: [OpenAI, GPT-5, Release, Anthropic, Claude, Opus, 4, Google, Gemini, 5, Microsoft, Copilot, Wave, 2, Hugging, Face, Transformers, 5, NVIDIA, Rubin, AMD, Zen5+, Apple, M2, Ultra, Metaverse, Apple, Vision, Pro, 2]
 pin: false
 math: false
 mermaid: false

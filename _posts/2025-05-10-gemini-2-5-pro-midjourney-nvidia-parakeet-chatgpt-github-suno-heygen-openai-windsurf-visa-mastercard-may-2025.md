@@ -4,7 +4,7 @@ description: May 2025 saw Gemini 2.5 Pro enhance code understanding and generati
 authors: ashok
 date: 2025-may-10 10:00:00 +0000
 categories: [Blogging]
-tags: [Gemini 2.5 Pro Midjourney NVIDIA Parakeet ChatGPT GitHub Suno HeyGen OpenAI Windsurf Visa Mastercard]
+tags: [Gemini, 2.5, Pro, Midjourney, NVIDIA, Parakeet, ChatGPT, GitHub, Suno, HeyGen, OpenAI, Windsurf, Visa, Mastercard]
 pin: false
 math: false
 mermaid: false

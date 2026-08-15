@@ -4,7 +4,7 @@ description: March 2025 saw AI developments in healthcare technology wildfire fi
 authors: ashok
 date: 2025-mar-30 10:00:00 +0000
 categories: [Blogging]
-tags: [AI healthcare drones automotive applications]
+tags: [AI, healthcare, drones, automotive, applications]
 pin: false
 math: false
 mermaid: false

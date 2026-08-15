@@ -4,7 +4,7 @@ description: May 2025 saw Google's Gemini 2.5 Pro with Deep Think AI Mode rollin
 authors: ashok
 date: 2025-may-18 10:00:00 +0000
 categories: [Blogging]
-tags: [Gemini 2.5 Pro Deep Think AI Mode NotebookLM Project Aura Microsoft Copilot Multi-Agent NVIDIA AI Factory OpenAI Codex ChatGPT Digital Memory Anthropic Bug Bounty DeepMind AlphaEvolve Emerging AI Shopping Tools]
+tags: [Gemini, 2.5, Pro, Deep, Think, AI, Mode, NotebookLM, Project, Aura, Microsoft, Copilot, Multi-Agent, NVIDIA, AI, Factory, OpenAI, Codex, ChatGPT, Digital, Memory, Anthropic, Bug, Bounty, DeepMind, AlphaEvolve, Emerging, AI, Shopping, Tools]
 pin: false
 math: false
 mermaid: false

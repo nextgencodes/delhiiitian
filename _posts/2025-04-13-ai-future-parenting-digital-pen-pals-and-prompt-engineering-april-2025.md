@@ -4,7 +4,7 @@ description: April 2025 saw discussions about when AI will be smarter than human
 authors: ashok
 date: 2025-apr-13 10:00:00 +0000
 categories: [Blogging]
-tags: [AI future parenting ChatGPT digital pen pal Google Prompt Engineering]
+tags: [AI, future, parenting, ChatGPT, digital, pen, pal, Google, Prompt Engineering]
 pin: false
 math: false
 mermaid: false

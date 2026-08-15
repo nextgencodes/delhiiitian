@@ -4,7 +4,7 @@ description: April 2025 saw mixed feedback on Llama 4 suite progress in DeepSeek
 authors: ashok
 date: 2025-apr-04 10:00:00 +0000
 categories: [Blogging]
-tags: [Llama 4 feedback DeepSeek-R1 Mistral AI MCP LLM applications]
+tags: [Llama, 4, feedback, DeepSeek-R1, Mistral, AI, MCP, LLM, applications]
 pin: false
 math: false
 mermaid: false

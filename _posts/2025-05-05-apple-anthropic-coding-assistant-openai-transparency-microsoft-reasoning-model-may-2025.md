@@ -4,7 +4,7 @@ description: May 2025 saw Apple and Anthropic team up on AI coding assistants Op
 authors: ashok
 date: 2025-may-05 10:00:00 +0000
 categories: [Blogging]
-tags: [Apple Anthropic coding assistant OpenAI transparency Microsoft reasoning model]
+tags: [Apple, Anthropic, coding, assistant, OpenAI, transparency, Microsoft, reasoning, model]
 pin: false
 math: false
 mermaid: false

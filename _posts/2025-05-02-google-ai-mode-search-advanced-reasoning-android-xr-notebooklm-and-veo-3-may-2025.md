@@ -4,7 +4,7 @@ description: May 2025 saw Google announce AI Mode in Search with advanced reason
 authors: ashok
 date: 2025-may-02 10:00:00 +0000
 categories: [Blogging]
-tags: [Google AI Mode Search Android XR NotebookLM Veo 3 video generation]
+tags: [Google, AI, Mode, Search, Android, XR, NotebookLM, Veo, 3, video, generation]
 pin: false
 math: false
 mermaid: false

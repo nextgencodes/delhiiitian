@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 space initiative for lunar and Ma
 authors: ashok
 date: 2025-jun-27 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI GPT-5 Space Anthropic Claude Space Google Gemini Space Microsoft AI Space Hugging Face Space AI NVIDIA AI Space AMD AI Space Metaverse Space Apple AI Space]
+tags: [OpenAI, GPT-5, Space, Anthropic, Claude, Space, Google, Gemini, Space, Microsoft, AI, Space, Hugging, Face, Space, AI, NVIDIA, AI, Space, AMD, AI, Space, Metaverse, Space, Apple, AI, Space]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: Google's March 2025 Pixel 9a launch brings powerful AI capabilities
 authors: ashok
 date: 2025-mar-20 10:00:00 +0000
 categories: [Blogging]
-tags: [Google Pixel Mobile AI]
+tags: [Google, Pixel, Mobile, AI]
 pin: false
 math: false
 mermaid: false

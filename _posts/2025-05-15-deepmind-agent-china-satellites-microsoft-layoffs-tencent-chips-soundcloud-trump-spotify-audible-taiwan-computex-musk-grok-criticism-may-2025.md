@@ -4,7 +4,7 @@ description: May 2025 saw DeepMind reveal an LLM-powered agent for real-world pr
 authors: ashok
 date: 2025-may-15 10:00:00 +0000
 categories: [Blogging]
-tags: [DeepMind agent China satellites Microsoft layoffs Tencent chips SoundCloud Trump Spotify Audible Taiwan Computex Musk Grok criticism]
+tags: [DeepMind, agent, China, satellites, Microsoft, layoffs, Tencent, chips, SoundCloud, Trump, Spotify, Audible, Taiwan, Computex, Musk, Grok, criticism]
 pin: false
 math: false
 mermaid: false
