@@ -4,7 +4,7 @@ description: April 2025 saw Mira Murati's AI startup with ex OpenAI advisors Sna
 authors: ashok
 date: 2025-apr-08 10:00:00 +0000
 categories: [Blogging]
-tags: [Mira, Murati, startup, Snapchat, AI, lenses, Amazon, Nova, Sonic, Google, Cloud, AI2, Alliance]
+tags: [Mira, Murati, startup, Snapchat, AI]
 pin: false
 math: false
 mermaid: false

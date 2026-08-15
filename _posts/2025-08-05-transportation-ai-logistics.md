@@ -4,7 +4,7 @@ description: August 2025 advances in transportation AI include OpenAI's GPT-5 fo
 authors: ashok
 date: 2025-aug-05 10:00:00 +0000
 categories: [Blogging]
-tags: [Transportation, Logistics, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Supply Chain, Mobility]
+tags: [Transportation, Logistics, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: September 2025 advances in higher education AI include OpenAI's GPT
 authors: ashok
 date: 2025-sep-05 10:00:00 +0000
 categories: [Blogging]
-tags: [Education, Technology, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Higher Education, University]
+tags: [Education, Technology, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

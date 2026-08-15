@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI publish GPT-5 research findings on emergent ca
 authors: ashok
 date: 2025-jun-09 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Research, Anthropic, Claude, Research, Google, Gemini, Research, Microsoft, AI, Research, Hugging, Face, Research, NVIDIA, AI, Research, AMD, AI, Research, Metaverse, Research, Apple, AI, Research]
+tags: [OpenAI, GPT-5, Research, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

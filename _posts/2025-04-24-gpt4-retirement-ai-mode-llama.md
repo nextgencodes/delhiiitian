@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI announce the retirement of GPT-4 in ChatGPT a
 authors: ashok
 date: 2025-apr-24 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, retirement, GPT-4, AI, Mode, expansion, Llama, API, preview]
+tags: [AI, retirement, GPT-4, Mode, expansion]
 pin: false
 math: false
 mermaid: false

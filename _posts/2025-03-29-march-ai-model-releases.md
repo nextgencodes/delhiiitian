@@ -4,7 +4,7 @@ description: March 2025 saw multiple new AI model releases including Reve Image 
 authors: ashok
 date: 2025-mar-29 10:00:00 +0000
 categories: [Blogging]
-tags: [Reve, Image, DeepSeek, V3, Google, Gemini, AI, models]
+tags: [Reve, Image, DeepSeek, V3, Google]
 pin: false
 math: false
 mermaid: false

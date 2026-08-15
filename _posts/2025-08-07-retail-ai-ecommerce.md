@@ -4,7 +4,7 @@ description: August 2025 advances in retail AI include OpenAI's GPT-5 for person
 authors: ashok
 date: 2025-aug-07 10:00:00 +0000
 categories: [Blogging]
-tags: [Retail, E-commerce, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Personalization, Inventory]
+tags: [Retail, E-commerce, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 agriculture initiative for precis
 authors: ashok
 date: 2025-jun-18 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Agriculture, Anthropic, Claude, Agriculture, Google, Gemini, Agriculture, Microsoft, AI, Agriculture, Hugging, Face, Agriculture, AI, NVIDIA, AI, Agriculture, AMD, AI, Agriculture, Metaverse, Agriculture, Apple, AI, Agriculture]
+tags: [OpenAI, GPT-5, Agriculture, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

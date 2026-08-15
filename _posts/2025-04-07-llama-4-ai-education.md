@@ -4,7 +4,7 @@ description: April 2025 saw Llama 4 launches with three variations Claude for Ed
 authors: ashok
 date: 2025-apr-07 10:00:00 +0000
 categories: [Blogging]
-tags: [Llama, Claude, for, Education, Microsoft, AI, textures]
+tags: [Llama, Claude, for, Education, Microsoft]
 pin: false
 math: false
 mermaid: false

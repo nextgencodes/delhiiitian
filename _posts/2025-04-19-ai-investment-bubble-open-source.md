@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI launch two new models o3 and o4-mini NVIDIA r
 authors: ashok
 date: 2025-apr-19 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, investment, bubble, brand, risk, open source, tools]
+tags: [AI, investment, bubble, brand, risk]
 pin: false
 math: false
 mermaid: false

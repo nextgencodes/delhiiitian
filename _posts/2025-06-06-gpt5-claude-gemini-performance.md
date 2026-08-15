@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI publish GPT-5 performance benchmarks showing b
 authors: ashok
 date: 2025-jun-06 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Performance, Anthropic, Claude, Performance, Google, Gemini, Performance, Microsoft, AI, Performance, Hugging, Face, Inference, Optimization, NVIDIA, TensorRT-LLM, AMD, Software, Optimizations, Metaverse, Apple, Augmented, Reality]
+tags: [OpenAI, GPT-5, Performance, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

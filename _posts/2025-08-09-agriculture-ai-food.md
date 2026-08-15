@@ -4,7 +4,7 @@ description: August 2025 advances in agricultural AI include OpenAI's GPT-5 for 
 authors: ashok
 date: 2025-aug-09 10:00:00 +0000
 categories: [Blogging]
-tags: [Agriculture, Food, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Precision Farming, Sustainability]
+tags: [Agriculture, Food, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI release Sora Series video models and introduce 
 authors: ashok
 date: 2025-may-04 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, Sora, video, models, AI, agent, director]
+tags: [OpenAI, Sora, video, models, AI]
 pin: false
 math: false
 mermaid: false

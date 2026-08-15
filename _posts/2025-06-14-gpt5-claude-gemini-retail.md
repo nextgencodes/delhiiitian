@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 retail initiative for retail AI a
 authors: ashok
 date: 2025-jun-14 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Retail, Anthropic, Claude, Retail, Google, Gemini, Retail, Microsoft, AI, Retail, Hugging, Face, Retail, AI, NVIDIA, AI, Retail, AMD, AI, Retail, Metaverse, Retail, Apple, AI, Retail]
+tags: [OpenAI, GPT-5, Retail, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

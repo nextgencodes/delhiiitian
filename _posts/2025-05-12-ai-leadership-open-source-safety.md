@@ -4,7 +4,7 @@ description: May 2025 saw Meta name new FAIR head amid leadership shifts OpenAI 
 authors: ashok
 date: 2025-may-12 10:00:00 +0000
 categories: [Blogging]
-tags: [Meta, FAIR, leadership, OpenAI, Microsoft, deal, ChatGPT, GitHub, Blackwell, GPUs, carbon, impact, curl, project, Meta, AssetGen, Flow, GRPO, DeerFlow, Gemini, Pro, outperforms, GPT, MrDeepFakes, shuts, down, SVAD, converts, single, images, into, animatable, 3D, avatars]
+tags: [Meta, FAIR, leadership, OpenAI, Microsoft]
 pin: false
 math: false
 mermaid: false

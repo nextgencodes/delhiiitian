@@ -4,7 +4,7 @@ description: April 2025 saw a tech CEO charged with AI investment fraud Google e
 authors: ashok
 date: 2025-apr-09 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, investment, fraud, standards, values, research, WordPress]
+tags: [AI, investment, fraud, standards, values]
 pin: false
 math: false
 mermaid: false

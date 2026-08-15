@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 finance initiative for financial 
 authors: ashok
 date: 2025-jun-13 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Finance, Anthropic, Claude, Finance, Google, Gemini, Finance, Microsoft, AI, Finance, Hugging, Face, Finance, AI, NVIDIA, AI, Finance, AMD, AI, Finance, Metaverse, Finance, Apple, AI, Finance]
+tags: [OpenAI, GPT-5, Finance, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

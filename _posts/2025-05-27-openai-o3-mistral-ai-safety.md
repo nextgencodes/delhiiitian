@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI publish o3 Safety & Deployment Addendum Mistral
 authors: ashok
 date: 2025-may-27 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, o3 safety, deployment, Mistral enterprise, document AI, Anthropic, Super-Prompt, o3 refusal, AI safety, ICYM2I, FoD, ConvSearch-R1, Anthropic DevCon, Gumloop, MCP, automation, reinforcement fine-tuning]
+tags: [OpenAI, o3 safety, deployment, Mistral enterprise, document AI]
 pin: false
 math: false
 mermaid: false 

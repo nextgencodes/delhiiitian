@@ -4,7 +4,7 @@ description: August 2025 advances in cybersecurity AI include OpenAI's GPT-5 for
 authors: ashok
 date: 2025-aug-17 10:00:00 +0000
 categories: [Blogging]
-tags: [Cybersecurity, Security, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Threat Detection, Vulnerability]
+tags: [Cybersecurity, Security, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: September 2025 advances in space AI include OpenAI's GPT-5 for miss
 authors: ashok
 date: 2025-sep-10 10:00:00 +0000
 categories: [Blogging]
-tags: [Space Exploration, Technology, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Satellites, Space Technology]
+tags: [Space Exploration, Technology, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

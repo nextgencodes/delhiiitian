@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI announce GPT-5 update with improved reasoning a
 authors: ashok
 date: 2025-may-30 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Update, Anthropic, Claude, Opus, Google]
+tags: [OpenAI, GPT-5, Update, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

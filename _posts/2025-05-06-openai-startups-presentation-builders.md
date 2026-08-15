@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI's for-profit division become a Public Benefit C
 authors: ashok
 date: 2025-may-06 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, PBC, Anysphere, funding, Listen, Labs, presentation, builder]
+tags: [OpenAI, PBC, Anysphere, funding, Listen]
 pin: false
 math: false
 mermaid: false

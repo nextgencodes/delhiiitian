@@ -4,7 +4,7 @@ description: April 2025 saw Adobe Firefly evolve to a multimodal mobile-first su
 authors: ashok
 date: 2025-apr-25 10:00:00 +0000
 categories: [Blogging]
-tags: [Adobe, Firefly, Perplexity, Mobile, Anthropic, Welfare, Research, Sim, Agents]
+tags: [Adobe, Firefly, Perplexity, Mobile, Anthropic]
 pin: false
 math: false
 mermaid: false

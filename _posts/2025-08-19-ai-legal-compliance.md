@@ -4,7 +4,7 @@ description: August 2025 advances in legal AI include OpenAI's GPT-5 for contrac
 authors: ashok
 date: 2025-aug-19 10:00:00 +0000
 categories: [Blogging]
-tags: [Legal, Compliance, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Contract Analysis, Research]
+tags: [Legal, Compliance, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

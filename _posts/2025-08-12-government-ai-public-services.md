@@ -4,7 +4,7 @@ description: August 2025 advances in government AI include OpenAI's GPT-5 for po
 authors: ashok
 date: 2025-aug-12 10:00:00 +0000
 categories: [Blogging]
-tags: [Government, Public Services, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Policy Analysis, Public Safety]
+tags: [Government, Public Services, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: September 2025 advances in finance AI include OpenAI's GPT-5 for in
 authors: ashok
 date: 2025-sep-03 10:00:00 +0000
 categories: [Blogging]
-tags: [Finance, Technology, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Investment, Personal Finance]
+tags: [Finance, Technology, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

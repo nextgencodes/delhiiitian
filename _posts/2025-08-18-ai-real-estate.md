@@ -4,7 +4,7 @@ description: August 2025 advances in real estate AI include OpenAI's GPT-5 for p
 authors: ashok
 date: 2025-aug-18 10:00:00 +0000
 categories: [Blogging]
-tags: [Real Estate, Property, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Valuation, Management]
+tags: [Real Estate, Property, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false
