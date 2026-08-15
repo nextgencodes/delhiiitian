@@ -1324,3 +1324,10 @@
 - **Summary**: November 2025 advances in government AI include recent developments in AI applications for government, improving efficiency and outcomes.
 - 'File': _posts/2025-11-28-ai-government.md
 
+## 2025-11-29
+- **Date**: 2025-11-29
+- **Title**: AI Advances Sustainable Manufacturing in November 2025
+- **Source**: Based on the highlights from 2025-11-29 AI news
+- **Summary**: November 2025 advances in sustainable manufacturing AI include recent developments in AI applications for sustainable manufacturing, improving efficiency and outcomes.
+- 'File': _posts/2025-11-29-ai-sustainable-manufacturing.md
+
