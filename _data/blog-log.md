@@ -1,6 +1,6 @@
-## 2025-05-16
-- **Date**: 2025-05-16
-- **Title**: How AI Is Evolving Through Windsurf SWE-1 Models Meta FAIR Open Datasets Gemini Android Chrome Accessibility ChatGPT Images LLM Agents Psyche Solana BLIP3-O OpenThinkImg FBI Deepfake Voice Scams Gemini Prompt Refinement and a16z AI Dev Patterns in May 2025
-- **Source**: AI News Highlights from 16th of May, 2025 (linkedin.com)
-- 'Summary': Covered May 16, 2025 AI highlights including Windsurf Unveils SWE-1 Model Family Meta FAIR Releases Open Datasets for Science and Language Gemini AI Now Enhancing Android and Chrome Accessibility behind‑the‑scenes of ChatGPT Images’ viral launch LLMs as tools/agents/simulators autonomous internet outlook Psyche decentralized training on Solana BLIP3‑o sets new multimodal benchmark OpenThinkIMG combines tools and visual RL FBI warns of deepfake voice scams Gemini automates prompt refinement a16z maps 9 emerging AI dev patterns showing continued progress in AI models datasets accessibility image generation agents simulators decentralized training multimodal benchmark visual RL deepfake detection prompt refinement and development patterns in May 2025.
-- 'File': _posts/2025-05-16-windsurf-swe-1-meta-fair-open-datasets-gemini-android-chrome-accessibility-chatgpt-images-llm-agents-psyche-solana-blip3-o-openthinkimg-fbi-deepfake-voice-gemini-prompt-refinement-a16z-ai-dev-patterns-may-2025.md
+## 2025-05-18
+- **Date**: 2025-05-18
+- **Title**: How AI Is Evolving Through Gemini 2.5 Pro Deep Think AI Mode NVIDIA AI Factory OpenAI Codex ChatGPT Digital Memory Anthropic Bug Bounty DeepMind AlphaEvolve and AI Shopping Tools in May 2025
+- **Source**: Top AI News from May 18th to May 24th, 2025 Groundbreaking ... (linkedin.com)
+- **Summary**: Covered May 18, 2025 AI highlights including Google's Gemini 2.5 Pro with Deep Think AI Mode rolling out to US search NotebookLM mobile and Project Aura smart glasses Microsoft's Copilot multi-agent orchestration and GitHub AI coding agent NVIDIA's AI-factory vision NVLink Fusion and Blackwell DGX systems OpenAI's Codex agent and ChatGPT as digital memory plus Anthropic's bug bounty DeepMind's AlphaEvolve and emerging AI shopping tools showing continued progress in AI models mobile computing multi-agent orchestration AI factories digital memory bug bounties AI evolution and shopping tools in May 2025.
+- 'File': _posts/2025-05-18-gemini-ai-microsoft-nvidia-openai-anthropic-may-2025.md
