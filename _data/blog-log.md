@@ -1800,3 +1800,10 @@
 - **Summary**: September 2025 advances in cybersecurity AI include recent developments in AI applications for cybersecurity, improving efficiency and outcomes.
 - 'File': _posts/2025-09-21-ai-cybersecurity.md
 
+## 2025-09-22
+- **Date**: 2025-09-22
+- **Title**: AI Advances Real Estate in September 2025
+- **Source**: Based on the highlights from 2025-09-22 AI news
+- **Summary**: September 2025 advances in real estate AI include recent developments in AI applications for real estate, improving efficiency and outcomes.
+- 'File': _posts/2025-09-22-ai-real-estate.md
+
