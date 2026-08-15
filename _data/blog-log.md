@@ -1730,3 +1730,10 @@
 - **Summary**: January 2026 advances in manufacturing tech AI include recent developments in AI applications for manufacturing tech, improving efficiency and outcomes.
 - 'File': _posts/2026-01-25-ai-manufacturing-tech.md
 
+## 2025-09-12
+- **Date**: 2025-09-12
+- **Title**: AI Advances Urban Mobility in September 2025
+- **Source**: Based on the highlights from 2025-09-12 AI news
+- **Summary**: September 2025 advances in urban mobility AI include recent developments in AI applications for urban mobility, improving efficiency and outcomes.
+- 'File': _posts/2025-09-12-ai-urban-mobility.md
+
