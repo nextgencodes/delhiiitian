@@ -1191,3 +1191,10 @@
 - **Summary**: November 2025 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
 - 'File': _posts/2025-11-09-ai-climate.md
 
+## 2025-11-10
+- **Date**: 2025-11-10
+- **Title**: AI Advances Aviation in November 2025
+- **Source**: Based on the highlights from 2025-11-10 AI news
+- **Summary**: November 2025 advances in aviation AI include recent developments in AI applications for aviation, improving efficiency and outcomes.
+- 'File': _posts/2025-11-10-ai-aviation.md
+
