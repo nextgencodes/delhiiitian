@@ -1380,3 +1380,10 @@
 - **Summary**: December 2025 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
 - 'File': _posts/2025-12-06-ai-climate.md
 
+## 2025-12-07
+- **Date**: 2025-12-07
+- **Title**: AI Advances Aviation in December 2025
+- **Source**: Based on the highlights from 2025-12-07 AI news
+- **Summary**: December 2025 advances in aviation AI include recent developments in AI applications for aviation, improving efficiency and outcomes.
+- 'File': _posts/2025-12-07-ai-aviation.md
+
