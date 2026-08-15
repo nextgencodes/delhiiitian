@@ -1422,3 +1422,10 @@
 - **Summary**: December 2025 advances in real estate AI include recent developments in AI applications for real estate, improving efficiency and outcomes.
 - 'File': _posts/2025-12-12-ai-real-estate.md
 
+## 2025-12-13
+- **Date**: 2025-12-13
+- **Title**: AI Advances Legal Compliance in December 2025
+- **Source**: Based on the highlights from 2025-12-13 AI news
+- **Summary**: December 2025 advances in legal compliance AI include recent developments in AI applications for legal compliance, improving efficiency and outcomes.
+- 'File': _posts/2025-12-13-ai-legal-compliance.md
+
