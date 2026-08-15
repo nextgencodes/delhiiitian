@@ -5,7 +5,7 @@ authors: ashok
 date: 2025-mar-23 10:00:00 +0000
 categories: [Leetcode, Spiral Matrix]
 tags: [Leetcode]
-pin: true
+pin: false
 ---
 
 ### Introduction

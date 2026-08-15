@@ -7,7 +7,8 @@ categories: [Blogging]
 tags: [OpenAI o3 safety deployment Mistral enterprise document AI Anthropic Super-Prompt o3 refusal AI safety ICYM2I FoD ConvSearch-R1 Anthropic DevCon Gumloop MCP automation reinforcement fine-tuning]
 pin: false
 math: false
-mermaid: false render_with_liquid: false
+mermaid: false 
+render_with_liquid: false
 ---
 
 ## The AI Safety Enterprise Document AI Prompt Engineering Refusal Behavior AI Safety Bias Correction Diffusion Image Generation Query Reformulation DevCon MCP Automation and Reinforcement Fine-Tuning Landscape That Shaped Late May 2025
