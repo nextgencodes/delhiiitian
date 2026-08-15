@@ -4,7 +4,7 @@ description: May 2025 saw Mistral debut multi-agent API with toolchain integrati
 authors: ashok
 date: 2025-may-28 10:00:00 +0000
 categories: [Blogging]
-tags: [Mistral, multi-agent, API, Sign-in, with, ChatGPT, Claude, Voice, Mode, beta, AI-guided, drones, Ukraine, Microsoft, next-gen, OAuth, Liger, Leaner, Scalable, Finetuning, LMEval, open, framework, INTUITOR, uses, LLM, confidence, as, reward, signal, Daily-Omni, audiovisual, Finch, AI, junior, biologist, Anthropic, web, search, tool, supports, Instructor, Meta, splits, AI, into, AI, products, and, AGI, foundations, Ambience, unveils, medical, coding, AI, to, streamline, billing, essay, on, how, AI, memory, enhances, pattern, recognition]
+tags: [Mistral, multi-agent, API]
 pin: false
 math: false
 mermaid: false
