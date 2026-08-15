@@ -1226,3 +1226,10 @@
 - **Summary**: November 2025 advances in cybersecurity AI include recent developments in AI applications for cybersecurity, improving efficiency and outcomes.
 - 'File': _posts/2025-11-14-ai-cybersecurity.md
 
+## 2025-11-15
+- **Date**: 2025-11-15
+- **Title**: AI Advances Real Estate in November 2025
+- **Source**: Based on the highlights from 2025-11-15 AI news
+- **Summary**: November 2025 advances in real estate AI include recent developments in AI applications for real estate, improving efficiency and outcomes.
+- 'File': _posts/2025-11-15-ai-real-estate.md
+
