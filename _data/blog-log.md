@@ -1478,3 +1478,10 @@
 - **Summary**: December 2025 advances in energy AI include recent developments in AI applications for energy, improving efficiency and outcomes.
 - 'File': _posts/2025-12-20-ai-energy.md
 
+## 2025-12-21
+- **Date**: 2025-12-21
+- **Title**: AI Advances Research in December 2025
+- **Source**: Based on the highlights from 2025-12-21 AI news
+- **Summary**: December 2025 advances in research AI include recent developments in AI applications for research, improving efficiency and outcomes.
+- 'File': _posts/2025-12-21-ai-research.md
+
