@@ -4,7 +4,7 @@ description: July 2025 saw OpenAI launch GPT-5 transportation initiative for urb
 authors: ashok
 date: 2025-jul-04 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Transportation, Anthropic, Claude, Transportation, Google, Gemini, Transportation, Microsoft, AI, Transportation, Hugging, Face, Transportation, AI, NVIDIA, AI, Transportation, AMD, AI, Transportation, Metaverse, Transportation, Apple, AI, Transportation]
+tags: [Transportation, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse]
 pin: false
 math: false
 mermaid: false
