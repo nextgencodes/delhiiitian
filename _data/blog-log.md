@@ -1450,3 +1450,10 @@
 - **Summary**: December 2025 advances in arts creativity AI include recent developments in AI applications for arts creativity, improving efficiency and outcomes.
 - 'File': _posts/2025-12-16-ai-arts-creativity.md
 
+## 2025-12-17
+- **Date**: 2025-12-17
+- **Title**: AI Advances Sports Fitness in December 2025
+- **Source**: Based on the highlights from 2025-12-17 AI news
+- **Summary**: December 2025 advances in sports fitness AI include recent developments in AI applications for sports fitness, improving efficiency and outcomes.
+- 'File': _posts/2025-12-17-ai-sports-fitness.md
+
