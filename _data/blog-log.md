@@ -1618,3 +1618,10 @@
 - **Summary**: January 2026 advances in sustainable manufacturing AI include recent developments in AI applications for sustainable manufacturing, improving efficiency and outcomes.
 - 'File': _posts/2026-01-09-ai-sustainable-manufacturing.md
 
+## 2026-01-10
+- **Date**: 2026-01-10
+- **Title**: AI Advances Healthcare Technology in January 2026
+- **Source**: Based on the highlights from 2026-01-10 AI news
+- **Summary**: January 2026 advances in healthcare technology AI include recent developments in AI applications for healthcare technology, improving efficiency and outcomes.
+- 'File': _posts/2026-01-10-ai-healthcare-technology.md
+
