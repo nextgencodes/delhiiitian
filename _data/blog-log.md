@@ -1723,3 +1723,10 @@
 - **Summary**: January 2026 advances in agriculture tech AI include recent developments in AI applications for agriculture tech, improving efficiency and outcomes.
 - 'File': _posts/2026-01-24-ai-agriculture-tech.md
 
+## 2026-01-25
+- **Date**: 2026-01-25
+- **Title**: AI Advances Manufacturing Tech in January 2026
+- **Source**: Based on the highlights from 2026-01-25 AI news
+- **Summary**: January 2026 advances in manufacturing tech AI include recent developments in AI applications for manufacturing tech, improving efficiency and outcomes.
+- 'File': _posts/2026-01-25-ai-manufacturing-tech.md
+
