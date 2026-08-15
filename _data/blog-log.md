@@ -1366,3 +1366,10 @@
 - **Summary**: December 2025 advances in public health AI include recent developments in AI applications for public health, improving efficiency and outcomes.
 - 'File': _posts/2025-12-04-ai-public-health.md
 
+## 2025-12-05
+- **Date**: 2025-12-05
+- **Title**: AI Advances Higher Ed in December 2025
+- **Source**: Based on the highlights from 2025-12-05 AI news
+- **Summary**: December 2025 advances in higher ed AI include recent developments in AI applications for higher ed, improving efficiency and outcomes.
+- 'File': _posts/2025-12-05-ai-higher-ed.md
+
