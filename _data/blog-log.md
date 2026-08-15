@@ -1,6 +1,6 @@
-## 2025-05-22
-- **Date**: 2025-05-22
-- **Title**: How Microsoft Build 2025 Unveiled Autonomous Coding Agents Advanced Data Integration Open Source Copilot and GB200 Supercomputer on Azure in May 2025
-- **Source**: Microsoft Build 2025 unveiled autonomous coding agents advanced data integration tools an open-source Copilot and the largest GB200-based supercomputer hosted on Azure (theaitrack.com)
-- **Summary**: Covered May 22, 2025 AI highlights including Microsoft Build 2025 unveiling autonomous coding agents advanced data integration tools an open-source Copilot and the largest GB200-based supercomputer hosted on Azure showing continued progress in AI development tools data infrastructure and cloud computing.
-- 'File': _posts/2025-05-22-microsoft-build-2025-autonomous-coding-agents-data-integration-open-source-copilot-gb200-supercomputer-azure.md
+## 2025-05-23
+- **Date**: 2025-05-23
+- **Title**: How AI Is Evolving Through Anthropic AI Essay Allowance Gartner Survey Developer Pain Points Apple AI Smart Glasses Wix Hour One Acquisition China Space-Based AI Supercomputer Constellation in May 2025
+- **Source**: AI Daily Newsletter: May 23, 2025 | China AI Supercomputers ... (linkedin.com)
+- 'Summary': Covered May 23, 2025 AI highlights including Anthropic now lets applicants use AI in their “‘Why Anthropic?’ essays” to show prompting and evaluation skills. A Gartner survey found “75 percent of developers view AI integration as a significant or moderate pain point” in building apps. Apple is “Apple Is Reportedly Developing AI Smart Glasses” for a late‑2026 launch with onboard AI chips. Wix “Wix Deepens AI Focus By Acquiring Generative AI Startup” by buying Hour One for scalable video and 3D content. China launched the first nodes of its space‑based AI supercomputer constellation described as “China is building a constellation of AI supercomputers in space” showing continued progress in AI education developer experience wearable technology video content and space-based computing in May 2025.
+- 'File': _posts/2025-05-23-anthropic-ai-essays-gartner-survey-apple-ai-smart-glasses-wix-hour-one-china-space-based-ai-supercomputer-constellation-may-2025.md
