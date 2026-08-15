@@ -1184,3 +1184,10 @@
 - **Summary**: November 2025 advances in higher ed AI include recent developments in AI applications for higher ed, improving efficiency and outcomes.
 - 'File': _posts/2025-11-08-ai-higher-ed.md
 
+## 2025-11-09
+- **Date**: 2025-11-09
+- **Title**: AI Advances Climate in November 2025
+- **Source**: Based on the highlights from 2025-11-09 AI news
+- **Summary**: November 2025 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
+- 'File': _posts/2025-11-09-ai-climate.md
+
