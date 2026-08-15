@@ -2094,3 +2094,10 @@
 - **Summary**: November 2025 advances in sustainable manufacturing AI include recent developments in AI applications for sustainable manufacturing, improving efficiency and outcomes.
 - 'File': _posts/2025-11-02-ai-sustainable-manufacturing.md
 
+## 2025-11-03
+- **Date**: 2025-11-03
+- **Title**: AI Advances Healthcare Technology in November 2025
+- **Source**: Based on the highlights from 2025-11-03 AI news
+- **Summary**: November 2025 advances in healthcare technology AI include recent developments in AI applications for healthcare technology, improving efficiency and outcomes.
+- 'File': _posts/2025-11-03-ai-healthcare-technology.md
+
