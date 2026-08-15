@@ -1569,3 +1569,10 @@
 - **Summary**: January 2026 advances in education AI include recent developments in AI applications for education, improving efficiency and outcomes.
 - 'File': _posts/2026-01-02-ai-education.md
 
+## 2026-01-03
+- **Date**: 2026-01-03
+- **Title**: AI Advances Energy in January 2026
+- **Source**: Based on the highlights from 2026-01-03 AI news
+- **Summary**: January 2026 advances in energy AI include recent developments in AI applications for energy, improving efficiency and outcomes.
+- 'File': _posts/2026-01-03-ai-energy.md
+
