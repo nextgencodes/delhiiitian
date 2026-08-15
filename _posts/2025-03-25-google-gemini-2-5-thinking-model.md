@@ -4,7 +4,7 @@ description: Google announced Gemini 2.5 described as a thinking model in March 
 authors: ashok
 date: 2025-mar-25 10:00:00 +0000
 categories: [Blogging]
-tags: [Google, Gemini, 2.5, Thinking, Model]
+tags: [Google, Gemini, Thinking, Model]
 pin: false
 math: false
 mermaid: false

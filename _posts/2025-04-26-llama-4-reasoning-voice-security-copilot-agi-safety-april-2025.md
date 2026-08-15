@@ -4,7 +4,7 @@ description: April 2025 saw Meta's upcoming Llama 4 with reasoning and voice int
 authors: ashok
 date: 2025-apr-26 10:00:00 +0000
 categories: [Blogging]
-tags: [Llama, 4, reasoning, voice, Security, Copilot, AGI, safety]
+tags: [Llama, reasoning, voice, Security, Copilot, AGI, safety]
 pin: false
 math: false
 mermaid: false

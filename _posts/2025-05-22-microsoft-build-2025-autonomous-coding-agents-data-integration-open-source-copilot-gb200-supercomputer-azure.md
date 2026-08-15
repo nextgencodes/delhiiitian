@@ -4,7 +4,7 @@ description: May 2025 saw Microsoft Build 2025 unveil autonomous coding agents a
 authors: ashok
 date: 2025-may-22 10:00:00 +0000
 categories: [Blogging]
-tags: [Microsoft, Build, 2025, autonomous, coding, agents, data, integration, open source, Copilot, GB200, supercomputer, Azure]
+tags: [Microsoft, Build, autonomous, coding, agents, data, integration, open source, Copilot, GB200, supercomputer, Azure]
 pin: false
 math: false
 mermaid: false
