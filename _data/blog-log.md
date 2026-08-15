@@ -1968,3 +1968,10 @@
 - **Summary**: October 2025 advances in industry 4.0 AI include recent developments in AI applications for industry 4.0, improving efficiency and outcomes.
 - 'File': _posts/2025-10-15-ai-industry-4.0.md
 
+## 2025-10-16
+- **Date**: 2025-10-16
+- **Title**: AI Advances Mental Health in October 2025
+- **Source**: Based on the highlights from 2025-10-16 AI news
+- **Summary**: October 2025 advances in mental health AI include recent developments in AI applications for mental health, improving efficiency and outcomes.
+- 'File': _posts/2025-10-16-ai-mental-health.md
+
