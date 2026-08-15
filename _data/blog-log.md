@@ -1,6 +1,6 @@
-## 2025-05-08
-- **Date**: 2025-05-08
-- **Title**: How AI Is Evolving Through Web Search API Advanced Robotics and Software Development Impact in May 2025
-- **Source**: AI News Highlights from 8th of May, 2025 (linkedin.com)
-- **Summary**: Covered May 8, 2025 AI highlights including Claude gets a web‑search API Amazon shows the touch‑sensitive Vulcan robot Apple may add AI search to Safari Anthropic studies AI’s impact on software development DINOv2 boosts pathology AI O3 tries to beat a GeoGuessr master Google simplifies complex text with little loss LoRA fine‑tuning improves code search IDInit stabilizes neural‑network initialization PyTorch expands as the open AI language Meta’s AI app adds a Discover feed Mastercard deploys AI agents for e‑commerce.
-- 'File': _posts/2025-05-08-ai-web-search-api-robotics-ai-search-and-software-development-impact-may-2025.md
+## 2025-05-09
+- **Date**: 2025-05-09
+- **Title**: How AI Is Evolving Through Enterprise Models Leadership Changes Web Search APIs and Agent Lifecycle Research in May 2025
+- **Source**: AI News Highlights from 9th of May, 2025 (linkedin.com)
+- 'Summary': Covered May 9, 2025 AI highlights including Mistral Medium 3 Unveiled for Enterprise Use OpenAI Appoints Fidji Simo to Lead Applications Division Anthropic Launches Claude Web Search API AI Agents Have a Measurable Half‑Life for Task Success AI’s Dual Role in Cybersecurity Bias in Chatbot Arena Benchmarking Osmosis Platform Powers AI Self‑Improvement New Actor‑Critic RL Algorithm Boosts Sample Efficiency Google & DeepMind Expand Multimodal Diagnostic AI Google’s Implicit Cuts Gemini API Costs AI‑Generated Code Poses Supply Chain Risks Hugging Face Debuts Open Computer Agent Tool showing continued progress in AI enterprise applications leadership web search agents cybersecurity and RL algorithms.
+- 'File': _posts/2025-05-09-mistral-medium-3-enterprise-openai-hires-and-claude-web-search-api-may-2025.md
