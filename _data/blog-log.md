@@ -1506,3 +1506,10 @@
 - **Summary**: December 2025 advances in environment AI include recent developments in AI applications for environment, improving efficiency and outcomes.
 - 'File': _posts/2025-12-24-ai-environment.md
 
+## 2025-12-25
+- **Date**: 2025-12-25
+- **Title**: AI Advances Government in December 2025
+- **Source**: Based on the highlights from 2025-12-25 AI news
+- **Summary**: December 2025 advances in government AI include recent developments in AI applications for government, improving efficiency and outcomes.
+- 'File': _posts/2025-12-25-ai-government.md
+
