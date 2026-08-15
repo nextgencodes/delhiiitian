@@ -1415,3 +1415,10 @@
 - **Summary**: December 2025 advances in cybersecurity AI include recent developments in AI applications for cybersecurity, improving efficiency and outcomes.
 - 'File': _posts/2025-12-11-ai-cybersecurity.md
 
+## 2025-12-12
+- **Date**: 2025-12-12
+- **Title**: AI Advances Real Estate in December 2025
+- **Source**: Based on the highlights from 2025-12-12 AI news
+- **Summary**: December 2025 advances in real estate AI include recent developments in AI applications for real estate, improving efficiency and outcomes.
+- 'File': _posts/2025-12-12-ai-real-estate.md
+
