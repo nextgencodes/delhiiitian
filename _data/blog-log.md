@@ -1464,3 +1464,10 @@
 - **Summary**: December 2025 advances in retail technology AI include recent developments in AI applications for retail technology, improving efficiency and outcomes.
 - 'File': _posts/2025-12-18-ai-retail-technology.md
 
+## 2025-12-19
+- **Date**: 2025-12-19
+- **Title**: AI Advances Education in December 2025
+- **Source**: Based on the highlights from 2025-12-19 AI news
+- **Summary**: December 2025 advances in education AI include recent developments in AI applications for education, improving efficiency and outcomes.
+- 'File': _posts/2025-12-19-ai-education.md
+
