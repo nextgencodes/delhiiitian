@@ -638,3 +638,10 @@
 - **Source**: Based on the highlights from August 22, 2025 AI news
 - **Summary**: Covered August 22, 2025 AI highlights including OpenAI launch GPT-5 retail initiative for personalized product suggestions Anthropic launch Claude inventory management platform for multi-channel stock optimization Google unveil Gemini visual search suite for image-based product discovery Microsoft expand Dynamics 365 AI for Retail with intelligent merchandising and pricing optimization NVIDIA announce Omniverse platform updates for retail space simulation AMD release AMD retail computing solutions for customer analytics workloads Apple announce Shopping AI enhancements for augmented reality try-on and fraud detection Hugging Face launch retail model hub for sharing validated recommendation and visual search AI models showing continued progress in retail AI personalization inventory management and visual search in August 2025.
 - 'File': _posts/2025-08-22-ai-retail-tech.md
+
+## 2025-08-23
+- **Date**: 2025-08-23
+- **Title**: AI Reshapes Education in August 2025
+- **Source**: Based on the highlights from August 23, 2025 AI news
+- **Summary**: Covered August 23, 2025 AI highlights including OpenAI launch GPT-5 education initiative for personalized learning paths Anthropic launch Claude intelligent tutoring system for real-time feedback and guidance Google unveil Gemini collaborative learning suite for team formation and equitable participation Microsoft expand AI for Education with accessibility features and predictive analytics NVIDIA announce Isaac platform updates for educational robotics programming AMD release AMD educational computing solutions for learning analytics platforms Apple announce Classroom AI enhancements for device management and student focus insights Hugging Face launch education model hub for sharing validated personalized learning and intelligent tutoring AI models showing continued progress in education AI personalized learning intelligent tutoring and collaborative learning in August 2025.
+- 'File': _posts/2025-08-23-ai-education.md
