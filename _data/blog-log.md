@@ -1954,3 +1954,10 @@
 - **Summary**: October 2025 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
 - 'File': _posts/2025-10-13-ai-climate.md
 
+## 2025-10-14
+- **Date**: 2025-10-14
+- **Title**: AI Advances Aviation in October 2025
+- **Source**: Based on the highlights from 2025-10-14 AI news
+- **Summary**: October 2025 advances in aviation AI include recent developments in AI applications for aviation, improving efficiency and outcomes.
+- 'File': _posts/2025-10-14-ai-aviation.md
+
