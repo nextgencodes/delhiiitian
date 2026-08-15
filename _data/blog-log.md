@@ -1590,3 +1590,10 @@
 - **Summary**: January 2026 advances in transportation AI include recent developments in AI applications for transportation, improving efficiency and outcomes.
 - 'File': _posts/2026-01-05-ai-transportation.md
 
+## 2026-01-06
+- **Date**: 2026-01-06
+- **Title**: AI Advances Healthcare in January 2026
+- **Source**: Based on the highlights from 2026-01-06 AI news
+- **Summary**: January 2026 advances in healthcare AI include recent developments in AI applications for healthcare, improving efficiency and outcomes.
+- 'File': _posts/2026-01-06-ai-healthcare.md
+
