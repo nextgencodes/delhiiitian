@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 manufacturing initiative for indu
 authors: ashok
 date: 2025-jun-23 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Manufacturing, Anthropic, Claude, Manufacturing, Google, Gemini, Manufacturing, Microsoft, AI, Manufacturing, Hugging, Face, Manufacturing, AI, NVIDIA, AI, Manufacturing, AMD, AI, Manufacturing, Metaverse, Manufacturing, Apple, AI, Manufacturing]
+tags: [OpenAI, GPT-5, Manufacturing, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

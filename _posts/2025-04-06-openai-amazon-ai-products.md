@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI release o3 and o4-mini models Amazon launch N
 authors: ashok
 date: 2025-apr-06 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, o3, o4-mini, Amazon, Nova, Sonic, Canvas, Reel, Netflix, AI]
+tags: [OpenAI, o3, o4-mini, Amazon, Nova]
 pin: false
 math: false
 mermaid: false

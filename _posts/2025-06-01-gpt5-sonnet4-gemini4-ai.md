@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI preview GPT-5 capabilities showing improved re
 authors: ashok
 date: 2025-jun-01 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Preview, Anthropic, Claude, Sonnet, Google, Gemini, Microsoft, AI, Integration, Hugging, Face, Ollama, Partnership, NVIDIA, Blackwell, Architecture, AMD, Zen5, AI, CPU, Metaverse, Standards, WebXR, Apple, Vision, Pro, AI, Apps]
+tags: [OpenAI, GPT-5, Preview, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

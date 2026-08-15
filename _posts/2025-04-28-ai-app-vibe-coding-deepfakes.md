@@ -4,7 +4,7 @@ description: April 2025 saw Meta unveil a standalone AI app to rival ChatGPT Goo
 authors: ashok
 date: 2025-apr-28 10:00:00 +0000
 categories: [Blogging]
-tags: [Standalone, AI, app, AI, Mode, update, vibe‑coding, platform, deepfake, law]
+tags: [Standalone, AI, app, Mode, update]
 pin: false
 math: false
 mermaid: false

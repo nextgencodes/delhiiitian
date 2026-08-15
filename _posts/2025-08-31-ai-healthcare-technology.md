@@ -4,7 +4,7 @@ description: August 2025 advances in healthcare technology AI include OpenAI's G
 authors: ashok
 date: 2025-aug-31 10:00:00 +0000
 categories: [Blogging]
-tags: [Healthcare, Technology, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Medical Devices, Remote Monitoring]
+tags: [Healthcare, Technology, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

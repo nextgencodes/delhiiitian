@@ -4,7 +4,7 @@ description: May 2025 saw NotebookLM debut on Android Microsoft embed AI directl
 authors: ashok
 date: 2025-may-20 10:00:00 +0000
 categories: [Blogging]
-tags: [NotebookLM, Android, Microsoft, AI, Windows, Character.AI, memory, Jensen, Huang, chip, controls, O3, scaling, limits, China, AI, players, ShieldGemma, cost-efficient, reasoning, prompt, attacks, Hugging, Face, Azure, Databricks, Neon, OpenAI, A-Z, challenge]
+tags: [NotebookLM, Android, Microsoft, AI, Windows]
 pin: false
 math: false
 mermaid: false

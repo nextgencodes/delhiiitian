@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI's o3/o4-mini reasoning models hallucinate mor
 authors: ashok
 date: 2025-apr-18 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, hallucination, rates, actor, regrets, J&J, cuts, DeepMind, streams]
+tags: [AI, hallucination, rates, actor, regrets]
 pin: false
 math: false
 mermaid: false

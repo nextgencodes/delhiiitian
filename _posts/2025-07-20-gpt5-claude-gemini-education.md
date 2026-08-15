@@ -4,7 +4,7 @@ description: July 2025 saw OpenAI launch GPT-5 education initiative for virtual 
 authors: ashok
 date: 2025-jul-20 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Education, Anthropic, Claude, Education, Google, Gemini, Education, Microsoft, AI, Education, Hugging, Face, Education, AI, NVIDIA, AI, Education, AMD, AI, Education, Metaverse, Education, Apple, AI, Education]
+tags: [OpenAI, GPT-5, Education, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

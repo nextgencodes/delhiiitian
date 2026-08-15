@@ -4,7 +4,7 @@ description: April 2025 saw discussions about an potential AI bubble allegations
 authors: ashok
 date: 2025-apr-02 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, industry, challenges, AI, bubble, copyright, allegations]
+tags: [AI, industry, challenges, bubble, copyright]
 pin: false
 math: false
 mermaid: false

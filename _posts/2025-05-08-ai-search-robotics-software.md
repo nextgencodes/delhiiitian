@@ -4,7 +4,7 @@ description: May 2025 saw Claude gain a web‑search API Amazon show touch‑sen
 authors: ashok
 date: 2025-may-08 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, web, search, API, robotics, AI, search, software, development, impact]
+tags: [AI, web, search, API, robotics]
 pin: false
 math: false
 mermaid: false

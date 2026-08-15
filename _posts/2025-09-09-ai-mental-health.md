@@ -4,7 +4,7 @@ description: September 2025 advances in mental health AI include OpenAI's GPT-5 
 authors: ashok
 date: 2025-sep-09 10:00:00 +0000
 categories: [Blogging]
-tags: [Mental Health, Technology, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Mental Health, Neurological Disorders]
+tags: [Mental Health, Technology, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

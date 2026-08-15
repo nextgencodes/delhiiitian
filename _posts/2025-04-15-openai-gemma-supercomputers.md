@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI release GPT-4.1/mini/nano models DeepMind unv
 authors: ashok
 date: 2025-apr-15 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-4.1, DolphinGemma, Hugging, Face, NVIDIA, US, supercomputers]
+tags: [OpenAI, GPT-4.1, DolphinGemma, Hugging, Face]
 pin: false
 math: false
 mermaid: false

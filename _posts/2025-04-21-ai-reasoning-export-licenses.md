@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI's o3/o4-mini models show stronger reasoning b
 authors: ashok
 date: 2025-apr-21 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, reasoning, hallucination, dolphin, talking, export, licenses, brand, risk]
+tags: [AI, reasoning, hallucination, dolphin, talking]
 pin: false
 math: false
 mermaid: false

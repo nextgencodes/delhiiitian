@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 tools API for developers Anthropi
 authors: ashok
 date: 2025-jun-04 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Tools, Anthropic, Claude, Code, Google, Gemini, Agent, Microsoft, AI, Platform, Hugging, Face, Agents, SDK, NVIDIA, AI, Enterprise, AMD, AI, Software, Metaverse, Apple, ARC]
+tags: [OpenAI, GPT-5, Tools, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

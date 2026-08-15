@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 energy initiative for smart grids
 authors: ashok
 date: 2025-jun-16 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Energy, Anthropic, Claude, Energy, Google, Gemini, Energy, Microsoft, AI, Energy, Hugging, Face, Energy, AI, NVIDIA, AI, Energy, AMD, AI, Energy, Metaverse, Energy, Apple, AI, Energy]
+tags: [OpenAI, GPT-5, Energy, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

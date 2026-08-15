@@ -4,7 +4,7 @@ description: April 2025 saw DeepMind's AI cybersecurity risks study Meta's Londo
 authors: ashok
 date: 2025-apr-03 10:00:00 +0000
 categories: [Blogging]
-tags: [AI, cybersecurity, global, tensions, hardware, advances]
+tags: [AI, cybersecurity, global, tensions, hardware]
 pin: false
 math: false
 mermaid: false

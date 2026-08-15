@@ -4,7 +4,7 @@ description: April 2025 saw OpenAI release its first open weight model since GPT
 authors: ashok
 date: 2025-apr-01 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, open, weight, model, Gemma, Qwen, AI, accessibility]
+tags: [OpenAI, open, weight, model, Gemma]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: August 2025 saw OpenAI launch GPT-5 education initiative for AI-ass
 authors: ashok
 date: 2025-aug-02 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Education, Anthropic, Claude, Education, Google, Gemini, Education, Microsoft, AI, Education, Hugging, Face, Education, AI, NVIDIA, AI, Education, AMD, AMD, AMD, Metaverse, Apple, AMD, AMD]
+tags: [OpenAI, GPT-5, Education, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

@@ -4,7 +4,7 @@ description: May 2025 saw Google’s AI Mode rolling out to all US users with Ge
 authors: ashok
 date: 2025-may-24 10:00:00 +0000
 categories: [Blogging]
-tags: [Google, AI, Mode, Microsoft, Copilot, NVIDIA, AI, Factory, OpenAI, Codex, Anthropic, Bug, Bounty, DeepMind, AlphaEvolve, xAI, Grok, Prompts, AI, Shopping, Assistants]
+tags: [Google, AI, Mode, Microsoft, Copilot]
 pin: false
 math: false
 mermaid: false

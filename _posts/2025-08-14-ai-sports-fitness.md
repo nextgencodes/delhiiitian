@@ -4,7 +4,7 @@ description: August 2025 advances in sports AI include OpenAI's GPT-5 for perfor
 authors: ashok
 date: 2025-aug-14 10:00:00 +0000
 categories: [Blogging]
-tags: [Sports, Fitness, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Performance Analysis, Training]
+tags: [Sports, Fitness, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false

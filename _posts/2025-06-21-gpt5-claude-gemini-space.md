@@ -4,7 +4,7 @@ description: June 2025 saw OpenAI launch GPT-5 space initiative for space explor
 authors: ashok
 date: 2025-jun-21 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Space, Anthropic, Claude, Space, Google, Gemini, Space, Microsoft, AI, Space, Hugging, Face, Space, AI, NVIDIA, AI, Space, AMD, AI, Space, Metaverse, Space, Apple, AI, Space]
+tags: [OpenAI, GPT-5, Space, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

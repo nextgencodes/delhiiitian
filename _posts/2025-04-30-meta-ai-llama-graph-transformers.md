@@ -4,7 +4,7 @@ description: April 2025 saw Meta launch a standalone AI app preview the Llama AP
 authors: ashok
 date: 2025-apr-30 10:00:00 +0000
 categories: [Blogging]
-tags: [Meta, AI, app, Llama, API, preview, language, equivariance, relational, graph, transformers]
+tags: [Meta, AI, app, Llama, API]
 pin: false
 math: false
 mermaid: false

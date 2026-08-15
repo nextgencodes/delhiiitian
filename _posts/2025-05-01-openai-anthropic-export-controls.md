@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI rollback a GPT-4o update, Anthropic support U.S
 authors: ashok
 date: 2025-may-01 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, rollback, Anthropic, export, controls, Meta, open-source]
+tags: [OpenAI, rollback, Anthropic, export, controls]
 pin: false
 math: false
 mermaid: false

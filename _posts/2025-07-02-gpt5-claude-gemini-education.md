@@ -4,7 +4,7 @@ description: July 2025 saw OpenAI launch GPT-5 education initiative for adaptive
 authors: ashok
 date: 2025-jul-02 10:00:00 +0000
 categories: [Blogging]
-tags: [Education, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse]
+tags: [Education, AI, OpenAI, GPT-5, Anthropic]
 pin: false
 math: false
 mermaid: false

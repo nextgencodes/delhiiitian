@@ -4,7 +4,7 @@ description: May 2025 saw OpenAI release o4 model focused on deep research agent
 authors: ashok
 date: 2025-may-29 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, o4, Deep, Research, Agent, Microsoft, Phi4, Hugging, Face, SmolAgents, Perplexity, Deep, Research, Apple, Foundation, Models, NVIDIA, Dynamo, Intel, Gaudi3, AI, Accelerator]
+tags: [OpenAI, o4, Deep, Research, Agent]
 pin: false
 math: false
 mermaid: false

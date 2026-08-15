@@ -4,7 +4,7 @@ description: July 2025 saw OpenAI launch GPT-5 healthcare initiative for genome 
 authors: ashok
 date: 2025-jul-14 10:00:00 +0000
 categories: [Blogging]
-tags: [OpenAI, GPT-5, Healthcare, Anthropic, Claude, Healthcare, Google, Gemini, Healthcare, Microsoft, AI, Healthcare, Hugging, Face, Healthcare, AI, NVIDIA, AI, Healthcare, AMD, AI, Healthcare, Metaverse, Healthcare, Apple, AI, Healthcare]
+tags: [OpenAI, GPT-5, Healthcare, Anthropic, Claude]
 pin: false
 math: false
 mermaid: false

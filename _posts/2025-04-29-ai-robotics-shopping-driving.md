@@ -4,7 +4,7 @@ description: April 2025 saw Hugging Face launch a robotic arm Anthropic form an 
 authors: ashok
 date: 2025-apr-29 10:00:00 +0000
 categories: [Blogging]
-tags: [Robotic, arm, AI, economic, advisory, council, personalized, shopping, video, driving, models]
+tags: [Robotic, arm, AI, economic, advisory]
 pin: false
 math: false
 mermaid: false

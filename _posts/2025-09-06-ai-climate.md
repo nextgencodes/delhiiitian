@@ -4,7 +4,7 @@ description: September 2025 advances in climate AI include OpenAI's GPT-5 for cl
 authors: ashok
 date: 2025-sep-06 10:00:00 +0000
 categories: [Blogging]
-tags: [Climate, Technology, AI, OpenAI, GPT-5, Anthropic, Claude, Google, Gemini, Microsoft, NVIDIA, AMD, Hugging Face, Apple, Metaverse, Climate Change, Mitigation]
+tags: [Climate, Technology, AI, OpenAI, GPT-5]
 pin: false
 math: false
 mermaid: false
