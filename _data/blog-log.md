@@ -1842,3 +1842,10 @@
 - **Summary**: September 2025 advances in sports fitness AI include recent developments in AI applications for sports fitness, improving efficiency and outcomes.
 - 'File': _posts/2025-09-27-ai-sports-fitness.md
 
+## 2025-09-28
+- **Date**: 2025-09-28
+- **Title**: AI Advances Retail Technology in September 2025
+- **Source**: Based on the highlights from 2025-09-28 AI news
+- **Summary**: September 2025 advances in retail technology AI include recent developments in AI applications for retail technology, improving efficiency and outcomes.
+- 'File': _posts/2025-09-28-ai-retail-technology.md
+
