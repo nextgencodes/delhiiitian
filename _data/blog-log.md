@@ -771,3 +771,10 @@
 - **Source**: Based on the highlights from September 10, 2025 AI news
 - **Summary**: Covered September 10, 2025 AI highlights including OpenAI launch GPT-5 for mission planning and trajectory optimization Anthropic launch Claude for spacecraft autonomy and fault management Google unveil Gemini for satellite data analysis and Earth observation Microsoft expand AI for Space with mission control optimization and astronaut health monitoring NVIDIA announce AI platform updates for space simulation and autonomous navigation AMD release AMD space processing solutions for space data processing and analysis workloads Apple announce Space AI features for space-based data collection and visualization Hugging Face launch space model hub for sharing validated mission planning spacecraft autonomy satellite data analysis and space mission optimization AI models showing continued progress in space AI mission planning spacecraft autonomy satellite data analysis and space mission optimization in September 2025.
 - 'File': _posts/2025-09-10-ai-space-exploration.md
+## 2025-09-11
+- **Date**: 2025-09-11
+- **Title**: AI Advances Edtech in September 2025
+- **Source**: Based on the highlights from 2025-09-11 AI news
+- **Summary**: September 2025 advances in edtech AI include recent developments in AI applications for edtech, improving efficiency and outcomes.
+- 'File': _posts/2025-09-11-ai-edtech.md
+
