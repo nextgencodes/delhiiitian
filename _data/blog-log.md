@@ -1639,3 +1639,10 @@
 - **Summary**: January 2026 advances in urban mobility AI include recent developments in AI applications for urban mobility, improving efficiency and outcomes.
 - 'File': _posts/2026-01-12-ai-urban-mobility.md
 
+## 2026-01-13
+- **Date**: 2026-01-13
+- **Title**: AI Advances Finance in January 2026
+- **Source**: Based on the highlights from 2026-01-13 AI news
+- **Summary**: January 2026 advances in finance AI include recent developments in AI applications for finance, improving efficiency and outcomes.
+- 'File': _posts/2026-01-13-ai-finance.md
+
