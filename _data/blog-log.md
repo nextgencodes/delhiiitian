@@ -1247,3 +1247,10 @@
 - **Summary**: November 2025 advances in agriculture tech AI include recent developments in AI applications for agriculture tech, improving efficiency and outcomes.
 - 'File': _posts/2025-11-17-ai-agriculture-tech.md
 
+## 2025-11-18
+- **Date**: 2025-11-18
+- **Title**: AI Advances Manufacturing Tech in November 2025
+- **Source**: Based on the highlights from 2025-11-18 AI news
+- **Summary**: November 2025 advances in manufacturing tech AI include recent developments in AI applications for manufacturing tech, improving efficiency and outcomes.
+- 'File': _posts/2025-11-18-ai-manufacturing-tech.md
+
