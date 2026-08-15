@@ -960,3 +960,10 @@
 - **Summary**: October 2025 advances in healthcare technology AI include recent developments in AI applications for healthcare technology, improving efficiency and outcomes.
 - 'File': _posts/2025-10-07-ai-healthcare-technology.md
 
+## 2025-10-08
+- **Date**: 2025-10-08
+- **Title**: AI Advances Edtech in October 2025
+- **Source**: Based on the highlights from 2025-10-08 AI news
+- **Summary**: October 2025 advances in edtech AI include recent developments in AI applications for edtech, improving efficiency and outcomes.
+- 'File': _posts/2025-10-08-ai-edtech.md
+
