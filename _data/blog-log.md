@@ -1611,3 +1611,10 @@
 - **Summary**: January 2026 advances in government AI include recent developments in AI applications for government, improving efficiency and outcomes.
 - 'File': _posts/2026-01-08-ai-government.md
 
+## 2026-01-09
+- **Date**: 2026-01-09
+- **Title**: AI Advances Sustainable Manufacturing in January 2026
+- **Source**: Based on the highlights from 2026-01-09 AI news
+- **Summary**: January 2026 advances in sustainable manufacturing AI include recent developments in AI applications for sustainable manufacturing, improving efficiency and outcomes.
+- 'File': _posts/2026-01-09-ai-sustainable-manufacturing.md
+
