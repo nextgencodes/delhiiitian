@@ -1289,3 +1289,10 @@
 - **Summary**: November 2025 advances in energy AI include recent developments in AI applications for energy, improving efficiency and outcomes.
 - 'File': _posts/2025-11-23-ai-energy.md
 
+## 2025-11-24
+- **Date**: 2025-11-24
+- **Title**: AI Advances Research in November 2025
+- **Source**: Based on the highlights from 2025-11-24 AI news
+- **Summary**: November 2025 advances in research AI include recent developments in AI applications for research, improving efficiency and outcomes.
+- 'File': _posts/2025-11-24-ai-research.md
+
