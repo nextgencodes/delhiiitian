@@ -1891,3 +1891,10 @@
 - **Summary**: October 2025 advances in environment AI include recent developments in AI applications for environment, improving efficiency and outcomes.
 - 'File': _posts/2025-10-04-ai-environment.md
 
+## 2025-10-05
+- **Date**: 2025-10-05
+- **Title**: AI Advances Government in October 2025
+- **Source**: Based on the highlights from 2025-10-05 AI news
+- **Summary**: October 2025 advances in government AI include recent developments in AI applications for government, improving efficiency and outcomes.
+- 'File': _posts/2025-10-05-ai-government.md
+
