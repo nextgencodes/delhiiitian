@@ -1,6 +1,6 @@
-## 2025-05-09
-- **Date**: 2025-05-09
-- **Title**: How AI Is Evolving Through Enterprise Models Leadership Changes Web Search APIs and Agent Lifecycle Research in May 2025
-- **Source**: AI News Highlights from 9th of May, 2025 (linkedin.com)
-- 'Summary': Covered May 9, 2025 AI highlights including Mistral Medium 3 Unveiled for Enterprise Use OpenAI Appoints Fidji Simo to Lead Applications Division Anthropic Launches Claude Web Search API AI Agents Have a Measurable Half‑Life for Task Success AI’s Dual Role in Cybersecurity Bias in Chatbot Arena Benchmarking Osmosis Platform Powers AI Self‑Improvement New Actor‑Critic RL Algorithm Boosts Sample Efficiency Google & DeepMind Expand Multimodal Diagnostic AI Google’s Implicit Cuts Gemini API Costs AI‑Generated Code Poses Supply Chain Risks Hugging Face Debuts Open Computer Agent Tool showing continued progress in AI enterprise applications leadership web search agents cybersecurity and RL algorithms.
-- 'File': _posts/2025-05-09-mistral-medium-3-enterprise-openai-hires-and-claude-web-search-api-may-2025.md
+## 2025-05-15
+- **Date**: 2025-05-15
+- **Title**: How AI Is Evolving Through DeepMind Agents, Satellite Constellations, Workforce Shifts, and Global Chip Strategies in May 2025
+- **Source**: Daily AI Updates - 15 May, 2025 (linkedin.com)
+- **Summary**: Covered May 15, 2025 AI highlights including DeepMind reveals an LLM‑powered agent that solves practical, real‑world problems. China launches the first of 2,800 AI‑driven satellites for edge computing in orbit. Microsoft lays off 6,000 employees to re‑allocate resources toward AI investment. Tencent says it stockpiled enough advanced chips to train AI for “generations” despite U.S. export bans. SoundCloud revises its AI music terms after backlash from artists. Former President Trump travels to the UAE to explore AI collaborations amid geopolitical strain. Spotify upgrades its AI DJ to accept user song requests for personalized curation. Audible pilots AI‑generated narrators, igniting debate over the future of voice artists. Taiwan’s Computex 2025 centers on AI, featuring a keynote by NVIDIA’s Jensen Huang. Elon Musk’s Grok AI faces criticism for producing racially insensitive outputs showing continued progress in AI agents space-based computing workforce transformation global chip strategies and ethical challenges in May 2025.
+- 'File': _posts/2025-05-15-deepmind-agent-china-satellites-microsoft-layoffs-tencent-chips-soundcloud-trump-spotify-audible-taiwan-computex-musk-grok-criticism-may-2025.md
