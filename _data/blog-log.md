@@ -1338,3 +1338,10 @@
 - **Summary**: November 2025 advances in healthcare technology AI include recent developments in AI applications for healthcare technology, improving efficiency and outcomes.
 - 'File': _posts/2025-11-30-ai-healthcare-technology.md
 
+## 2025-12-01
+- **Date**: 2025-12-01
+- **Title**: AI Advances Edtech in December 2025
+- **Source**: Based on the highlights from 2025-12-01 AI news
+- **Summary**: December 2025 advances in edtech AI include recent developments in AI applications for edtech, improving efficiency and outcomes.
+- 'File': _posts/2025-12-01-ai-edtech.md
+
