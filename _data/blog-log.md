@@ -1,6 +1,6 @@
-## 2025-05-07
-- **Date**: 2025-05-07
-- **Title**: How AI Is Advancing in Deepfake Detection and Cybersecurity Resilience in Early May 2025
-- **Source**: Based on AI developments on May 7 2025 noting risks from deepfakes and phishing underscore the need for robust detection frameworks and cybersecurity resilience measures
-- 'Summary': Covered May 7, 2025 AI highlights including growing concerns about AI-generated deepfakes and phishing attacks highlighting the need for robust detection frameworks and cybersecurity resilience measures to protect individuals and institutions.
-- 'File': _posts/2025-05-07-ai-deepfake-detection-and-cybersecurity-resilience.md
+## 2025-05-08
+- **Date**: 2025-05-08
+- **Title**: How AI Is Evolving Through Web Search API Advanced Robotics and Software Development Impact in May 2025
+- **Source**: AI News Highlights from 8th of May, 2025 (linkedin.com)
+- **Summary**: Covered May 8, 2025 AI highlights including Claude gets a web‑search API Amazon shows the touch‑sensitive Vulcan robot Apple may add AI search to Safari Anthropic studies AI’s impact on software development DINOv2 boosts pathology AI O3 tries to beat a GeoGuessr master Google simplifies complex text with little loss LoRA fine‑tuning improves code search IDInit stabilizes neural‑network initialization PyTorch expands as the open AI language Meta’s AI app adds a Discover feed Mastercard deploys AI agents for e‑commerce.
+- 'File': _posts/2025-05-08-ai-web-search-api-robotics-ai-search-and-software-development-impact-may-2025.md
