@@ -1660,3 +1660,10 @@
 - **Summary**: January 2026 advances in higher ed AI include recent developments in AI applications for higher ed, improving efficiency and outcomes.
 - 'File': _posts/2026-01-15-ai-higher-ed.md
 
+## 2026-01-16
+- **Date**: 2026-01-16
+- **Title**: AI Advances Climate in January 2026
+- **Source**: Based on the highlights from 2026-01-16 AI news
+- **Summary**: January 2026 advances in climate AI include recent developments in AI applications for climate, improving efficiency and outcomes.
+- 'File': _posts/2026-01-16-ai-climate.md
+
