@@ -1261,3 +1261,10 @@
 - **Summary**: November 2025 advances in arts creativity AI include recent developments in AI applications for arts creativity, improving efficiency and outcomes.
 - 'File': _posts/2025-11-19-ai-arts-creativity.md
 
+## 2025-11-20
+- **Date**: 2025-11-20
+- **Title**: AI Advances Sports Fitness in November 2025
+- **Source**: Based on the highlights from 2025-11-20 AI news
+- **Summary**: November 2025 advances in sports fitness AI include recent developments in AI applications for sports fitness, improving efficiency and outcomes.
+- 'File': _posts/2025-11-20-ai-sports-fitness.md
+
